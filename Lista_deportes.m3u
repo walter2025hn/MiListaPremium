@@ -9,17 +9,17 @@ http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592014.m3u8
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592013.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeWrpzi7HY27AAxpZz_vMVel-b826rh86UGTuYh6WqWPZFWBV19HajJVh&s=10" group-title="D E P O R T E S P R E M I U M",CLARO SPORT
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592034.m3u8
-#EXTINF:-1 group-title="D E P O R T E S P R E M I U M",CLARO SPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6K8uFYRAkLl1NHxqnkn9aPdMt1Xezz-Oi1rQGE3t&s=10" group-title="D E P O R T E S P R E M I U M",CLARO SPORTS 2
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592035.m3u8
-#EXTINF:-1 group-title="D E P O R T E S P R E M I U M",DSPORTS 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbdfnJPjTvWPnkX-bNGSvfZG0llYBnj6nyjuczVduJA&s=10" group-title="D E P O R T E S P R E M I U M",DSPORTS 2
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592038.m3u8
-#EXTINF:-1 group-title="D E P O R T E S P R E M I U M",DSPORTS AR
+#EXTINF:-1 tcg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fvY41sJXw_Vjp--JJ0Z_kfdb0gkODarZj3p9hF-_bg&s=10" group-title="D E P O R T E S P R E M I U M",DSPORTS AR
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592036.m3u8
-#EXTINF:-1 group-title="D E P O R T E S P R E M I U M",DSPORTS CO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RYRtoZfVAQAVQsB_xSbOrBY38C-pNxuiva9KzQydwHpWbckHgjCzzs8U&s=10" group-title="D E P O R T E S P R E M I U M",DSPORTS CO
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592037.m3u8
-#EXTINF:-1 group-title="D E P O R T E S P R E M I U M",DSPORTS+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3x8NLFLOWeLaU8s4qM2FtlSnCjbYys1i0QD6T9_SmXg&s=10" group-title="D E P O R T E S P R E M I U M",DSPORTS+
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/592039.m3u8
-#EXTINF:-1 group-title="D E P O R T E S P R E M I U M",ESPN 1 CH HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTja316uxezGRdr9S7rWIzpts6FspWaqK7YQauOZDrZEg&s" group-title="D E P O R T E S P R E M I U M",ESPN 1 CH HD
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/591977.m3u8
 #EXTINF:-1 group-title="D E P O R T E S P R E M I U M",ESPN 1 CO FHD
 http://todoparatv.site/live/Bonachea2024/C2vBCBvDdb/591976.m3u8
