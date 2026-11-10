@@ -1,5 +1,13 @@
 #EXTM3U
 
+---- SERIES ----
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Merlina" tvg-name="Merlina S01E01" group-title="Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIAWZw4Etd4O7NlVV54Q_r1D4lrF63qSFcSZA2noGdg&s=10",Merlina S01E01
+http://redworld.pro:8880/series/56997763248f/YZqcYbQdQzUh/483852.mp4
+#EXTINF:-1 tvg-id="Merlina" tvg-name="Merlina S01E02" group-title="Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIAWZw4Etd4O7NlVV54Q_r1D4lrF63qSFcSZA2noGdg&s=10",Merlina S01E02
+http://redworld.pro:8880/series/56997763248f/YZqcYbQdQzUh/483853.mp4
+
 ---- PELICULAS ----
 
 #EXTM3U
