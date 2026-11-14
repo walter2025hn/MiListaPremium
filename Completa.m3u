@@ -3,8 +3,8 @@
 ---- CANALES ----
 
 #EXTM3U
-#EXTINF:-1 group-title="CATEGORIA" tvg-logo="URL_DEL_LOGO",NOMBRE VISIBLE
-URL_DEL_STREAMING_DEL_CANAL
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYyiOwOnezYOzSbvpo0roSfvQ5Lqsi2_O6NHkkaEYRw&s=10",CINE HBO HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414468.m3u8
 
 
 ---- SERIES ----
