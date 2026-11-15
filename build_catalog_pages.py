@@ -5,7 +5,7 @@ from pathlib import Path
 
 SOURCE = Path("Completa.m3u")
 OUT = Path("catalog_pages")
-PAGE_SIZE = 50
+PAGE_SIZE = 50  # 50 elementos por solicitud; las categorías se intercalan para llenar cada sección
 URL_RE = re.compile(r"^(https?|rtmp|rtsp|udp)://", re.I)
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 
