@@ -15,9 +15,9 @@ from pathlib import Path
 
 OUTPUT = Path("Completa.m3u")
 REPORT = Path("reporte_enlaces.txt")
-TIMEOUT = 8
+TIMEOUT = 5
 RETRIES = 2
-WORKERS = 16
+WORKERS = 64
 
 def normalize(value: str) -> str:
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
@@ -104,10 +104,16 @@ def main():
     # Check links concurrently. A failed URL is not discarded if it is the only copy.
     urls = list(dict.fromkeys(item["url"] for item in all_entries))
     checks = {}
+    print(f"Comprobando {len(urls)} enlaces únicos con {WORKERS} trabajadores...", flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futures = {pool.submit(check_url, url): url for url in urls}
+        total = len(futures)
+        completed = 0
         for future in concurrent.futures.as_completed(futures):
             checks[futures[future]] = future.result()
+            completed += 1
+            if completed % 100 == 0 or completed == total:
+                print(f"Progreso: {completed}/{total} enlaces comprobados ({completed * 100 // total}%).", flush=True)
 
     # Prefer a reachable duplicate; if all copies fail, retain the first copy.
     groups = {}
@@ -121,8 +127,8 @@ def main():
         if not reachable:
             dead_names.append(chosen["name"])
 
-    # Preserve source order as much as possible.
-    selected.sort(key=lambda x: all_entries.index(x))
+    # Dict insertion order preserves the first-seen order of each title/group.
+    # Avoid all_entries.index() here: its repeated linear scans become O(n^2).
     output_lines = ["#EXTM3U"]
     for item in selected:
         output_lines.extend(item["block"])
