@@ -7,16 +7,16 @@
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414468.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWdtnHkHo0zPNEI-TmMMvJuMcTuhNV7QIl_aHz-d9m1w&s=10",FOX SPORTS MX HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/564189.m3u8
-#EXTINF:-1 group-title="" tvg-logo="",NOMBRE
-URL>COM
-#EXTINF:-1 group-title="" tvg-logo="",NOMBRE
-URL>COM
-#EXTINF:-1 group-title="" tvg-logo="",NOMBRE
-URL>COM
-#EXTINF:-1 group-title="" tvg-logo="",NOMBRE
-URL>COM
-#EXTINF:-1 group-title="" tvg-logo="",NOMBRE
-URL>COM
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvr9HihzPXsHaU6ZXntzX7FqEhMqcU5C2SiopnrJ5q1A&s=10",CINE SONY HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414489.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Fxrb6v45pf_UxDlzkcXu0yLRcHFw_R2wv7Aw06nxyQ&s=10",CINE A&E HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414455.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO3pPzpQjH39vFifr92P1eWpd6fM37guFGNTl-4WcFMA&s=10",CINE AMC HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414505.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsf12X6qv_nsLtgskI3-9Mi-tOitkMilGmWq7c6XhMQ&s=10",CINEMAX HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414457.m3u8
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA31IBe3dprSK1d0dWWQrOsiN5IaKZA1z9P0A8HAyXQg&s=10",CINE CANAL HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/414480.m3u8
 #EXTINF:-1 group-title="" tvg-logo="",NOMBRE
 URL>COM
 #EXTINF:-1 group-title="" tvg-logo="",NOMBRE
