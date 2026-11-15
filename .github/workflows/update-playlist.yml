@@ -1,6 +1,12 @@
 name: Actualizar lista Código Master
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "update_playlist.py"
+      - "maintain_links.py"
+      - ".github/workflows/update-playlist.yml"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -54,7 +60,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Completa.m3u reporte_enlaces.txt verificacion_estado.json catalog_pages/
+          git add Completa.m3u reporte_enlaces.txt verificacion_estado.json reporte_mantenimiento.txt mantenimiento_estado.json catalog_pages/
           if git diff --cached --quiet; then
             echo "No hay cambios que publicar."
           else
