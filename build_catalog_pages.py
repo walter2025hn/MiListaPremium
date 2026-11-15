@@ -7,7 +7,7 @@ SOURCE = Path("Completa.m3u")
 OUT = Path("catalog_pages")
 PAGE_SIZE = 50
 URL_RE = re.compile(r"^(https?|rtmp|rtsp|udp)://", re.I)
-ATTR_RE = re.compile(r'([\\w-]+)="([^"]*)"')
+ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 
 def parse():
     entries, current = [], None
@@ -50,7 +50,7 @@ def main():
         page_no = start // PAGE_SIZE + 1
         name = f"page-{page_no:06d}.json"
         chunk = entries[start:start + PAGE_SIZE]
-        (OUT / name).write_text(json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
+        (OUT / name).write_text(json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     manifest = {
         "schema": 1,
         "source_sha256": digest,
@@ -59,7 +59,7 @@ def main():
         "page_count": page_count,
         "page_pattern": "page-{page:06d}.json"
     }
-    (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
+    (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"Catálogo paginado: {len(entries)} entradas, {page_count} páginas de hasta {PAGE_SIZE}.")
 if __name__ == "__main__":
     main()
