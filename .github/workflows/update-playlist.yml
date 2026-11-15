@@ -27,9 +27,9 @@ jobs:
 
       - name: Combinar y comprobar fuentes autorizadas
         env:
-          M3U_SOURCE_1: \${{ secrets.M3U_SOURCE_1 }}
-          M3U_SOURCE_2: \${{ secrets.M3U_SOURCE_2 }}
-          M3U_SOURCE_3: \${{ secrets.M3U_SOURCE_3 }}
+          M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
+          M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
+          M3U_SOURCE_3: ${{ secrets.M3U_SOURCE_3 }}
         run: python update_playlist.py
 
       - name: Publicar lista y reporte
