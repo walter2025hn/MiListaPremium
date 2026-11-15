@@ -7,10 +7,11 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: actualizar-lista-m3u
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update-playlist:
@@ -25,14 +26,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Combinar y comprobar fuentes autorizadas
+      - name: Combinar y comprobar un lote de 3000 enlaces
         env:
           M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
           M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
           M3U_SOURCE_3: ${{ secrets.M3U_SOURCE_3 }}
         run: python update_playlist.py
 
-      - name: Publicar lista y reporte
+      - name: Publicar lista, reporte y progreso
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -40,6 +43,14 @@ jobs:
           if git diff --cached --quiet; then
             echo "No hay cambios que publicar."
           else
-            git commit -m "Actualizar lista M3U automáticamente"
+            git commit -m "Actualizar lista M3U: lote de 3000 enlaces"
             git push
+          fi
+
+          CURSOR=$(python -c "import json; print(json.load(open('verificacion_estado.json', encoding='utf-8'))['cursor'])")
+          if [ "$CURSOR" -ne 0 ]; then
+            echo "Lote publicado. Se inicia automáticamente el siguiente lote."
+            gh workflow run update-playlist.yml --ref main
+          else
+            echo "Ciclo completo: todos los enlaces únicos han sido revisados."
           fi
