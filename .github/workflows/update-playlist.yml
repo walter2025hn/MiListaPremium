@@ -44,6 +44,9 @@ jobs:
             echo "No hay cambios que publicar."
           else
             git commit -m "Actualizar lista M3U: lote de 3000 enlaces"
+            # Integrate commits added to main after this runner checked out the repo.
+            # This avoids non-fast-forward failures when workflow/code changes land mid-run.
+            git pull --rebase origin main
             git push
           fi
 
