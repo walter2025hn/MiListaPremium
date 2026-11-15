@@ -31,7 +31,9 @@ jobs:
           M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
           M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
           M3U_SOURCE_3: ${{ secrets.M3U_SOURCE_3 }}
-        run: python update_playlist.py
+        run: |
+          python update_playlist.py
+          python build_catalog_pages.py
 
       - name: Publicar lista, reporte y progreso
         env:
@@ -39,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Completa.m3u reporte_enlaces.txt verificacion_estado.json
+          git add Completa.m3u reporte_enlaces.txt verificacion_estado.json catalog_pages/
           if git diff --cached --quiet; then
             echo "No hay cambios que publicar."
           else
