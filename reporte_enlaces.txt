@@ -4,8 +4,8 @@ Entradas finales (sin duplicados): 253171
 URLs únicas totales: 256763
 URLs comprobadas en este lote: 3000
 URLs pendientes de comprobación en esta vuelta: 253763
-Elementos confirmados sin respuesta en sus copias: 2852
-Siguiente posición de revisión: 3001
+Elementos confirmados sin respuesta en sus copias: 2903
+Siguiente posición de revisión: 6001
 
 Entradas por grupo:
 - 24/7: 118
@@ -30,11 +30,11 @@ Entradas por grupo:
 - BRASIL | NOTICIERO: 5
 - BRASIL! | GLOBO: 29
 - CANALES DE SERIE: 23
-- CHILE: 10
-- CIENCIA FICCION: 461
+- CHILE: 9
+- CIENCIA FICCION: 450
 - CINE: 107
 - CINE ARGENTINO/URUGUAYO: 276
-- CINE CANTINFLAS: 6
+- CINE CANTINFLAS: 27
 - CLASICAS 2: 103
 - COLOMBIA: 16
 - CONCIERTOS: 236
@@ -82,7 +82,7 @@ Entradas por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 24
-- ROMANCE: 212
+- ROMANCE: 224
 - SERIE DE DOCUMENTALES: 800
 - SERIES CLÁSICAS: 4448
 - SERIES DE ACCIÓN: 2732
@@ -99,7 +99,7 @@ Entradas por grupo:
 - TERROR 2: 1
 - URUGUAY: 27
 - USA: 183
-- WESTERN: 206
+- WESTERN: 226
 - WESTERN 2: 5
 - XXX ADULTOS: 24
 - ▶️ AUDIO ORIGINAL: 48
@@ -210,15 +210,15 @@ Entradas por grupo:
 - ⭐VOD  SUSPENSO: 187
 - ⭐⭐ CATEGORIA CINE -CULTURA ⭐⭐: 1
 - ⭐⭐ CATEGORIA PAISES ⭐⭐: 1
-- ⭐️ Argentina: 29
+- ⭐️ Argentina: 30
 - ⭐️ Argentina Regionales: 44
-- ⭐️ Bolivia: 39
+- ⭐️ Bolivia: 41
 - ⭐️ Brasil: 52
-- ⭐️ CHILE: 27
+- ⭐️ CHILE: 28
 - ⭐️ CHILE DEPORTE: 14
 - ⭐️ CHILE REGIONALES: 40
 - ⭐️ CINE PREMIUM: 83
-- ⭐️ COSTA RICA: 19
+- ⭐️ COSTA RICA: 22
 - ⭐️ CULTURA: 34
 - ⭐️ Canadá: 87
 - ⭐️ Canales: 20
@@ -244,15 +244,15 @@ Entradas por grupo:
 - ⭐️ LMP Liga ARCO: 7
 - ⭐️ MLS Exclusivo ⭐️: 7
 - ⭐️ Musica: 8
-- ⭐️ México: 62
+- ⭐️ México: 63
 - ⭐️ NFL Exclusivo ⭐️: 17
 - ⭐️ Nicaragua: 9
 - ⭐️ Noticias: 4
-- ⭐️ PERU: 52
-- ⭐️ Panama: 8
+- ⭐️ PERU: 55
+- ⭐️ Panama: 9
 - ⭐️ Paraguay: 14
 - ⭐️ Peliculas 2020: 524
-- ⭐️ Puerto Rico: 4
+- ⭐️ Puerto Rico: 10
 - ⭐️ RADIO PERU: 16
 - ⭐️ RADIOS ARGENTINA: 11
 - ⭐️ RADIOS CHILE: 63
@@ -298,14 +298,14 @@ Entradas por grupo:
 - ⭐️ Usa Entertainment: 23
 - ⭐️ Usa Fox: 48
 - ⭐️ Usa Movies: 39
-- ⭐️ Usa News: 5
-- ⭐️ Venezuela: 25
+- ⭐️ Usa News: 10
+- ⭐️ Venezuela: 26
 - ⭐️Acción: 409
 - ⭐️Anime: 75
 - ⭐️Aventura: 580
-- ⭐️Ciencia Ficción: 130
+- ⭐️Ciencia Ficción: 141
 - ⭐️Cine Audio España: 136
-- ⭐️Cine Cantinflas: 37
+- ⭐️Cine Cantinflas: 16
 - ⭐️Cine Chileno: 90
 - ⭐️Cine Clásicos: 120
 - ⭐️Cine retro: 970
@@ -330,7 +330,7 @@ Entradas por grupo:
 - ⭐️Películas 2023: 359
 - ⭐️Películas 2024: 418
 - ⭐️Películas 2025: 315
-- ⭐️Romance: 114
+- ⭐️Romance: 102
 - ⭐️Saga American Pie: 8
 - ⭐️Saga Bad Boys: 4
 - ⭐️Saga Chucky: 8
@@ -357,7 +357,7 @@ Entradas por grupo:
 - ⭐️Saga Una Pareja Explosiva: 3
 - ⭐️Terror: 316
 - ⭐️Variadas: 562
-- ⭐️Western: 106
+- ⭐️Western: 86
 - ⭕  UNIMAS: 10
 - ⭕ Casa de los Famosos All-Stars ⭕: 3
 - ⭕ GALAVISION PREMIUM: 3
@@ -365,34 +365,34 @@ Entradas por grupo:
 - ⭕ TELENOVELA: 11
 - ⭕ UNIVISION PREMIUM: 17
 - 🆚 | EVENTOS NETFLIX Y DISNEY: 3
-- 🇦🇷 | ARGENTINA: 33
-- 🇧🇴 | BOLIVIA: 36
+- 🇦🇷 | ARGENTINA: 32
+- 🇧🇴 | BOLIVIA: 34
 - 🇨🇦 | CANADA: 95
 - 🇨🇱 | CHILE: 43
 - 🇨🇱 | CHILE EN DIRECTO: 344
 - 🇨🇴 |  COLOMBIA: 27
-- 🇨🇷  | COSTA RICA: 56
+- 🇨🇷  | COSTA RICA: 53
 - 🇨🇺 | CUBA: 7
 - 🇨🇿 |  RD DOMINICANA: 20
 - 🇪🇨 | ECUADOR: 34
 - 🇪🇸 | ESPAÑA: 44
 - 🇬🇹 | GUATEMALA: 27
 - 🇭🇳 | HONDURAS: 40
-- 🇲🇽 |  MEXICO: 37
+- 🇲🇽 |  MEXICO: 36
 - 🇳🇮 | NICARAGUA: 15
-- 🇵🇦 |  PANAMA: 18
-- 🇵🇪 |  PERU: 26
-- 🇵🇷 | PUERTO RICO: 14
+- 🇵🇦 |  PANAMA: 17
+- 🇵🇪 |  PERU: 23
+- 🇵🇷 | PUERTO RICO: 8
 - 🇵🇹 PORTUGAL: 410
 - 🇵🇾 | PARAGUAY: 11
 - 🇸🇻 |  EL SALVADOR: 10
 - 🇺🇸 |  KIDS FAMILY: 18
 - 🇺🇸 |  MOVIE NETWORKS: 84
-- 🇺🇸 |  USA  NEWS: 10
+- 🇺🇸 |  USA  NEWS: 5
 - 🇺🇸 |  USA ENT: 158
 - 🇺🇸 |  USA SPORTZ: 84
 - 🇺🇾 | URUGUAY: 17
-- 🇻🇪 | VENEZUELA: 27
+- 🇻🇪 | VENEZUELA: 26
 - 🎬 CULTURA & VIAJES: 32
 - 🎬 TV  | VIX: 9
 - 🎬 |  CULTURA PREMIUM HD: 34
@@ -426,503 +426,503 @@ Entradas por grupo:
 - 🥊 | UFC PREMIUM: 23
 
 Posibles enlaces sin respuesta en copias ya comprobadas (no se eliminan):
-- CL | MEGA HD
-- CL | MEGA SD
-- CL | CHILEVISION HD
-- F0X $PORTS 1 (CHI)
-- F0X $PORTS 2 (CHI)
-- Latino | A3S
-- Latino | AZ CORAZON
-- Latino | Canal 5
-- Latino | Canal De Las Estrellas
-- Latino | TLNovelas
-- TL Novelas Univision
-- RADIO CORAZÓN
-- RADIO BIO BIO (SANTIAGO)
-- RADIO BIO BIO (CONCEPCION)
-- RADIO BIO BIO (TEMUCO)
-- RADIO BIO BIO (OSORNO)
-- RADIO BIO BIO (VALDIVIA)
-- RADIO PUDAHUEL
-- RADIO ARAUCANA (TEMUCO)
-- RADIO COOPERATIVA
-- RADIO ADN
-- RADIO ROCK AND POP
-- PUNTO 7 (VALPARAISO)
-- RADIO FMDOS
-- RADIO LOS 40
-- RADIO POSITIVA
-- RADIO IMAGINA
-- RADIO LA RETRO 80S
-- RADIO ACTIVA
-- RADIO FUTURO
-- RADIO LAS COLINAS (CARAHUE)
-- RADIO ANGEL(CARAHUE)
-- RADIO CAROLINA
-- RADIO DECADA DE LOS 90S
-- RADIO 24/7
-- RADIO LATINA BACHATA
-- RADIO DISNEY
-- RADIO ESTACIÓN RANCHERA
-- RADIO PRENDETE
-- RADIO TROPIKAL RANCHERAS
-- RADIO SABOR A CUMBIA
-- RADIO LA CUMBIA
-- RADIO PLAY FM
-- RADIO SONAR FM
-- RADIO BUENISIMA (PADRE LAS CASAS)
-- RADIO CONCIERTO
-- RADIO PUNTO 7 (VALDIVIA)
-- RADIO PUNTO 7 (PUERTO MONTT)
-- RADIO PICARONA
-- RADIO TROPICAL STEREO
-- RADIO SUPERSOL
-- RADIO FM DE LOS RECUERDOS
-- RADIO VICTORIA FM
-- ROCK & POP ( ARGENTINA )
-- RADIO 40 PRINCIPALES (ARGENTINA)
-- RADIO PLANETA CUMBIA LATINA (ARGENTINA)
-- RADIO RINCON GAUCHO (ARGENTINA)
-- RADIO ROCA FM CLASICOS (ARGENTINA)
-- RADIO CVC LA VOZ (ARGENTINA)
-- RADIO BELGRANO AM650 (ARGENTINA)
-- RADIO SOLO VINILO (ARGENTINA)
-- RADIO LIGHT FM 97.3 (ARGENTINA)
-- RADIO LA POPULAR (ARGENTINA)
-- RADIO SOLO ROCK NACIONAL (ARGENTINA)
-- RADIO RPP LIMA (PERU)
-- RADIO OXIGENO (PERU)
-- RADIO EXITOSA (PERU)
-- RADIO LA INOLVIDABLE (PERU)
-- RADIO OASIS (PERU)
-- RADIO PANAMERICANA (PERU)
-- RADIO RITMO ROMANTICO (PERU)
-- RADIO LA KALLE (PERU)
-- RADIO RADIOMAR (PERU)
-- RADIO NUEVA Q (PERU)
-- RADIO MODA TE MUEVE (PERU)
-- RADIO Z ROCK & POP (PERU)
-- RADIO ONDA CERO (PERU)
-- RADIO MAGICA (PERU)
-- RADIO CUMBIA MIX (PERU)
-- RADIO TOP LATINO (PERU)
-- RADIO UNIVERSO
-- RADIO ROCKIN 80S
-- RADIO CUMBRE
-- D3PØRT3S | $ŠPN-4
-- DEPORTES | $ŠPN PR3MIUM
-- DEPORTES | * $.Š.P.N U
-- DEPORTES | F0X $PORTS 1
-- DEPORTES | F0X $PORTS 2
-- DEPORTES | F0X $PORTS 3
-- DEPORTES | F0X $PORTS PREMIUM
-- DEPORTES | WIN SPORTS +
-- DEPORTES | F1
-- DEPORTES | GOLF CHANNEL
-- DEPORTES | TENNIS CHANEL
-- Deportes | AFIZZIONADOS
-- DEPORTES | TUDN
-- DEPORTES | TUDN XTRA
-- DEPORTES | TVG
-- DEPORTES | TVG 2
-- DEPORTES | TVC Deportes
-- DEPORTES | $ŠPN  NEWS
-- DEPORTES | SPORTV
-- RADIO MÁXIMA EXPERIENCIA
-- TVU Concepción
-- CANAL 9 Bio Bio
-- CANAL 2 San antonio
-- ADN TV
-- ANTOFAGASTA TV
-- VClassicTV Tropical
-- Radio recuerdos retro
-- CL | CHILEVISION SD
-- CL | CANAL 13 SD
-- CL | *TV*N HD
-- CL | *TV*N SD
-- CL | 24 HORAS HD
-- CL | LA RED HD
-- CL | LA RED SD
-- CL | REC TV
-- CL |  ETC TV
-- CDO 2
-- CL | UCV HD
-- Live Cams
-- MILF
-- Big Dick
-- Big Tits
-- Fetish
-- Pornstar
-- Big Ass
-- Interracial
-- Latina
-- POV
-- Blowjob
-- Teen
-- Hardcore
-- Cuckold
-- Threesome
-- Russian
-- Lesbian
-- Rough
-- Gangbang
-- Anal
-- Compilation
-- Brunette
-- Blonde
-- Gay
-- Asian
-- Venus
-- Interracialpass
-- Playboy
-- Hotwifexxx
-- CL | TELETRAK HD
-- CL | 13 TELESERIES
-- CL | 13 CULTURA
-- Latino | RCN Novelas
-- UMAG TV CL
-- UMAG TV 2 CL
-- ITV PATAGONIA
-- Pingüino tv CL
-- Santa Maria TV
-- Private
-- CO | Cable Noticias HD
-- CO | Canal Capital
-- CO | Canal Uno HD
-- CO | CARACOL HD
-- CO | CARACOL OP2
-- CO | CARACOL
-- CO | Caracol Internacional
-- CO | Caracol Internacional HD
-- CO | Caracol Noticias
-- CO | City TV HD
-- CO | El Tiempo
-- CO | NTN24
-- CO | Pasiones HD
-- CO | RCN SD
-- CO | RCN HD
-- CO | RCN Novelas HD
-- CO | Señal Colombia
-- CO | Señal Colombia HD
-- CO | TeleAntioquia
-- CO | TeleAntioquia HD
-- CO | Telecafé
-- CO | Telecafé HD
-- CO | TeleCaribe
-- CO | Telecaribe HD
-- CO | Telemedellin
-- CO | Telemedellin HD
-- CO | Telepacifico
-- CO | La kalle
-- CO | TV AGRO
-- Discovery Channel HD
-- Discovery Channel SD
-- Discovery Home & Health HD
-- Discovery Home & Health SD
-- Discovery Investigation HD
-- DISCOVERY Science
-- DISCOVERY Theater HD
-- DISCOVERY Theater
-- DISCOVERY Turbo HD
-- DISCOVERY World SD
-- DISCOVERY World HD
-- Discovery Familia FHD
-- Discovery Familia HD
-- EL GOURMET
-- HISTORY HD
-- History 2
-- History 2 HD
-- NATIONAL Geographic FHD
-- NAT Geo HD
-- NATGEO WILD HD
-- ANIMAL Planet HD.
-- E! Entretainment FHD
-- E! Entretainment HD
-- CANAL COCINA HD.
-- TLC FHD
-- TLC HD
-- HGTV FHD
-- LIFETIME HD
-- KIDS | BABY FIRST
-- KIDS | BABY TV
-- KIDS | CARTOON NETWORK | OPC2
-- KIDS | CARTOON NETWORK
-- KIDS | CARTOONITO
-- KIDS | DISCOVERY KIDS
-- KIDS | DISNEY CHANNEL
-- KIDS | DISNEY JUNIOR
-- KIDS | NICK
-- KIDS | NICKELODEON
-- KIDS | NICKTOONS
-- CHI | TVN 3
-- 13 REALITIES
-- Radio JPS 107.5 FM (Parral)
-- CL | NTV HD
-- AR | $ŠPN-1
-- AR | [$ŠPN 2]
-- AR | ($ŠPN -3)
-- AR | [$ŠPN) PREMIUM
-- AR | TYC SPORTS
-- AR | FUT SPORTS
-- AR | F0X $PORTS 1
-- AR | F0X $PORTS 2
-- AR | F0X $PORTS 3
-- AR | F0X $PORTS PREMIUM
-- TVC HD
-- TC TELEVISION
-- RTS
-- ECUADOR | ECUAVISA
-- ECUADOR | TELEAMAZONAS HD
-- EC | ECUAVISA HD (GYE)
-- GAMAVISION HD
-- EC | TC TELEVISION HD
-- ECUADOR TV
-- TVC SD
-- EC | RTS SD
-- TELEAMAZONAS SD
-- Radio lado oscuro TV / Cl
-- RADIO PACHANGA DANCE
-- RADIO CARAMELO
-- RADIO SONICA
-- RADIO PUNTO 7 (CONCEPCION)
-- RADIO LA CARIÑOSA
-- RADIO ISIDORA (CHILLAN)
-- RADIO BLU
-- RADIO CARACOL
-- RADIO W
-- RADIO OLIMPIA STEREO MEDELLIN
-- RADIO BESAME
-- RADIO TROPICANA BOGOTA
-- RADIO CANDELA ESTEREO
-- RADIO LOS 40 (COLOMBIA)
-- RADIO ACKTIVA BOGOTA
-- RADIO VIBRA FM
-- RADIO CONEXION56
-- RADIO LA REINA 98.6FM
-- RADIO LA RANCHERA (MONTEREY)
-- RADIO CUMBIAS INMORTALES
-- RADIO LA GRUPERA
-- RADIO CUMBIA MIX
-- RADIO CUMBIA SONIDERA
-- RADIO LA RANCHERA 106.1 FM
-- RADIO QUE VIVA MEXICO
-- RADIO GALLITO 760AM
-- RADIO LATINA EN VIVO 104.5
-- RADIO LA INVASORA 99.7FM
-- RADIO CUMBIA MEXICO
-- RADIO LA RANCHERITA
-- Love Nature HD
-- Love Nature SD (D)
-- SOBERANÍA
-- Boxing Tv SD (D)
-- Garage Tv SD (D)
-- Deportes 13 Tv SD (D)
-- Canela Deportes SD (D)
-- RT en Español SD (D)
-- ECUADOR | PURUWA
-- Just For Laughs Bromas HD (D)
-- Inti ecuador SD (D)
-- Mi Gente Tv Colombia HD (D)
-- Oxigeno Venezuela SD (D)
-- FAP TV COMPILATION
-- FAP TV 2
-- FAP TV 3
-- FAP TV 4
-- Megavision 21 FHD (El Salvador)
-- Megavision 19 HD (El Salvador)
-- Canal 36 FHD (Costa Rica)
-- Telesur HD (Costa Rica)
-- ABC HD (Paraguay)
-- PR  | Wapa 2
-- PR II PUNTO 2 HD (PP)
-- PR II NOTIUNO SD (PP)
-- PR II TELEORO SD (PP)
-- CL | MEGA 2 HD
-- Canal 10
-- CANAL 11
-- CANAL 2 HD
-- CANAL 8 TN8 HD
-- CANAL 6
-- CANAL 14 VOS TV HD
-- CANAL 12 HD
-- CANAL 10 HD
-- Radio Magallanes
-- Canal Gen Tv  - C.A B.A
-- Canal Atv - C.A.B.A
-- Canal Net Tv - C.A.B.A
-- Canal Urbana Teve - C.A.B.A
-- Canal Neo Tv  - Buenos Aires
-- Canal Quantica Tv - Buenos Aires
-- Canal Solidaria Tv - Buenos Aires
-- Canal Cinco Tv - Buenos Aires
-- Canal UNLP - Buenos Aires
-- Canal 8 Mar del Plata - Buenos Aires
-- Canal Telemix - Buenos Aires
-- Canal 3 Pinamar- Buenos Aires
-- Canal SpTv - Buenos Aires
-- Canal Telecreativa - Buenos Aires
-- Canal 11 de la Costa - Buenos Aires
-- Canal Chaco Tv - Chaco
-- Canal Azm Tv - Chubut
-- Canal 10 Cordoba - Cordoba
-- Canal U - Cordoba
-- Canal unitv - Cordoba
-- Canal Quatro Tv - Cordoba
-- Canal 9 Río cuarto Tv - Cordoba
-- Canal C20 - Cordoba
-- Canal Tru Tv - Cordoba
-- Canal CorrientesTV - Corrientes
-- Canal ACV HD - Corrientes
-- Canal 9 Litoral - Entre Rios
-- Canal Lapacho Tv - Formosa
-- Canal 3 - Formosa
-- Canal 7 - Jujui
-- Canal 13 - Jujui
-- Canal Televisión Publica Panpeana - La Pampa
-- Canal 9 Televida - Mendoza
-- Canal Señal U - Mendoza
-- Canal Coope Tv - Mendoza
-- Canal 8 - Mendoza
-- Canal Tum - Misiones
-- Canal 4 - Misiones
-- Canal 6 Digital - Misiones
-- Canal Misiones 4 - Misiones
-- Canal 21 Tv - Misiones
-- Canal RTN - Neuquen
-- Canal 7 - Neuquen
-- Canal 10 - Neuquen
-- TELE2WEB HD
-- GARAGE TV HD
-- POLAR COMUNICACIONES TV
-- RCN MÁS+
-- Milodon TV CL
-- Retro Magico | AR
-- Retro Music Television | CZ
-- The Retro Channel | PR
-- Retro Play TV | CL
-- Recuerdos Retro Radio TV |CL
-- Retro Plus TV
-- Chilevisual Retro | CL
-- AR | FUT SPORTS OP2
-- AR | $ŠPN PR3MIUM Opc 2
-- INet TV
-- ISB
-- Patagonia TV
-- TeleAngol
-- Canal 2 Quellón
-- UATV
-- Polar TV
-- TVR
-- Iquique TV
-- Huasco TV
-- El Centro TV
-- Holvoet TV
-- Canal 21 TV
-- Tevex
-- Teletrak
-- UESTV
-- STGO TV
-- Portalfoxmix TV
-- + Listas en M3U.CL ✪ | CL
-- Teleweb TV ✪ | BR
-- TV Grande Natal HDTV ✪ | BR
-- Vintage TV ✪ | BR
-- Agro Brasil TV | BR
-- ArarunaTV | BR
-- Band | BR
-- Classique TV | BR
-- NTV Patos de Minas | BR
-- Record News Espirito Santo | BR
-- TV A Plateia | BR
-- TV Água Boa | BR
-- TV Curuça | BR
-- TV Destak | BR
-- TV Difusora | BR
-- TV Difusora Leste | BR
-- TV Digital Birigui | BR
-- TV Mais | BR
-- TV Maná Brasil | BR
-- TV Mundial | BR
-- TV Rio Preto | BR
-- TV Sim Cachoeiro | BR
-- TV Sim Colatina | BR
-- TV Sim Linhares | BR
-- TV Sim Vitória | BR
-- TV Sul | BR
-- TV Ti Vejo | BR
-- TV Vicosa | BR
-- TVE | BR
-- Via Morena | BR
-- All Sports | BR
-- Canal 29 | BR
-- Geekdot | BR
-- Gospel Cartoon | BR
-- ISTV | BR
-- Kuriakos Kids | BR
-- Retro Cartoon | BR
-- TV Aracati | BR
-- TV J.SID | BR
-- TV Japi | BR
-- Kpop TV | BR
-- Mundo de la Musica TV | CL
-- Top TV | BR
-- Gospel Movies Television | BR
-- Nuevo Tiempo | BR
-- Rede Vida | BR
-- TV Aparecida | BR
-- TV Apostolos | BR
-- TV Evangelizar | BR
-- TV Rede Gospel | BR
-- TV Universal | BR
-- Spectrum Channel | CL
-- CDM (PR)
-- Logos TV (ES) (Opt-2)
-- Red ADVenir (BO)
-- Solidaria TV (ES)
-- CBN Español (US)
-- SOLIDARIA TV INTERNACIONAL
-- SOLIDARIA TV ARGENTINA
-- EWTN
-- SUBLIME GRACIA TV FORMOSA
-- GRACIA TV
-- RCC TV
-- TV ELOHIM
-- 3ABN Latino
-- CDM International
-- UR | CANAL 4 HD
-- UR | CANAL 4 SD
-- UR | CANAL 10 HD
-- UR | CANAL 10 SAETA HD
-- UR | CANAL 10 SD
-- UR | CANAL 12 HD
-- UR | CANAL 12 TELEDOCE HD
-- UR | CANAL LA RED HD
-- UR | A+V HD
-- UR | VTV HD
-- UR | VTV SD
-- UR | TV CIUDAD HD
-- URU || TNU  CANAL 5 SD (I)
-- UR | VTV PLUS HD
-- UR | VTV PLUS SD
-- Canal 13 Nic
-- Galáctika media
-- D3PORTES | Ŕ3@L M@DRÏD TV
-- DEP. URUGUAY | VTV HD
-- DEP. URUGUAY | VTV OP2
-- DEP. URUGUAY | VTV PLUS OP2
-- TeenNick
-- Nick Junior
-- Disney Channel
-- Disney Junior
-- Disney XD East
-- Baby TV
-- AR | Deport TV
-- CL | BIO-BIO TV
-- DEPORTES | CLARO SPORTS
-- Ecuavisa HD (Ecuador)
-- Oromar HD (Ecuador)
-- Multivision Sport (Guatemala)
-- Canal 7 (Guatemala)
-- Canal Televida (Argentina)
-- CINE  | A&E FHD
-- CINE  | A&E HD
+- 16 Deseos (2010)
+- Abigail (2019)
+- Abre tus alas (2019)
+- Ace Ventura: Detective de Mascotas (1994)
+- Ace Ventura: Cuando la naturaleza llama (1995)
+- Agente Cody Banks: Súper espía (2003)
+- Agente Cody Banks 2: Destino Londres (2004)
+- Aladdín (2019)
+- A la deriva (2009)
+- Alex Rider
+- Alfa (2018)
+- Alicia a través del espejo (2016)
+- Alma Salvaje (2014)
+- Alta tensión \ (1987)
+- Always \ (1989)
+- Amundsen: La Gran Expedición (2019)
+- Anaconda 2: En busca de la orquídea sangrienta (2004)
+- Animales Fantásticos: Y Dónde Encontrarlos (2016)
+- Antboy 3 (2016)
+- Apolo 13 (1995)
+- Armadura de Dios II: Operación Cóndor (1991)
+- Artemis Fowl: El mundo subterráneo (2020)
+- Astro Kid (2019)
+- Astérix y Obélix contra el César (1999)
+- Atlántico (2019)
+- Australia (2008)
+- Avatar (2009)
+- Aves De Presa y La Fantabulosa Emancipación De Una Harley Quinn (2020)
+- Away \ (2019)
+- Año Uno (2009)
+- Battle Angel: La última guerrera (2019)
+- Bibi & Tina: Caos total (2017)
+- Bienvenidos a Marwen (2018)
+- Bill y Ted 3: Salvando el Universo (2020)
+- Black Sea \ (2014)
+- Blancanieves y el cazador (2012)
+- Bruno & Boots: Esto no puede estar ocurriendo (2017)
+- Bruno Motoneta (2018)
+- Buscando a Nemo (2003)
+- Capitán Fantástico (2016)
+- Capitán Sky y El Mundo del Mañana (2004)
+- Catastrópico (2017)
+- Cazadores de sombras: Ciudad de hueso (2013)
+- Caza mayor \ (2015)
+- Cazando Salvajes (2016)
+- Centurions (2023)
+- Colmillo blanco (1991)
+- Colmillo blanco 2: El mito del lobo blanco (1994)
+- Commitment (2017)
+- Conan: El Destructor (1984)
+- Conan El Bárbaro (2011)
+- Corazón de caballero (2001)
+- Corazón de Dragón 3: La maldición del brujo (2015)
+- Crepúsculo:  Amanecer - Parte 1 (2011)
+- Destinada a cabalgar (2018)
+- Destrucción- Los Angeles \ (2017)
+- Diamante de Sangre (2006)
+- Diamantes para la eternidad \ (1971)
+- Dino King: Viaje a la Montaña de Fuego (2019)
+- Dinosaurio (2000)
+- Dioses De Egipto (2016)
+- Divergente (2014)
+- Donde viven los monstruos (2009)
+- Doom: La puerta del infierno (2005)
+- Doraemon \ (2014)
+- Dos chicos en fuga (2008)
+- Dos hermanos (2010)
+- Dragon Ball: El camino hacia el poder (1996)
+- Dragon Ball Z: Goku es un Super Saiyajin (1991)
+- Dragon Ball Z: La Pelea de los Tres Saiyajin (1992)
+- Dragon Blade (2015)
+- Dumbo (2019)
+- Días de Trueno (1990)
+- El abrazo de la serpiente (2015)
+- El Abuelo Que Saltó Por La Ventana Y Se Largó \ (2013)
+- El Agente Secreto de Bixler \ (2019)
+- El Alucinante viaje de Bill y Ted
+- Mi Amigo El Gigante (2016)
+- El amo del viento (2005)
+- El Aprendiz de Brujo (2010)
+- El ascenso (2017)
+- El Barbaro
+- el bárbaro \ (1982)
+- El caballero negro \ (2001)
+- El camino hacia El Dorado (2000)
+- El Cascanueces y Los Cuatro Reinos (2018)
+- El cazador y la reina de hielo (2016)
+- el Cordero: la película - Granjaguedon (2019)
+- El cuaderno de Sara (2018)
+- El cuento de los cuentos \ (2015)
+- El Depredador (2018)
+- El desafío \ (1997)
+- El Descenso (2005)
+- El destino del guerrero (2010)
+- El emperador de París (2018)
+- El espiritu (2008)
+- El Fantasma y la Oscuridad \ (1996)
+- El gigante de piedra (2017)
+- El Gran Hotel Budapest (2014)
+- El guardián de la reliquia \ (2017)
+- El guerrero rojo \ (1985)
+- El guía del desfiladero \ (2007)
+- El hombre de la máscara de hierro (1998)
+- El hombre de la pistola de oro \ (1974)
+- El hombre que mató a Don Quijote (2018)
+- El imaginario mundo del Doctor Parnassus (2009)
+- El Imperio contraataca (1980)
+- El infierno verde \ (2013)
+- El Invencible Iron Man (2007)
+- El Jardín Secreto (2020)
+- El joven Corcel Negro (2003)
+- El Libro de la Selva (2016)
+- El libro de los secretos (2010)
+- El libro magico (2009)
+- El Llanero Solitario (2013)
+- El Maestro del Agua (2014)
+- El mago de Oz (1939)
+- 007: El mañana nunca muere (1997)
+- El misterio del dragón (2019)
+- El mito (2005)
+- El Monje que Bajó la Montaña (2015)
+- El mundo de las Spice Girls (1997)
+- El mundo nunca es suficiente \ (1999)
+- El Mágico Viaje de Emily (2020)
+- El Médico (2013)
+- El Paletero (2016)
+- El Príncipe de Egipto (1998)
+- El Príncipe de Persia: Las Arenas del Tiempo (2010)
+- El puente sobre el río Kwai (1957)
+- El regreso a la laguna azul (1991)
+- El regreso de la momia \ (2001)
+- El regreso del Jedi (1983)
+- El reinado del fuego (2002)
+- El Reino del Dragón (2018)
+- El reino de los cielos \ (2005)
+- El Rey (2004)
+- El Rey Arturo (2004)
+- El rey escorpión (2002)
+- El Rey Escorpión 2: El Ascenso de un Guerrero (2008)
+- El Rey Escorpión 4: La Llave del poder (2015)
+- El Rey Escorpión 5: El Libro de las Almas (2018)
+- El rey león (2019)
+- El Santo (2017)
+- El Secreto del Abismo (1989)
+- El secreto de la última luna \ (2009)
+- El Señor de los Anillos (1978)
+- El Sueño de Kepler (2016)
+- El tesoro del Amazonas (2003)
+- El último mohicano (1965)
+- El Último Samurái (2003)
+- El viaje de Chihiro (2001)
+- El vuelo del Fénix (1965)
+- El vuelo del Fénix (2004)
+- El ángel en el reloj (2017)
+- El último lobo (2015)
+- El último maestro del aire (2010)
+- El último mohicano \ (1992)
+- El último rey (2016)
+- El último vikingo (2018)
+- Ember: La ciudad perdida (2008)
+- En Busca del Paraíso (2020)
+- Encogí a los Niños \ (1989)
+- encuentra un tesoro \ (1981)
+- Encuentro Explosivo (2010)
+- En Defensa del Paraíso \ (2016)
+- En el corazón del mar (2015)
+- En Islandia (2014)
+- Enola Holmes 2 (2022)
+- Eragon (2006)
+- Escalofríos (2015)
+- Euroviaje Censurado (2004)
+- Everest (2015)
+- Excalibur (1981)
+- Exodus- Dioses y reyes \ (2014)
+- Fallen \ (2016)
+- Far from Home: The Adventures of Yellow Dog (1995)
+- First Man \ (2018)
+- Flicka: Country Pride (2012)
+- Flicka 2 (2010)
+- Flyboys: Caballeros del Aire (2006)
+- Foxter \& Max
+- Frontera caníbal \ (2015)
+- Furia de Titanes (1981)
+- Furia de Titanes (2010)
+- Furia de Titanes 2 (2012)
+- George de la Selva (1997)
+- George de la Selva 2 (2003)
+- Gladiador (2000)
+- Grandes Amigos (2015)
+- Gremlins (1984)
+- Guardianes (2017)
+- Guardianes de la tumba (2018)
+- Guerra de Dragones (2007)
+- Guerra de flechas (2011)
+- Guerreros del arco iris: Seediq Bale - Rainbow Bridge (2011)
+- Guía de una niñera para cazar monstruos (2020)
+- Hacia rutas salvajes \ (2007)
+- Harry Potter y el cáliz de fuego (2005)
+- Harry Potter y el misterio del príncipe (2009)
+- Harry Potter y el prisionero de Azkaban (2004)
+- Harry Potter y la cámara secreta (2002)
+- Harry Potter y la orden del Fénix (2007)
+- Harry Potter y la piedra filosofal (2001)
+- Harry Potter y las reliquias de la muerte (1ª parte) (2010)
+- Harry Potter y las reliquias de la muerte: Parte 2 (2011)
+- Hasta Pronto Christopher Robin (2017)
+- Hellboy (2019)
+- Hellboy II: El Ejército Dorado (2008)
+- Herbie: A toda marcha (2005)
+- Hercules (1983)
+- hermano- \ (2000)
+- Highlander \ (1986)
+- Highlander
+- Highlander II: Duelo final (1991)
+- High Life: Espacio Profundo (2018)
+- Holmes y Watson... elemental \ (2018)
+- Hook: El Regreso del Capitán Garfio (1991)
+- Un horizonte lejano (1992)
+- Hormigaz (1998)
+- Hostiles: Violencia americana (2017)
+- Hércules (2014)
+- Indiana Jones 2: El Templo de la Perdición (1984)
+- Indiana Jones 3: La Última Cruzada (1989)
+- Indiana Jones 4: El Reino de la Calavera de Cristal (2008)
+- In Fabric: Vistiendo la muerte (2018)
+- Infierno azul \ (2016)
+- Infierno blanco \ (2012)
+- Infierno en la Frontera (2019)
+- Inmersión letal \ (2005)
+- Into the Woods \ (2014)
+- Invasores de Tumbas (2018)
+- Invasor Zim y el poder del Florpus (2019)
+- Jack: El Cazagigantes (2013)
+- Jamaica Bajo Cero (1993)
+- Jim y el durazno gigante (1996)
+- Jingle Jangle: Una mágica Navidad (2020)
+- John Carter: Entre dos mundos (2012)
+- Julekongen: Full rustning (2015)
+- Jumanji (1995)
+- Jumanji: El siguiente nivel (2019)
+- Jumanji: En la selva (2017)
+- Junglee (2019)
+- Junto a los Dioses: Los Dos Mundos (2017)
+- Junto a los Dioses 2: Los Últimos 49 Días (2018)
+- Jurassic Park \ (1993)
+- Jurassic World 2: El Reino Caído (2018)
+- Jurassic World- Mundo Jurásico \ (2015)
+- Los jóvenes titanes en acción vs. Los jóvenes titanes (2019)
+- Kicks (2016)
+- Kim Possible (2019)
+- King Danylo (2018)
+- King Kong (1933)
+- King Kong (2005)
+- Knights of Badassdom \ (2013)
+- Kong: La Isla Calavera (2017)
+- Kung Fu Yoga (2017)
+- La armadura de Dios (1986)
+- La aventura del Poseidón (2005)
+- La Bruja de los Cabellos Blancos (2014)
+- la bruja y el ropero \ (2005)
+- La brújula dorada (2007)
+- La búsqueda \ (2004)
+- La Carrera de la Muerte 3 (2013)
+- La casa con un reloj en sus paredes (2018)
+- la ciudad perdida (2017)
+- La era de hielo 4 (2012)
+- 007: La espía que me amó (1977)
+- La gran aventura de los Lunnis y el libro mágico (2019)
+- La Gran Aventura LEGO 2 (2019)
+- La guerra de las galaxias (1977)
+- La historia sin fin (1984)
+- La Historia sin Fin II (1990)
+- La Historia sin Fin III (1994)
+- La hora decisiva \ (2016)
+- La Increíble Vida de Walter Mitty (2013)
+- La invención de Hugo Cabret (2011)
+- La Isla de la Fantasía (2020)
+- La legión del águila (2011)
+- la leyenda \ (2007)
+- La leyenda de Baahubali: el inicio (2015)
+- La leyenda de las calaveras de cristal (2014)
+- La Leyenda del Diamante (2018)
+- La leyenda del gigante de la montaña (2017)
+- La Leyenda del Jinete Sin Cabeza (1999)
+- La leyenda del tesoro perdido 2: El libro de los secretos (2007)
+- La Leyenda de Tarzán (2016)
+- La llave mágica (1995)
+- La misión de Santa (2017)
+- La Momia (1999)
+- La Momia: La tumba del emperador dragón (2008)
+- La máquina del tiempo (2002)
+- Lancelot (1998)
+- La Odisea (2016)
+- La Pantera Rosa (2006)
+- la película- A través de la 2da dimensión \ (2011)
+- La película- Candace contra el universo \ (2020)
+- La película Pokémon: Los secretos de la selva (2020)
+- La pequeña brujita (2018)
+- La Piel Fría (2017)
+- La pirámide (2014)
+- La Playa (2000)
+- La Princesa Prometida (1987)
+- Lara Croft: Tomb Raider (2001)
+- Lara Croft: Tomb Raider - La cuna de la vida (2003)
+- La ratoncita valiente (1982)
+- La Reina de las Nieves en la tierra de los espejos (2018)
+- La reina del desierto (2015)
+- La resureccion de Louis Drax (2016)
+- Las Aventuras del Doctor Dolittle (2020)
+- Las aventuras de Sharkboy y Lavagirl (2005)
+- Las Aventuras de Tintín (2011)
+- Las crónicas de Narnia: El príncipe Caspian (2008)
+- Las Crónicas de Narnia 3: La Travesía del Viajero del Alba (2010)
+- Las crónicas de Spiderwick (2008)
+- Las fantásticas aventuras de Spirou y Fantásio (2018)
+- La sirena: La leyenda jamás contada (2018)
+- La sirenita (2018)
+- Las locas aventuras de Robin Hood (1993)
+- Las mil caras de Dunjia (2017)
+- Lassie Vuelve a Casa (2020)
+- Las Travesuras de una Sirena (2016)
+- La Suma de Todos los Miedos (2002)
+- Las vacaciones de mi vida (2006)
+- Una Tormenta Perfecta (2000)
+- Latte y la piedra de agua mágica (2019)
+- La venganza del conde de Montecristo \ (2002)
+- La vida de Pi \ (2012)
+- La vida secreta de las abejas \ (2008)
+- Lawrence de Arabia (1962)
+- La última cacería (2017)
+- LEGO Star Wars: Especial de las Fiestas (2020)
+- Legítimo rey (2018)
+- Leyendas de Pasión (1994)
+- Liberad a Willy 4- Aventura en Sudáfrica \ (2010)
+- Liberen a Willy 3 El rescate (1997)
+- Libertador (2013)
+- 007: Licencia para matar (1989)
+- Lo que el viento se llevó (1939)
+- Los aeronautas (2019)
+- Los Aventureros (2017)
+- Los buscadores (2017)
+- Los Croods 2: Una Nueva Era (2020)
+- Los dioses deben estar locos III (1991)
+- Los elefantes \ (2020)
+- Los elegidos (1983)
+- Los Goonies (1985)
+- Los Hechiceros de Waverly Place- La Película \ (2009)
+- Los hermanos Santana (2020)
+- Los intrépidos hombres en sus máquinas voladoras (1965)
+- Los juegos del hambre: En llamas (2013)
+- Los juegos del hambre: Sinsajo - Parte 1 (2014)
+- Los juegos del hambre: Sinsajo - Parte 2 (2015)
+- Los niños del mar (2019)
+- Los Picapiedra (1994)
+- Los Tres Mosqueteros (2011)
+- El Último Caballero (2015)
+- Los viajes de Gulliver \ (2010)
+- Los vigilantes de Malibú (2019)
+- Los ángeles de Charlie (2000)
+- Los Ángeles de Charlie 2: Al Límite (2003)
+- Lupin III: El Primero (2019)
+- Lusers (2015)
+- Límite Vertical (2000)
+- Madagascar 2: Escape de África (2008)
+- Madagascar 3: Los Fugitivos (2012)
+- Made in Abyss 1: El amanecer del viaje - (Parte 1) (2019)
+- Made in Abyss 2: Crepúsculo errante - (Parte 2) (2019)
+- Mad Max 3: Más Allá de la Cúpula del Trueno (1985)
+- Magia del revés (2020)
+- Maine (2018)
+- Marvel Rising: Guerreros secretos (2018)
+- Mascota Jurásica (2019)
+- Mascotas unidas (2019)
+- Max \ (2015)
+- Max 2 El Heroe De La Casa Blanca (2017)
+- Maze Runner: Correr o morir (2014)
+- Maze Runner: Prueba de fuego (2015)
+- Mi Amigo Alexis (2019)
+- Mi gran amigo Joe (1998)
+- Milagro En La Caverna (2019)
+- Mi mascota es un dinosaurio \ (2019)
+- Mi monstruo favorito 2 (2018)
+- Mi Querido Elfo (2019)
+- Miss Peregrine y los niños peculiares (2016)
+- Moby Dick (1956)
+- Monster Hunter: La cacería comienza (2020)
+- Moonraker \ (1979)
+- Most Wanted: Víctima del poder (2020)
+- Mowgli: Relatos del libro de la selva (2018)
+- Mulán (2020)
+- Mundo Acuático (1995)
+- Más allá de la montaña (2017)
+- Más allá del límite (2018)
+- Más Allá de los Sueños (1998)
+- Nacido para ser rey (2019)
+- Nessie y Yo (2016)
+- nos hemos encogido \ (1997)
+- Noticias del Mundo (2020)
+- Noé (2014)
+- Náufrago (2000)
+- Océanos de fuego (2004)
+- Offline: La vida no es un videojuego (2016)
+- Ohana: Un magnífico tesoro (2021)
+- Okja (2017)
+- 007: Operación trueno (1965)
+- Operación Zodiaco (2012)
+- Oro (2017)
+- Outlander (2008)
+- Oz:  El Poderoso (2013)
+- Pachamama (2018)
+- Paddington (2014)
+- Pan- Viaje a nunca jamás \ (2015)
+- Pantera Negra (2018)
+- Parque jurásico  II \ (1997)
+- Parque Jurásico III (2001)
+- Pasajeros (2016)
+- Patada de Delfín \ (2019)
+- Paul (2011)
+- Pee-wee\'s Big Holiday \ (2016)
+- Percy Jackson y el ladrón del rayo (2010)
+- Perdidos en el espacio (1998)
+- Perdí mi cuerpo (2019)
+- Perdón por molestarte (2018)
+- Pesadillas \ (2015)
+- Pesadillas 2- noche de Halloween \ (2018)
+- Peter Pan: Las Nuevas Aventuras (2015)
+- Pie pequeño (2018)
+- Piratas del Caribe 2: El Cofre de la Muerte (2006)
+- Piratas del Caribe 3: En el Fin del Mundo (2007)
+- Piratas del Caribe: La Maldición del Perla Negra (2003)
+- Piratas del Caribe 5: La Venganza de Salazar (2017)
+- Piratas del Caribe 4: Navegando Aguas Misteriosas (2011)
+- Pocahontas II: Encuentro de dos mundos (1998)
+- Point of No Return \ (2018)
+- Pokémon: El poder de todos (2018)
+- Pokémon Detective Pikachu (2019)
+- Pompeya (2014)
+- Poseidón (2006)
+- Power Rangers: La película (1995)
+- Princesa por accidente (2011)
+- Princess of Thieves (2001)
+- Proyecto Almanac (2015)
+- Psychokinesis (2018)
+- Quo Vadis (1951)
+- Qué linda adivina! (1991)
+- Rampage: Devastación (2018)
+- Ready Player One: Comienza el juego (2018)
+- remi
+- Remi: Un niño sin familia (2018)
+- Rescate al amanecer \ (2006)
+- Rescate En El Tiempo (2003)
+- Rescate en la Antártida (2006)
+- Rescate en Osiris \ (2016)
+- Rescate Suicida (2016)
+- Revenant: El renacido (2015)
+- Robin Hood (2010)
+- Robin Hood: Orígenes (2018)
+- Robo (2019)
+- un robot con corazón (2013)
+- Scooby Doo! \ (2020)
+- Seis días y siete noches (1998)
+- Senderos de Honor (2017)
+- Serenity (2005)
+- Sherlock: La novia abominable (2016)
+- Sherlock Holmes: Juego de sombras (2011)
+- Shrek Tercero (2007)
+- Slaughterhouse: Escuela sangrienta (2018)
+- Sobrevivencia de la naturaleza (2018)
+- Spider-Man: Un nuevo universo (2018)
+- Stardust \ (2007)
+- Starfighter- La aventura comienza \ (1984)
+- Stargate: El contínuo (2008)
+- Stargate: La puerta del tiempo (1994)
+- Star Wars: Episodio I - La amenaza fantasma (1999)
+- Star Wars: Episodio II: El Ataque de los Clones (2002)
+- Star Wars: Episodio III - La Venganza de los Sith (2005)
+- Stasis (2017)
+- Steven Universe: La Película (2019)
+- Street Fighter: El puño asesino (2014)
+- Suave Patria (2012)
+- Super 8 (2011)
+- Superheroicos (2020)
+- Super Maestra (2018)
+- Super Me \ (2019)
+- su perro y su mundo \ (2017)
+- 007: Sólo para tus ojos (1981)
+- 007: Sólo se vive dos veces (1967)
+- Te Amaré Por Siempre (2009)
+- Temporada de brujas (2011)
+- Terremoto: La Falla De San Andrés (2015)
+- Terror a 47 metros: El segundo ataque (2019)
+- Tesoros (2017)
+- The Descent- Part 2 \ (2009)
+- The Guardian (2006)
+- The Horror Bus \ (2005)
+- The Legion (2020)
+- Thomas & Friends: Un gran mundo de aventuras (2018)
+- Thor: Historias de Asgard (2011)
+- Tienda de Unicornios (2017)
+- Tigre y dragón 2: La espada del destino (2016)

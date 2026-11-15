@@ -257,8 +257,8 @@ https://clbpktstvhls-1.clarovideo.com/bpk-tv/LAREDHD/hls_fk/index.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/273682.m3u8
 #EXTINF:-1 tvg-id="etc.cl" tvg-name="CL |  ETC TV" tvg-logo="http://redworld.pro:8880/images/53cce5c404153affac857ada5ce7bc12.png" group-title="⭐️ CHILE  ",CL |  ETC TV
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/273684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL TV+" tvg-logo="https://elfiltrador.com/wp-content/uploads/2018/11/file_20181121105614.jpg" group-title="CHILE",CL TV+
-http://planettvweb.com:8091/MariaFontes/DLun4967d/14273
+#EXTINF:-1 tvg-id="tvplus.cl" tvg-name="CL | TV +" tvg-logo="http://redworld.pro:8880/images/221ea66f87db3e11e1c6ef1b134255da.png" group-title="⭐️ CHILE  ",CL | TV +
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/273685.m3u8
 #EXTINF:-1 tvg-id="cdobasico.cl" tvg-name="CDO 2 " tvg-logo="http://redworld.pro:8880/images/6f10030345febec933f4dc617a9ee8cf.png" group-title="⭐️ CHILE DEPORTE",CDO 2
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/273686.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL | UCV HD" tvg-logo="http://redworld.pro:8880/images/c45dd85f48789afdef7e43130f547366.png" group-title="⭐️ CHILE  ",CL | UCV HD
@@ -635,14 +635,14 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354333.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354334.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC HD (Paraguay)" tvg-logo="" group-title="⭐️ Canales "Conexiones Lentas"",ABC HD (Paraguay)
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/db/88/a2db88c4-6f0b-31d0-cd82-f8026a4dfba6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/256x256bb.jpg" group-title="🇵🇷 | PUERTO RICO",PR | WAPA HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271874
-#EXTINF:-1 tvg-id="" tvg-name="PR | MEGA TV" tvg-logo="https://logo.iptveditor.com/megatv.png" group-title="🇵🇷 | PUERTO RICO",PR | MEGA TV
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271881
+#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA HD" tvg-logo="http://daleplaypro.com:8080/images/aa0d954723953aa496b08ad536878737.png" group-title="⭐️ Puerto Rico",PR | WAPA HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR  | Mega Tv" tvg-logo="http://daleplaypro.com:8080/images/07cf2761333c19428b87ab6b9f58bfcb.png" group-title="⭐️ Puerto Rico",PR  | Mega Tv
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354745.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PR  | Wapa 2" tvg-logo="noimage.png" group-title="⭐️ Puerto Rico",PR  | Wapa 2
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PR | TELEMUNDO" tvg-logo="http://24horas.fun:8080/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="🇵🇷 | PUERTO RICO",PR | TELEMUNDO
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271878
+#EXTINF:-1 tvg-id="" tvg-name="PR | TELEMUNDO" tvg-logo="http://127.0.0.1/" group-title="⭐️ Puerto Rico",PR | TELEMUNDO
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354747.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PR II PUNTO 2 HD (PP)" tvg-logo="http://latinoamericatv.vip:8080/images/41ea0f7c7c9c42866e69c8489e0c77ce.jpg" group-title="⭐️ Puerto Rico",PR II PUNTO 2 HD (PP)
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/354748.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PR II NOTIUNO SD (PP)" tvg-logo="noimage.png" group-title="⭐️ Puerto Rico",PR II NOTIUNO SD (PP)
@@ -767,12 +767,12 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/363717.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/363718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Milodon TV CL" tvg-logo="http://goldfull.pro:8880/images/373c9edd247a24b71b7ef9caa779885d.jpg" group-title="⭐️ CHILE REGIONALES",Milodon TV CL
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/374130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA AMERICA" tvg-logo="http://24horas.fun:8080/images/2a79312c3ef9e075ca4f0bfc974fe5cc.png" group-title="🇵🇷 | PUERTO RICO",PR | WAPA AMERICA
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271877
-#EXTINF:-1 tvg-id="" tvg-name="PR | WIPR" tvg-logo="https://logo.iptveditor.com/wiprtv.png" group-title="🇵🇷 | PUERTO RICO",PR | WIPR
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271886
-#EXTINF:-1 tvg-id="" tvg-name="PR | TELEONCE" tvg-logo="https://teleonce.com/wp-content/uploads/2022/02/Banner_Teleonce_programacion-teleonce_289x381.png" group-title="🇵🇷 | PUERTO RICO",PR | TELEONCE
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271883
+#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA AMERICA" tvg-logo="http://goldfull.pro:8880/images/933eb3d2ba12c4f69723040906d09478.png" group-title="⭐️ Puerto Rico",PR | WAPA AMERICA
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/374750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | WIPR" tvg-logo="http://goldfull.pro:8880/images/71e1e1f057ceef094e6bc7aaf04a7d41.png" group-title="⭐️ Puerto Rico",PR | WIPR
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/374751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | TeleOnce" tvg-logo="http://goldfull.pro:8880/images/273601062fd8451fa8dfcf15fa78560d.png" group-title="⭐️ Puerto Rico",PR | TeleOnce
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/374752.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Magico | AR" tvg-logo="http://goldfull.pro:8880/images/c14235a51f2b4619b715a4b77765d5e2.png" group-title="⭐ Zona Retro",Retro Magico | AR
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/376575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Music Television | CZ" tvg-logo="http://goldfull.pro:8880/images/59e525848c3a8041c4e2a42ea48236f9.png" group-title="⭐ Zona Retro",Retro Music Television | CZ
@@ -1167,8 +1167,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/273683.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/417325.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA |  RPC TV" tvg-logo="http://redworld.pro:8880/images/b823b2f7d32514006bcd3e6af84ac0fa.png" group-title="⭐️ Panama",PANAMA |  RPC TV
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/418182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | MAS 23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Mas23_old_logo.png/revision/latest?cb=20181114074020" group-title="🇵🇦 |  PANAMA",PANAMA | MAS 23
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/117863
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA |  MAS 23" tvg-logo="" group-title="⭐️ Panama",PANAMA |  MAS 23
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/418183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA |  Telemetro" tvg-logo="http://redworld.pro:8880/images/d02d47af5659e056a51d69a5cf99cd2f.png" group-title="⭐️ Panama",PANAMA |  Telemetro
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/418184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA |  TV Max" tvg-logo="http://redworld.pro:8880/images/aba73c9c951a8a85f651ad41d03a42d7.png" group-title="⭐️ Panama",PANAMA |  TV Max
@@ -1241,10 +1241,10 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429002.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| ATV HD OP2" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV HD OP2
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | ATV  SD" tvg-logo="https://w7.pngwing.com/pngs/508/839/png-transparent-logo-atv-noticias-television-la-tele-logo-movistar-television-blue-text.png" group-title="🇵🇪 |  PERU",PE | ATV  SD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/1590
-#EXTINF:-1 tvg-id="" tvg-name="PE | ATV HD" tvg-logo="https://w7.pngwing.com/pngs/508/839/png-transparent-logo-atv-noticias-television-la-tele-logo-movistar-television-blue-text.png" group-title="🇵🇪 |  PERU",PE | ATV HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/1589
+#EXTINF:-1 tvg-id="lch2205" tvg-name="PE| ATV SD" tvg-logo="http://redworld.pro:8880/images/8549797b293caec267c2ade73ebb9c74.png" group-title="⭐️ PERU",PE| ATV SD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429006.m3u8
+#EXTINF:-1 tvg-id="lch3451" tvg-name="PE| ATV+ HD" tvg-logo="http://redworld.pro:8880/images/b47d6222fd8cfd8c85c7574b1bc685a0.png" group-title="⭐️ PERU",PE| ATV+ HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| ATV SUR" tvg-logo="http://redworld.pro:8880/images/c87c27a46d54fb85a78e813f2f38e4de.png" group-title="⭐️ PERU",PE| ATV SUR
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429008.m3u8
 #EXTINF:-1 tvg-id="lch2201" tvg-name="PE| Latina HD OP1" tvg-logo="http://redworld.pro:8880/images/4d96fae615581725d50b756203386f59.png" group-title="⭐️ PERU",PE| Latina HD OP1
@@ -1267,8 +1267,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429016.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429017.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| CULTURA TV" tvg-logo="http://redworld.pro:8880/images/9c2d8b50733ba0a65d747febb8f53259.png" group-title="⭐️ PERU",PE| CULTURA TV
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | PANAMERICANA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSTnGyri4Qkk07RZ7PsVaykDEAvtrxkDhsQQ&usqp=CAU" group-title="🇵🇪 |  PERU",PE | PANAMERICANA HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/1599
+#EXTINF:-1 tvg-id="lch2203" tvg-name="PE | PANAMERICANA HD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="⭐️ PERU",PE | PANAMERICANA HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429019.m3u8
 #EXTINF:-1 tvg-id="lch2203" tvg-name="PE| Panamericana SD" tvg-logo="http://redworld.pro:8880/images/582419668053355e2a66e109bd08dff5.png" group-title="⭐️ PERU",PE| Panamericana SD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429020.m3u8
 #EXTINF:-1 tvg-id="lch5614" tvg-name="PE| WILLAX HD OP1" tvg-logo="http://redworld.pro:8880/images/efa84198b7add6211118ff36816f5095.png" group-title="⭐️ PERU",PE| WILLAX HD OP1
@@ -1835,22 +1835,22 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452694.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452695.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gerado por Testador IPTV(PlayStore)" tvg-logo="" group-title="⭐️ Usa News ",Gerado por Testador IPTV(PlayStore)
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA| FOX NEWS HD" tvg-logo="" group-title="🇺🇸 |  USA  NEWS",USA| FOX NEWS HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/423715
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOX NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_WOHhCdv0NKSivfseew5P3YQXACmQd4famhXrtHyKnJ-tycbDwzZ9bHtcwVKv27eqBo&usqp=CAU" group-title="⭐️ Usa News ",USA| FOX NEWS HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452697.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA| FOX NEWS ¹" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA| FOX NEWS ¹
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA| CNN INGLES HD" tvg-logo="" group-title="🇺🇸 |  USA  NEWS",USA| CNN INGLES HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/423708
+#EXTINF:-1 tvg-id="" tvg-name="USA| CNN INGLES HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA| CNN INGLES HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452699.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA| CNBC HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA| CNBC HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA| NBC USA FHD" tvg-logo="http://127.0.0.1/" group-title="⭐️ Usa News ",USA| NBC USA FHD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA| BBC AMERICA HD" tvg-logo="" group-title="🇺🇸 |  USA  NEWS",USA| BBC AMERICA HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/423707
-#EXTINF:-1 tvg-id="" tvg-name="USA| THE WEATHER CHANNEL HD" tvg-logo="" group-title="🇺🇸 |  USA  NEWS",USA| THE WEATHER CHANNEL HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/423709
-#EXTINF:-1 tvg-id="" tvg-name="USA| BLOOMBERG TV FHD" tvg-logo="" group-title="🇺🇸 |  USA  NEWS",USA| BLOOMBERG TV FHD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/423712
+#EXTINF:-1 tvg-id="" tvg-name="USA| BBC AMERICA HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA| BBC AMERICA HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA| THE WEATHER CHANNEL HD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA| THE WEATHER CHANNEL HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA| BLOOMBERG TV FHD" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA| BLOOMBERG TV FHD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452704.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | KTLA Morning News Canal 5 L.A." tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="⭐️ Usa News ",USA | KTLA Morning News Canal 5 L.A.
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/452706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US: FOX Los Angeles" tvg-logo="http://redworld.pro:8880/images/3b9813468a468e0f271ec06f838da4a9.jpg" group-title="⭐️ Usa Fox",US: FOX Los Angeles
@@ -1993,8 +1993,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464924.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AYNI TV | LP | HD" tvg-logo="http://daleplay.club:8080/images/289b5abae74d86eb524e1399e02d06d1.png" group-title="⭐️ Bolivia ",AYNI TV | LP | HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CADENA A (HD)" tvg-logo="https://generador.nubservices.com/logos/panel/271340-cadena-a-hd-mulnksdz.png" group-title="🇧🇴 | BOLIVIA",CADENA A (HD)
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271340
+#EXTINF:-1 tvg-id="" tvg-name="CADENA A | HD" tvg-logo="http://daleplay.club:8080/images/ee13338136340faa17845a1e2e946fdd.png" group-title="⭐️ Bolivia ",CADENA A | HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CEACOM | OR | HD" tvg-logo="http://daleplay.club:8080/images/2541aae7a979ddb1672391e10030688b.png" group-title="⭐️ Bolivia ",CEACOM | OR | HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464929.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DELTA TV | LP | HD" tvg-logo="http://daleplay.club:8080/images/83e5be1093cd9a364796a0650ab7f4a7.png" group-title="⭐️ Bolivia ",DELTA TV | LP | HD
@@ -2033,8 +2033,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464948.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464949.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOY TV PLUS | CBBA" tvg-logo="http://daleplay.club:8080/images/ee3e55f36b295311e4bfeccf1adee830.png" group-title="⭐️ Bolivia ",ZOY TV PLUS | CBBA
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Palenque TV" tvg-logo="https://generador.nubservices.com/logos/panel/271361-palenque-tv-mulnkv5e.png" group-title="🇧🇴 | BOLIVIA",Palenque TV
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271361
+#EXTINF:-1 tvg-id="" tvg-name="PALENQUE TV" tvg-logo="http://daleplay.club:8080/images/8b18bb6dee1c3c5812e319230e619735.png" group-title="⭐️ Bolivia ",PALENQUE TV
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464951.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOL : RTP HD" tvg-logo="http://dplatino.net:8080/images/9fbf715aa1364491f61bf7a479ee9b93.png" group-title="⭐️ Bolivia ",BOL : RTP HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/464952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA| TRUTV USA FHD" tvg-logo="http://127.0.0.1/" group-title="⭐️ TV Usa",USA| TRUTV USA FHD
@@ -2159,8 +2159,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490038.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 6 " tvg-logo="http://redworld.pro:8880/images/dd531d088d27417200267778510be1e2.png" group-title="⭐️ COSTA RICA",CR | Repretel 6
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CR | REPRETEL 11 HD" tvg-logo="https://i.ibb.co/XS0jqs7/6.png" group-title="🇨🇷  | COSTA RICA",CR | REPRETEL 11 HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/2177
+#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 11 HD" tvg-logo="http://redworld.pro:8880/images/da645a079b738b7af5463e0a0dbf9545.png" group-title="⭐️ COSTA RICA",CR | Repretel 11 HD
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490047.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Multimedios" tvg-logo="http://redworld.pro:8880/images/3803057a7b9b860f32516a17291cf063.png" group-title="⭐️ COSTA RICA",CR | Multimedios
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Multimedios Canal 8 HD" tvg-logo="http://redworld.pro:8880/images/3803057a7b9b860f32516a17291cf063.png" group-title="⭐️ COSTA RICA",CR | Multimedios Canal 8 HD
@@ -2173,16 +2173,16 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490053.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Costa Rica Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfdZlmCs-mBn-AuyKF4evb6cnGws_UAoduA&s" group-title="⭐️ COSTA RICA",CR | Costa Rica Channel
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CR | COTO BRUS TV" tvg-logo="https://i.ibb.co/8m0LSk6/Cara-tulas-COSTA-RICA-cotobrus.png" group-title="🇨🇷  | COSTA RICA",CR | COTO BRUS TV
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/187087
+#EXTINF:-1 tvg-id="" tvg-name="CR | Coto Brus TV" tvg-logo="http://redworld.pro:8880/images/f5e2546e339089e91f2d162e492be01a.png" group-title="⭐️ COSTA RICA",CR | Coto Brus TV
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Extrema TV" tvg-logo="http://redworld.pro:8880/images/878f077d5688ebb4daa40845746e76ab.png" group-title="⭐️ COSTA RICA",CR | Extrema TV
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Extreme TV" tvg-logo="http://redworld.pro:8880/images/878f077d5688ebb4daa40845746e76ab.png" group-title="⭐️ COSTA RICA",CR | Extreme TV
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | IQ Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4syt79JHmcGKfIat0eoUkYxDUcNfS0zo7Wg&s" group-title="⭐️ COSTA RICA",CR | IQ Channel
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CR | SARAPIQUI TV" tvg-logo="https://i.ibb.co/rK9vy8j/SARAPIQU.png" group-title="🇨🇷  | COSTA RICA",CR | SARAPIQUI TV
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/271073
+#EXTINF:-1 tvg-id="" tvg-name="CR | SARAPIQUI TV" tvg-logo="http://redworld.pro:8880/images/398c42ceeda1f3883e182d089aa9134e.png" group-title="⭐️ COSTA RICA",CR | SARAPIQUI TV
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Telefides" tvg-logo="http://redworld.pro:8880/images/976569b6b6d266a32e1b830abc07f3c1.jpg" group-title="⭐️ COSTA RICA",CR | Telefides
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490062.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CR | Teleuno " tvg-logo="http://redworld.pro:8880/images/16f246f3a64ee5dedfdb43c2faa2bce8.png" group-title="⭐️ COSTA RICA",CR | Teleuno
@@ -2241,8 +2241,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490446.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490448.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | VOLVER SD" tvg-logo="http://redworld.pro:8880/images/beae63ae6ceadf54861fc3a9fe4ea8a1.png" group-title="⭐️ Argentina",ARG | VOLVER SD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA TV HD" tvg-logo="https://generador.nubservices.com/logos/panel/272038-arg-america-tv-hd-mulnhf8i.png" group-title="🇦🇷 | ARGENTINA",ARG| AMERICA TV HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/272038
+#EXTINF:-1 tvg-id="" tvg-name="ARG | America TV HD*" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | America TV HD*
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARG | TELEFE HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ Argentina",ARG | TELEFE HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/490451.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWMmcZCQ5tr1Wv90_JiMagFY_0XjSp1Un3g596k6BiQ&s" group-title="⭐️ Argentina",CRONICA
@@ -2351,8 +2351,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/505028.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/505029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-logo="https://tvplux.lat:443/images/YQ7hW75akmZhzqkPKPC7VanOF_rNwxOip67Pdz0F5jk7B0YaUCYtmOq2XyL8iwuB4NpEtynmX3coq7kmOlzxaJR0USg4FcL1CsaMjVD1wvSOp_MYsSk2YBwoBzft01WBLBTpRWpvC_zhmcKiTY9Dbg.png" group-title="⭐️ Venezuela ",Globovision
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/505030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLT" tvg-logo="https://seeklogo.com/images/T/tlt-la-tele-tuya-logo-EF4E1CF083-seeklogo.com.png" group-title="🇻🇪 | VENEZUELA",TLT
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/290332
+#EXTINF:-1 tvg-id="" tvg-name="TLT" tvg-logo="http://127.0.0.1/" group-title="⭐️ Venezuela ",TLT
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/505031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTA TV (720p)" tvg-logo="http://super-plus.vip:80/images/4ED5wTO4lvSM0T4i4gHYtYxjYvuEw_Vh0yk5RkfqdX1dukyOjjpcz2lczjsR96X4cZwZ4ezUPcIBHxdBHIm8gAwhd469-qNw0GIoxuns7aU.png" group-title="⭐️ Venezuela ",BTA TV (720p)
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/505032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reforma TV (1080p)" tvg-logo="http://super-plus.vip:80/images/4ED5wTO4lvSM0T4i4gHYtYxjYvuEw_Vh0yk5RkfqdX1dukyOjjpcz2lczjsR96X403OVoQreyTGlZ0OS7iiTPKgWTeFDRiZxY8qJntnbrXI.png" group-title="⭐️ Venezuela ",Reforma TV (1080p)
@@ -3225,8 +3225,8 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/534815.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/534816.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | Bandamax Hd®" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | Bandamax Hd®
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/534817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MX| AZ MUNDO HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="🇲🇽 |  MEXICO",MX| AZ MUNDO HD
-https://zonacero.lat:443/VladimirGomez3/zmGdFTF5avFw/21473
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZ Mundo Hd®" tvg-logo="http://redworld.pro:8880/images/3ae6ba11d11a7b950d343f573b354b2a.png" group-title="⭐️ México",MX | AZ Mundo Hd®
+http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/534818.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://redworld.pro:8880/images/4819f8c63a16d13f9f52cbe5ea3be3b1.png" group-title="⭐️ México",SYFY HD
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/534819.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | E! ENTERTAINMENT HD" tvg-logo="http://redworld.pro:8880/images/13e13f8201410be8b597098322cbf3eb.png" group-title="⭐️ México",MX | E! ENTERTAINMENT HD
@@ -5233,10 +5233,10 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546873.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546874.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ahora estamos solos (2018)" tvg-logo="http://redworld.pro:8880/images/c572a6ae4650c78ca856144cee9d2693.jpg" group-title="⭐️Ciencia Ficción",Ahora estamos solos (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546875.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Al filo del mañana (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJx5CfBJVlsBdjyg3d2dHMNQpok.jpg" group-title="CIENCIA FICCION",Al filo del mañana (2014)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126028.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title="CIENCIA FICCION",Alien: Covenant (2017)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Al filo del mañana (2014)" tvg-logo="http://redworld.pro:8880/images/76dc440b0fc53384327215de3548206b.jpg" group-title="⭐️Ciencia Ficción",Al filo del mañana (2014)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017)" tvg-logo="http://redworld.pro:8880/images/364c74f9ad4ee7e3cde4aa9e5924a20a.jpg" group-title="⭐️Ciencia Ficción",Alien: Covenant (2017)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546877.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amelia 2.0 (2017)" tvg-logo="http://redworld.pro:8880/images/81cc54daf4a517e52d0160ce627a87e9.jpg" group-title="⭐️Ciencia Ficción",Amelia 2.0 (2017)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546878.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ANIARA (2019)" tvg-logo="http://redworld.pro:8880/images/f25a8598fc7bd817dc6f8f7548ec8654.jpg" group-title="⭐️Ciencia Ficción",ANIARA (2019)
@@ -5247,8 +5247,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546880.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546881.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ascensión de las maquinas (2018)" tvg-logo="http://redworld.pro:8880/images/d137e2498b9bf8d0b4064fb2fb2f10f2.jpg" group-title="⭐️Ciencia Ficción",Ascensión de las maquinas (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546882.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Atómica (2017)" tvg-logo="https://es.web.img2.acsta.net/pictures/17/07/10/12/54/213732.jpg" group-title="CIENCIA FICCION",Atómica (2017)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/127189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atomica (2017)" tvg-logo="http://redworld.pro:8880/images/5f53a49aaaf1e0f47b18838f57ab91f7.jpg" group-title="⭐️Ciencia Ficción",Atomica (2017)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546883.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Atrapados en un bucle infinito (2023)" tvg-logo="http://redworld.pro:8880/images/a95e76197dc01b2a008cd4d1996fc42e.jpg" group-title="⭐️Ciencia Ficción",Atrapados en un bucle infinito (2023)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546884.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batalla de Los Ángeles (2011)" tvg-logo="http://redworld.pro:8880/images/6122aa70f41470f94fc55ae746b52209.jpg" group-title="⭐️Ciencia Ficción",Batalla de Los Ángeles (2011)
@@ -5321,8 +5321,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546917.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546918.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En La Oscuridad \ (2019)" tvg-logo="http://redworld.pro:8880/images/046a9b9b747b3cce367c4027fb959b19.jpg" group-title="⭐️Ciencia Ficción",En La Oscuridad \ (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546919.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Equilibrium (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg" group-title="CIENCIA FICCION",Equilibrium (2002)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/135688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Equilibrium (2002)" tvg-logo="http://redworld.pro:8880/images/ad60fcdfdfcb881634729dd222dc7435.jpg" group-title="⭐️Ciencia Ficción",Equilibrium (2002)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546920.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Extinción (2018)" tvg-logo="http://redworld.pro:8880/images/bc9bff8142d8c11a18275a62b8873963.jpg" group-title="⭐️Ciencia Ficción",Extinción (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546921.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fahrenheit 451 (2018)" tvg-logo="http://redworld.pro:8880/images/f4efaaf234842ac6f5d062e8b9e101ce.jpg" group-title="⭐️Ciencia Ficción",Fahrenheit 451 (2018)
@@ -5331,8 +5331,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546922.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546924.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fragmentado (2017)" tvg-logo="http://redworld.pro:8880/images/544fd40f2f87167f103e68278adb28bb.jpg" group-title="⭐️Ciencia Ficción",Fragmentado (2017)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546925.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Freaks (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc2cvuqESIiRX5QoZOoMTBq18kQ.jpg" group-title="CIENCIA FICCION",Freaks (2019)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freaks (2019)" tvg-logo="http://redworld.pro:8880/images/0655ff24474acd9b721dbd2cb9ca5b71.jpg" group-title="⭐️Ciencia Ficción",Freaks (2019)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Furia \ (2019)" tvg-logo="http://redworld.pro:8880/images/0655ff24474acd9b721dbd2cb9ca5b71.jpg" group-title="⭐️Ciencia Ficción",Furia \ (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546927.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Galaxia Jurásica (2018)" tvg-logo="http://redworld.pro:8880/images/4a6496ffe9085b6082e5a1c4478b6f5a.jpg" group-title="⭐️Ciencia Ficción",Galaxia Jurásica (2018)
@@ -5343,8 +5343,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546929.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546930.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Glass (2019)" tvg-logo="http://redworld.pro:8880/images/116bff28735c252ceb675d34d94c23be.jpg" group-title="⭐️Ciencia Ficción",Glass (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546931.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68B48ivqAMfrUPaZ6wy8TreevpQ.jpg" group-title="CIENCIA FICCION",Godzilla (1998)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (1998)" tvg-logo="http://redworld.pro:8880/images/af53d4c4e699b54648d1986f0ab12eeb.jpg" group-title="⭐️Ciencia Ficción",Godzilla (1998)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546932.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)" tvg-logo="http://redworld.pro:8880/images/7dc55d14910cab7111f04573768b83ac.jpg" group-title="⭐️Ciencia Ficción",Godzilla (2014)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546933.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla: El devorador de planetas (2018)" tvg-logo="http://redworld.pro:8880/images/4f17692c3ef2eb0c7b1c7dd3a075b86d.jpg" group-title="⭐️Ciencia Ficción",Godzilla: El devorador de planetas (2018)
@@ -5353,8 +5353,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546934.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546935.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Guerra mundial Z (2013)" tvg-logo="http://redworld.pro:8880/images/ede77bb1c3bc2b14bfbc2219d1126d7f.jpg" group-title="⭐️Ciencia Ficción",Guerra mundial Z (2013)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546936.mkv
-#EXTINF:-1 tvg-id="" tvg-name="I Am Mother (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnYBbh8MQLrvSbgp6uKRqy2HxEQ.jpg" group-title="CIENCIA FICCION",I Am Mother (2019)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Mother (2019)" tvg-logo="http://redworld.pro:8880/images/f11e1d3e4bff67f8803577de6ba9c30a.jpg" group-title="⭐️Ciencia Ficción",I Am Mother (2019)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546937.mkv
 #EXTINF:-1 tvg-id="" tvg-name="iBoy (2017)" tvg-logo="http://redworld.pro:8880/images/8de96459d91a9ff655cc8a41385d912b.jpg" group-title="⭐️Ciencia Ficción",iBoy (2017)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546938.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Incident at Montauk (2019)" tvg-logo="http://redworld.pro:8880/images/965b7017cb1ef9cafd9d20740f305654.jpg" group-title="⭐️Ciencia Ficción",Incident at Montauk (2019)
@@ -5463,8 +5463,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546989.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546990.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Prospect (2018)" tvg-logo="http://redworld.pro:8880/images/e35fccfe0e1b6ee58ebf14659939ca1f.jpg" group-title="⭐️Ciencia Ficción",Prospect (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546991.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Geminis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imuYGNcXgv6rmZBtwWRypGc7TqH.jpg" group-title="CIENCIA FICCION",Proyecto Geminis (2019)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Géminis (2019)" tvg-logo="http://redworld.pro:8880/images/e4643ce19ce43a359033dad5b25d65c1.jpg" group-title="⭐️Ciencia Ficción",Proyecto Géminis (2019)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto Silencio (2024)" tvg-logo="http://redworld.pro:8880/images/315242fcd0781685db14f0e09cf1b572.jpg" group-title="⭐️Ciencia Ficción",Proyecto Silencio (2024)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546993.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Push (2019)" tvg-logo="http://redworld.pro:8880/images/4559c0ac2e0ba1dd81893179a2b8a0bf.jpg" group-title="⭐️Ciencia Ficción",Push (2019)
@@ -5475,8 +5475,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546995.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546996.mkv
 #EXTINF:-1 tvg-id="" tvg-name="RoboCop (2014)" tvg-logo="http://redworld.pro:8880/images/b8a264ad008f2a7918c5d36162461f65.jpg" group-title="⭐️Ciencia Ficción",RoboCop (2014)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546997.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Réplicas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cesSnuafCLbReG5TcUh5dpIxchP.jpg" group-title="CIENCIA FICCION",Réplicas (2018)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/70910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Réplicas (2018)" tvg-logo="http://redworld.pro:8880/images/d54929bd1cd6cfe104cd4fa9a8b29387.jpg" group-title="⭐️Ciencia Ficción",Réplicas (2018)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546998.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Snatchers \ (2019)" tvg-logo="http://redworld.pro:8880/images/d54929bd1cd6cfe104cd4fa9a8b29387.jpg" group-title="⭐️Ciencia Ficción",Snatchers \ (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/546999.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Snowpiercer" tvg-logo="http://redworld.pro:8880/images/d54929bd1cd6cfe104cd4fa9a8b29387.jpg" group-title="⭐️Ciencia Ficción",Snowpiercer
@@ -5493,12 +5493,12 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547004.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547005.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Titanes Del Pacífico (2013)" tvg-logo="http://redworld.pro:8880/images/40bd0c718b633dea479a121f48bfe568.jpg" group-title="⭐️Ciencia Ficción",Titanes Del Pacífico (2013)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547006.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Titanes del Paci­fico La Insurreccion (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAQRgMxyuy3qhjCitR0hHJhEPAI.jpg" group-title="CIENCIA FICCION",Titanes del Paci­fico La Insurreccion (2018)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanes del Pacífico: La insurrección (2018)" tvg-logo="http://redworld.pro:8880/images/5b802c44fcd9de49b74e89fb84eb93fe.jpg" group-title="⭐️Ciencia Ficción",Titanes del Pacífico: La insurrección (2018)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547007.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tornado (1996)" tvg-logo="http://redworld.pro:8880/images/a0bfd202b9ffbb7be8eb47f3effeb287.jpg" group-title="⭐️Ciencia Ficción",Tornado (1996)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547008.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ultravioleta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBH229rMswFIkk3l4C7iZhNKCOB.jpg" group-title="CIENCIA FICCION",Ultravioleta (2006)
-http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/135799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultravioleta (2006)" tvg-logo="http://redworld.pro:8880/images/d65d6be3b53495b69198ef47894b72ea.jpg" group-title="⭐️Ciencia Ficción",Ultravioleta (2006)
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547009.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un Lugar En Silencio (2018)" tvg-logo="http://redworld.pro:8880/images/6ab24b3683a280385c369ea145be8b6f.jpg" group-title="⭐️Ciencia Ficción",Un Lugar En Silencio (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/547010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Valerian y La Ciudad De Los Mil Planetas (2017)" tvg-logo="http://redworld.pro:8880/images/99b419b81d3ed765123cc993133e7531.jpg" group-title="⭐️Ciencia Ficción",Valerian y La Ciudad De Los Mil Planetas (2017)
@@ -5794,7 +5794,7 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/548937.mkv
 #EXTINF:-1 tvg-id="" tvg-name="4 latas (2019)" tvg-logo="http://redworld.pro:8880/images/25e22e61de978ea9ebb80ac2745f3a41.jpg" group-title="⭐️Aventura",4 latas (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/548938.mkv
 #EXTINF:-1 tvg-id="" tvg-name="10.000 A.C. (2008)" tvg-logo="http://redworld.pro:8880/images/b45a18c9bf520ffc0ffdc2f919f7f050.jpg" group-title="⭐️Aventura",10.000 A.C. (2008)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/548939.mkv
+http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/548940.mkv
 #EXTINF:-1 tvg-id="" tvg-name="16 Deseos (2010)" tvg-logo="http://redworld.pro:8880/images/379d6483bb0e538e23acf4b01505eb81.jpg" group-title="⭐️Aventura",16 Deseos (2010)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/548941.mkv
 #EXTINF:-1 tvg-id="" tvg-name="127 Horas (2010)" tvg-logo="http://redworld.pro:8880/images/d850e4a4395386176078dfba3e86a948.jpg" group-title="⭐️Aventura",127 Horas (2010)
@@ -7971,50 +7971,50 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551756.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551757.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Érase una vez... (2020)" tvg-logo="http://redworld.pro:8880/images/5f9d324c4fb5bed214197130739e7d95.jpg" group-title="⭐️Peliculas Internet Lentos",Érase una vez... (2020)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551758.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Abajo el telón (1955)" tvg-logo="http://redworld.pro:8880/images/83a28ce218c2aeb833857025994ad2ef.jpg" group-title="⭐️Cine Cantinflas",Abajo el telón (1955)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551759.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="http://redworld.pro:8880/images/208a76e575ba4ece42c32582057436a7.jpg" group-title="⭐️Cine Cantinflas",Ahí está el detalle (1940)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abajo el telon (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxZyNZlM8nIXDuMCtNXW6i9A0Y.jpg" group-title="CINE CANTINFLAS",Abajo el telon (1955)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/131606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg" group-title="CINE CANTINFLAS",Ahí está el detalle (1940)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/131575.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Así es mi tierra (1937)" tvg-logo="http://redworld.pro:8880/images/21bc6a06f1427538a0ab1ca429b70b17.jpg" group-title="⭐️Cine Cantinflas",Así es mi tierra (1937)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551761.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Caballero a la Medida (1954)" tvg-logo="http://redworld.pro:8880/images/382ddd9163287c75e8985a682ea22a69.jpg" group-title="⭐️Cine Cantinflas",Caballero a la Medida (1954)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551762.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Don Quijote cabalga de nuevo (1973)" tvg-logo="http://redworld.pro:8880/images/3922c0371ec3095b3621de6526143da4.jpg" group-title="⭐️Cine Cantinflas",Don Quijote cabalga de nuevo (1973)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Quijote cabalga de nuevo (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOfdS5xk1mDjue4MRM9wlgIFDK.jpg" group-title="CINE CANTINFLAS",Don Quijote cabalga de nuevo (1973)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119353.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El analfabeto (1961)" tvg-logo="http://redworld.pro:8880/images/cc9eb239a515a812d97b629d962e7956.jpg" group-title="⭐️Cine Cantinflas",El analfabeto (1961)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551764.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bolero de Raquel (1957)" tvg-logo="http://redworld.pro:8880/images/32bf37ee6c0dcb8f4e185cc38117b1ac.jpg" group-title="⭐️Cine Cantinflas",El bolero de Raquel (1957)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551765.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El bombero atómico (1952)" tvg-logo="http://redworld.pro:8880/images/59b968d2e062aef8b3c374abd6cccb96.jpg" group-title="⭐️Cine Cantinflas",El bombero atómico (1952)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El bolero de Raquel (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTnNcQIIkghGyYmNIGMCtgy4BoN.jpg" group-title="CINE CANTINFLAS",El bolero de Raquel (1957)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El bombero atómico (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmCL1R78oJwzn1ZtGISUzuQqlY3.jpg" group-title="CINE CANTINFLAS",El bombero atómico (1952)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/131607.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Circo (1943)" tvg-logo="http://redworld.pro:8880/images/62ce310a808bf01f5076ed3ea6c958fa.jpg" group-title="⭐️Cine Cantinflas",El Circo (1943)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Extra (1962)" tvg-logo="http://redworld.pro:8880/images/54ba36843e1918fdd34320f90fbf7c95.jpg" group-title="⭐️Cine Cantinflas",El Extra (1962)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Extra (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awQn0tFFH3Ql00WV86v2qomLheV.jpg" group-title="CINE CANTINFLAS",El Extra (1962)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119356.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Gendarme Desconocido (1941)" tvg-logo="http://redworld.pro:8880/images/592158809c5ce32cd1fb07025672e7c7.jpg" group-title="⭐️Cine Cantinflas",El Gendarme Desconocido (1941)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Mago (1949)" tvg-logo="http://redworld.pro:8880/images/09fe8b49fb8e15a24ad209a549ec0033.jpg" group-title="⭐️Cine Cantinflas",El Mago (1949)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551770.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El ministro y yo (1976)" tvg-logo="http://redworld.pro:8880/images/ab402d2b260f4373c142df77e751f1d4.jpg" group-title="⭐️Cine Cantinflas",El ministro y yo (1976)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551771.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El padrecito (1964)" tvg-logo="http://redworld.pro:8880/images/c831bb40703e3dfb507e4a3ccdc7d83d.jpg" group-title="⭐️Cine Cantinflas",El padrecito (1964)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551772.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Patrullero 777 (1978)" tvg-logo="http://redworld.pro:8880/images/4078ac362e25f0afa551ac4ad94ce9e4.jpg" group-title="⭐️Cine Cantinflas",El Patrullero 777 (1978)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Mago (1949)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjE66tZ9QFfTh65yH98ciFOSBUp.jpg" group-title="CINE CANTINFLAS",El Mago (1949)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/132866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ministro y yo (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77sTJrC54qXyHxRTuaSDvpPlQHb.jpg" group-title="CINE CANTINFLAS",El ministro y yo (1976)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/124476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El padrecito (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fREvHyV2W1gG1HrBaAbxmXiYE2P.jpg" group-title="CINE CANTINFLAS",El padrecito (1964)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Patrullero 777 (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvKNyUKczXCWA9dg5IoHfOIfj2e.jpg" group-title="CINE CANTINFLAS",El Patrullero 777 (1978)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/124477.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Portero (1950)" tvg-logo="http://redworld.pro:8880/images/3e5f58a2fa1584cf73eba761b6a9289a.jpg" group-title="⭐️Cine Cantinflas",El Portero (1950)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551774.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Profe (1971)" tvg-logo="http://redworld.pro:8880/images/b6c73d84b4f84243332404378611595a.jpg" group-title="⭐️Cine Cantinflas",El Profe (1971)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El profe (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AdjL0R0c1rS9tld2dx9l9ptr9wf.jpg" group-title="CINE CANTINFLAS",El profe (1971)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119358.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Señor Doctor (1965)" tvg-logo="http://redworld.pro:8880/images/c57a0e3d49620e0533b06867707ee8af.jpg" group-title="⭐️Cine Cantinflas",El Señor Doctor (1965)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551776.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Señor Fotógrafo (1953)" tvg-logo="http://redworld.pro:8880/images/8304e236b6a631b548779fa9a732a733.jpg" group-title="⭐️Cine Cantinflas",El Señor Fotógrafo (1953)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551777.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="http://redworld.pro:8880/images/28b47bac0dfb1cc49bb7dfdcc41ff97a.jpg" group-title="⭐️Cine Cantinflas",El Siete Machos (1951)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551778.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Signo de la Muerte (1939)" tvg-logo="http://redworld.pro:8880/images/091177bb9d1c068dd85a75694617ee36.jpg" group-title="⭐️Cine Cantinflas",El Signo de la Muerte (1939)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551779.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Supersabio (1948)" tvg-logo="http://redworld.pro:8880/images/b5f431bc56e01e63cc8a525ac0a78c3c.jpg" group-title="⭐️Cine Cantinflas",El Supersabio (1948)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor fotógrafo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGmP5zYLDi7fokr1ndIomoqDVDl.jpg" group-title="CINE CANTINFLAS",El señor fotógrafo (1953)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdV9YavsAOMURBdhNmFU88NGgJj.jpg" group-title="CINE CANTINFLAS",El Siete Machos (1951)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Signo de la Muerte (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGoGz6rQINeLZvyhjNNB9qSHOC0.jpg" group-title="CINE CANTINFLAS",El Signo de la Muerte (1939)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Supersabio (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcTNipPCGw16nWIvV8DOcJ74Ddc.jpg" group-title="CINE CANTINFLAS",El Supersabio (1948)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119362.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Festival de la comedia Cortometrajes (1939)" tvg-logo="http://redworld.pro:8880/images/b5f431bc56e01e63cc8a525ac0a78c3c.jpg" group-title="⭐️Cine Cantinflas",Festival de la comedia Cortometrajes (1939)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551781.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gran Hotel (1944)" tvg-logo="http://redworld.pro:8880/images/0263fc01c72d44d2714eef67d41775bb.jpg" group-title="⭐️Cine Cantinflas",Gran Hotel (1944)
@@ -8029,22 +8029,22 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551785.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551786.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Por mis pistolas (1968)" tvg-logo="http://redworld.pro:8880/images/3b0a04b9bced2f9299d95fc5d0956f79.jpg" group-title="⭐️Cine Cantinflas",Por mis pistolas (1968)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551787.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romeo y Julieta (1943)" tvg-logo="http://redworld.pro:8880/images/11520195b8aa0a98f8de1636ec3d2718.jpg" group-title="⭐️Cine Cantinflas",Romeo y Julieta (1943)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551788.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Si yo fuera diputado (1952)" tvg-logo="http://redworld.pro:8880/images/6c4a15200a4af4ffbf7b072f38e2f546.jpg" group-title="⭐️Cine Cantinflas",Si yo fuera diputado (1952)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551789.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Soy un prófugo (1946)" tvg-logo="http://redworld.pro:8880/images/a63302e90faa48b30e6383534ec86e11.jpg" group-title="⭐️Cine Cantinflas",Soy un prófugo (1946)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romeo y Julieta (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVBXvZDdCLR7qxrgPNBWcReOFap.jpg" group-title="CINE CANTINFLAS",Romeo y Julieta (1943)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si yo fuera diputado (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37ANYH2xOKsb6KHwYpVExmXXAXc.jpg" group-title="CINE CANTINFLAS",Si yo fuera diputado (1952)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy un prófugo (1946)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DfDpe2ACfjTgd8LliG6FwJqUvY.jpg" group-title="CINE CANTINFLAS",Soy un prófugo (1946)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119368.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sube y Baja (1959)" tvg-logo="http://redworld.pro:8880/images/8fd8d563843cf88cb0a8388bcc91abd5.jpg" group-title="⭐️Cine Cantinflas",Sube y Baja (1959)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551791.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Su Excelencia (1967)" tvg-logo="http://redworld.pro:8880/images/7f8f8510e9e05ca213f4d3a592a3bc84.jpg" group-title="⭐️Cine Cantinflas",Su Excelencia (1967)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551792.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un día con el Diablo (1945)" tvg-logo="http://redworld.pro:8880/images/256ac1c0a342c57055f14d66e780e949.jpg" group-title="⭐️Cine Cantinflas",Un día con el Diablo (1945)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Su excelencia (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47FcgwWjKHTH6eeNHe2YS8v7iDo.jpg" group-title="CINE CANTINFLAS",Su excelencia (1967)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/124478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un día con el Diablo (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dePca5FgQnciVDUOMdThqmZQ0q4.jpg" group-title="CINE CANTINFLAS",Un día con el Diablo (1945)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/119369.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un Quijote sin mancha (1969)" tvg-logo="http://redworld.pro:8880/images/a7e19d71e9d5ee9fc08d5ce7a78aaa4a.jpg" group-title="⭐️Cine Cantinflas",Un Quijote sin mancha (1969)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551794.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Águila o Sol (1938)" tvg-logo="http://redworld.pro:8880/images/9302ae436f67f65c2d3d002f68dd478d.jpg" group-title="⭐️Cine Cantinflas",Águila o Sol (1938)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Águila o sol (1938)" tvg-logo="https://m.media-amazon.com/images/I/61TXvk4Yr4L._AC_UF894,1000_QL80_.jpg" group-title="CINE CANTINFLAS",Águila o sol (1938)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/132865.avi
 #EXTINF:-1 tvg-id="" tvg-name="Nueve semanas y media (1986)" tvg-logo="http://redworld.pro:8880/images/ccc3865e946ed1869f6a85bb17ab17c1.jpg" group-title="⭐️Cine Clásicos",Nueve semanas y media (1986)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/551796.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abbott y Costello: Dos locos tras un fantasma (1941)" tvg-logo="http://redworld.pro:8880/images/1c9ac5ef81e76c89be5a32445d046727.jpg" group-title="⭐️Cine Clásicos",Abbott y Costello: Dos locos tras un fantasma (1941)
@@ -10859,8 +10859,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553245.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553246.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Brimstone \ (2016)" tvg-logo="http://redworld.pro:8880/images/18cd3bcf11b7327045cfe1699cfd7492.jpg" group-title="⭐️Western",Brimstone \ (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553247.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Boys (2018)" tvg-logo="http://redworld.pro:8880/images/6e3ac93c3d9b1b60e7e5fdab3df7c0c6.jpg" group-title="⭐️Western",Buffalo Boys (2018)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buffalo Boys (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nthbXzkCL3oUovjzVTehS5bIO2H.jpg" group-title="WESTERN",Buffalo Boys (2018)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/124430.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bullitt (1968)" tvg-logo="http://redworld.pro:8880/images/7f3c0f5ac2687fce3e94486010eb736d.jpg" group-title="⭐️Western",Bullitt (1968)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553249.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Casa de Mi Padre (2012)" tvg-logo="http://redworld.pro:8880/images/8738d1ea322b36ed55bb69a39f9d2322.jpg" group-title="⭐️Western",Casa de Mi Padre (2012)
@@ -10875,32 +10875,32 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553253.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553254.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Damisela (2018)" tvg-logo="http://redworld.pro:8880/images/52376639a80c5a6e26bf55bbb4b074d4.jpg" group-title="⭐️Western",Damisela (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553255.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Danza con Lobos (1990)" tvg-logo="http://redworld.pro:8880/images/3fabd7e22de59e420aa64224a4c412dd.jpg" group-title="⭐️Western",Danza con Lobos (1990)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Danza con Lobos (1990)" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/07/02/40/3461958.jpg" group-title="WESTERN",Danza con Lobos (1990)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/110939.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deadwood: La película (2019)" tvg-logo="http://redworld.pro:8880/images/07d951a5f230f4982468d6d370180897.jpg" group-title="⭐️Western",Deadwood: La película (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553257.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Del otro lado de la ley (2020)" tvg-logo="http://redworld.pro:8880/images/656bcd55fbf8701c8353cc8a823eb219.jpg" group-title="⭐️Western",Del otro lado de la ley (2020)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553258.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deuda de Honor (2014)" tvg-logo="http://redworld.pro:8880/images/4b0e0484dae5c108efe96740926ca150.jpg" group-title="⭐️Western",Deuda de Honor (2014)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deuda de honor (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2AyQS3QbHR02VC2hn7ZilbfgZ9.jpg" group-title="WESTERN",Deuda de honor (2014)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/94604.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Diablo (2016)" tvg-logo="http://redworld.pro:8880/images/1f577cbf2a087b125d0b1c53476e4ce4.jpg" group-title="⭐️Western",Diablo (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553260.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Django sin Cadenas (2012)" tvg-logo="http://redworld.pro:8880/images/d8a21e4330063d9dff64b9383e4d4af3.jpg" group-title="⭐️Western",Django sin Cadenas (2012)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El asesinato de Jesse James por el cobarde Robert Ford (2007)" tvg-logo="http://redworld.pro:8880/images/6d8cced707073cc4d0364b49a5b42d2f.jpg" group-title="⭐️Western",El asesinato de Jesse James por el cobarde Robert Ford (2007)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asesinato de Jesse James por el cobarde Robert Ford (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azrNQgdyBczVjLwqYqefPf3Vg6X.jpg" group-title="WESTERN",El asesinato de Jesse James por el cobarde Robert Ford (2007)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/124433.mkv
 #EXTINF:-1 tvg-id="" tvg-name="el desconocido \ (1953)" tvg-logo="http://redworld.pro:8880/images/6d8cced707073cc4d0364b49a5b42d2f.jpg" group-title="⭐️Western",el desconocido \ (1953)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1966)" tvg-logo="http://redworld.pro:8880/images/8fef4c63535b92c25b9e8678c27dca99.jpg" group-title="⭐️Western",El Dorado (1966)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCA1Zb1Kw1Zo6wSodCIlZPVfwpo.jpg" group-title="WESTERN",El Dorado (1966)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137718.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Duelo (2016)" tvg-logo="http://redworld.pro:8880/images/d06a5919f304263c8744a7d9f6ffeadd.jpg" group-title="⭐️Western",El Duelo (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El Jinete Pálido (1985)" tvg-logo="http://redworld.pro:8880/images/f43d999d176cc2ee27c68686da7a40c4.jpg" group-title="⭐️Western",El Jinete Pálido (1985)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El jinete pálido (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOezX2ee3fuCCvFjjCRt5hP1Fw1.jpg" group-title="WESTERN",El jinete pálido (1985)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Poder Del Perro (2021)" tvg-logo="http://redworld.pro:8880/images/31efd4f2606ee651b50f0dc603b419e8.jpg" group-title="⭐️Western",El Poder Del Perro (2021)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553267.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El regreso de los siete magníficos (1966)" tvg-logo="http://redworld.pro:8880/images/727439ab3625ab5dbbef218cd9d0a336.jpg" group-title="⭐️Western",El regreso de los siete magníficos (1966)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de los siete magníficos (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg" group-title="WESTERN",El regreso de los siete magníficos (1966)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137735.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El regreso de Sabata (1971)" tvg-logo="http://redworld.pro:8880/images/cda96f0de2eda7fffbb2cb9aa94e5526.jpg" group-title="⭐️Western",El regreso de Sabata (1971)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553269.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="http://redworld.pro:8880/images/28b47bac0dfb1cc49bb7dfdcc41ff97a.jpg" group-title="⭐️Western",El Siete Machos (1951)
@@ -10915,14 +10915,14 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553273.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553274.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En el valle de violencia (2016)" tvg-logo="http://redworld.pro:8880/images/e486d81014ddb328db6a580aecba910e.jpg" group-title="⭐️Western",En el valle de violencia (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553275.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En nombre de la ley (1971)" tvg-logo="http://redworld.pro:8880/images/02a7bee3141a7d079b9202539fbc163b.jpg" group-title="⭐️Western",En nombre de la ley (1971)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En nombre de la ley (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TiQY7UxoDb4w09Ur3284BPCUFH.jpg" group-title="WESTERN",En nombre de la ley (1971)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/124440.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Esclavos del oro (1939)" tvg-logo="http://redworld.pro:8880/images/1dd0dd7511a71320a2fb18f29b5d95bf.jpg" group-title="⭐️Western",Esclavos del oro (1939)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553277.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Forajidos de leyenda" tvg-logo="http://redworld.pro:8880/images/1dd0dd7511a71320a2fb18f29b5d95bf.jpg" group-title="⭐️Western",Forajidos de leyenda
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Frontera (2014)" tvg-logo="http://redworld.pro:8880/images/ad24c59cc69cb610121f505ff3d6809b.jpg" group-title="⭐️Western",Frontera (2014)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frontera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miAWbPJLzPRGP4QaJFkklSZe2gZ.jpg" group-title="WESTERN",Frontera (2014)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/84035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Frontera caníbal \ (2015)" tvg-logo="http://redworld.pro:8880/images/ad24c59cc69cb610121f505ff3d6809b.jpg" group-title="⭐️Western",Frontera caníbal \ (2015)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553280.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FRONTIER (2020)" tvg-logo="http://redworld.pro:8880/images/2d73a02748ef3efab099726ed17141fd.jpg" group-title="⭐️Western",FRONTIER (2020)
@@ -10931,10 +10931,10 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553281.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553282.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Grey Owl (1999)" tvg-logo="http://redworld.pro:8880/images/c767c896b0af113824d2797c2894c9ce.jpg" group-title="⭐️Western",Grey Owl (1999)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hondo (1953)" tvg-logo="http://redworld.pro:8880/images/99246246a35add62b669349bd77fa255.jpg" group-title="⭐️Western",Hondo (1953)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infierno en la Frontera (2019)" tvg-logo="http://redworld.pro:8880/images/c1714cda36348c1663c20946ec9bfa4e.jpg" group-title="⭐️Western",Infierno en la Frontera (2019)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hondo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ID1Zl2TIflgd5yVErroaT3Podg.jpg" group-title="WESTERN",Hondo (1953)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/83994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infierno en la frontera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlQURJswWQyJhjDeLCQQIOAgRkF.jpg" group-title="WESTERN",Infierno en la frontera (2019)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/84180.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Joe Kidd (1972)" tvg-logo="http://redworld.pro:8880/images/f456b8847dee12a5b56fe6811a4d1af9.jpg" group-title="⭐️Western",Joe Kidd (1972)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553286.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jr. \ (1942)" tvg-logo="http://redworld.pro:8880/images/f456b8847dee12a5b56fe6811a4d1af9.jpg" group-title="⭐️Western",Jr. \ (1942)
@@ -10947,10 +10947,10 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553289.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553290.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Balada de Buster Scruggs (2018)" tvg-logo="http://redworld.pro:8880/images/eb7c226da5f0e6bdf21f75aaac4ed8e5.jpg" group-title="⭐️Western",La Balada de Buster Scruggs (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La balada de Lefty Brown (2017)" tvg-logo="http://redworld.pro:8880/images/1a6ccb83ec29b44e1294f33552ce7a2f.jpg" group-title="⭐️Western",La balada de Lefty Brown (2017)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La conquista del oeste (1962)" tvg-logo="http://redworld.pro:8880/images/c88f8a2d2833a4a37c1c2cb5904a01c0.jpg" group-title="⭐️Western",La conquista del oeste (1962)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La balada de Lefty Brown (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5IJMOUST8kTysFHaC05vnF5y4I.jpg" group-title="WESTERN",La balada de Lefty Brown (2017)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/84033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La conquista del Oeste (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSmzWKZTC0jTvJ4T92xnvq0bWCP.jpg" group-title="WESTERN",La conquista del Oeste (1962)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137082.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Luz, La flor del mal (2019)" tvg-logo="http://redworld.pro:8880/images/1617ae5ff246525445c941e25bf1b31e.jpg" group-title="⭐️Western",Luz, La flor del mal (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553294.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La furia de los siete magníficos (1972)" tvg-logo="http://redworld.pro:8880/images/8e011976cb43ad2dcd97dd3593f5e2a1.jpg" group-title="⭐️Western",La furia de los siete magníficos (1972)
@@ -10959,8 +10959,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553295.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553296.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La leyenda regresa (2021)" tvg-logo="http://redworld.pro:8880/images/e9f5b419dc65dfb2ba38438a55149e93.jpg" group-title="⭐️Western",La leyenda regresa (2021)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553297.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La marca de la horca (1968)" tvg-logo="http://redworld.pro:8880/images/c1917766bf4eab795a192e75ce224bf4.jpg" group-title="⭐️Western",La marca de la horca (1968)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La marca de la Horca (1968)" tvg-logo="https://www.bajarpelisgratis.com/wp-content/uploads/2018/04/La-Marca-de-la-Horca.jpg" group-title="WESTERN",La marca de la Horca (1968)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/83959.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La pandilla salvaje (1969)" tvg-logo="http://redworld.pro:8880/images/cddf8358846f7d67fe45267f60c7f21c.jpg" group-title="⭐️Western",La pandilla salvaje (1969)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553299.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La última cacería (2017)" tvg-logo="http://redworld.pro:8880/images/f0fb0d9b4e0727c0d9a4d75ba87a95c5.jpg" group-title="⭐️Western",La última cacería (2017)
@@ -10969,12 +10969,12 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553300.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553301.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La venganza del muerto (1973)" tvg-logo="http://redworld.pro:8880/images/ec28512f1d85dfd90a61ee0167b337de.jpg" group-title="⭐️Western",La venganza del muerto (1973)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2019)" tvg-logo="http://redworld.pro:8880/images/654dd6ef51f79757f0a1d9d12e8b51ae.jpg" group-title="⭐️Western",La verdadera historia de la banda de Kelly (2019)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="WESTERN",La verdadera historia de la banda de Kelly (2019)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lawman (2017)" tvg-logo="http://redworld.pro:8880/images/91f7c5be57becfb500661728d2edfc1b.jpg" group-title="⭐️Western",Lawman (2017)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Le llamaban Trinidad (1970)" tvg-logo="http://redworld.pro:8880/images/d66c61da886874c94473aa41511d38f2.jpg" group-title="⭐️Western",Le llamaban Trinidad (1970)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le llamaban Trinidad (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28kVOdftrAWAUm0qUChaj2s7xjq.jpg" group-title="WESTERN",Le llamaban Trinidad (1970)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137739.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Locura en el oeste (1974)" tvg-logo="http://redworld.pro:8880/images/1f957c8fe00f3427def299b362e8a7f6.jpg" group-title="⭐️Western",Locura en el oeste (1974)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553306.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los 8 Más Odiados (2015)" tvg-logo="http://redworld.pro:8880/images/6f8f5ba291885111e2c9b32c3cfef719.jpg" group-title="⭐️Western",Los 8 Más Odiados (2015)
@@ -11001,8 +11001,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553316.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553317.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Oestelandia (1973)" tvg-logo="http://redworld.pro:8880/images/7004dd3565ddce74cb62f76c6c12098e.jpg" group-title="⭐️Western",Oestelandia (1973)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Organ Trail (2023)" tvg-logo="http://redworld.pro:8880/images/ffdf21c7149f8352828db5c4e73f81f6.jpg" group-title="⭐️Western",Organ Trail (2023)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Organ Trail (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg" group-title="WESTERN",Organ Trail (2023)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137741.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pacto de Justicia (2003)" tvg-logo="http://redworld.pro:8880/images/ba8d84ab1eba2fa42a2745d6012c9185.jpg" group-title="⭐️Western",Pacto de Justicia (2003)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553320.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pariente (2016)" tvg-logo="http://redworld.pro:8880/images/414e575d5d43094c7da856a0167e6c0e.jpg" group-title="⭐️Western",Pariente (2016)
@@ -11013,8 +11013,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553322.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553323.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Pistolero (2019)" tvg-logo="http://redworld.pro:8880/images/c9e5fcb9d1994ffebc1e6bc2df79f499.jpg" group-title="⭐️Western",Pistolero (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Por un puñado de dólares (1964)" tvg-logo="http://redworld.pro:8880/images/1a1f65adb1f5bc99d54c701bd384a75b.jpg" group-title="⭐️Western",Por un puñado de dólares (1964)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por un puñado de dólares (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7OmAc3O0c6n6sTBlIPuSdYuaMz.jpg" group-title="WESTERN",Por un puñado de dólares (1964)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137712.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Regresando a casa (2015)" tvg-logo="http://redworld.pro:8880/images/a8c3c96ff7e7d73d63f54d003fe854be.jpg" group-title="⭐️Western",Regresando a casa (2015)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553326.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Revenant: El renacido (2015)" tvg-logo="http://redworld.pro:8880/images/6c9bf57aea19de8b68ba34d13d7f78a1.jpg" group-title="⭐️Western",Revenant: El renacido (2015)
@@ -11029,8 +11029,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553330.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Santa Clara (2019)" tvg-logo="http://redworld.pro:8880/images/926cb886f6c07f1244ae2d038bc2089e.jpg" group-title="⭐️Western",Santa Clara (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Silverado (1985)" tvg-logo="http://redworld.pro:8880/images/0aa1595ef299c26cb00a618ff388bc5d.jpg" group-title="⭐️Western",Silverado (1985)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silverado (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkQ7ha7WUVq3xqEU78VbqymRc9E.jpg" group-title="WESTERN",Silverado (1985)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/137656.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sonora (2019)" tvg-logo="http://redworld.pro:8880/images/6805d99be7d06d4c685eb89c9db5ee47.jpg" group-title="⭐️Western",Sonora (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553334.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Temple de acero (1969)" tvg-logo="http://redworld.pro:8880/images/6978f394278e800a32a2d3b5b6b8cffc.jpg" group-title="⭐️Western",Temple de acero (1969)
@@ -11051,8 +11051,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553341.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553342.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un tren del infierno (1975)" tvg-logo="http://redworld.pro:8880/images/f4f13e7a294cdcb62048c72a80eb09f2.jpg" group-title="⭐️Western",Un tren del infierno (1975)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="http://redworld.pro:8880/images/d0e827429f42c2c6beed465d4fc9a391.jpg" group-title="⭐️Western",Valley of Bones (2017)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F4%2Fgracenote%2F49932e25dd681742e8673923a892f515.jpg" group-title="WESTERN",Valley of Bones (2017)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/105293.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy la Ley (1991)" tvg-logo="http://redworld.pro:8880/images/735b729c7527d1d0a4011fe2adb2fb84.jpg" group-title="⭐️Western",Yo soy la Ley (1991)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553345.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Érase una vez en el Oeste (1968)" tvg-logo="http://redworld.pro:8880/images/f46fa577cd9237013dcefd718a1789ec.jpg" group-title="⭐️Western",Érase una vez en el Oeste (1968)
@@ -11425,12 +11425,12 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553530.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553531.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Foreign Affair \ (2003)" tvg-logo="http://redworld.pro:8880/images/4d53d289db019c8bbead0c6ac6d4beda.jpg" group-title="⭐️Romance",A Foreign Affair \ (2003)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553532.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After: Amor Infinito (2022)" tvg-logo="http://redworld.pro:8880/images/8de475b5b439ff566e18ddf4f916aa71.jpg" group-title="⭐️Romance",After: Amor Infinito (2022)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After: Amor infinito (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg" group-title="ROMANCE",After: Amor infinito (2022)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/94498.mkv
 #EXTINF:-1 tvg-id="" tvg-name="After: Aquí empieza todo (2019)" tvg-logo="http://redworld.pro:8880/images/8b5dd16fe4417678404a580ebda2ac2b.jpg" group-title="⭐️Romance",After: Aquí empieza todo (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553534.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After: En mil pedazos (2020)" tvg-logo="http://redworld.pro:8880/images/422c859f41e0521e299d957262592088.jpg" group-title="⭐️Romance",After: En mil pedazos (2020)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After: En mil pedazos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nPw22C41EUWXREWmY9iIivMXxm.jpg" group-title="ROMANCE",After: En mil pedazos (2020)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/117021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alguien extraordinario (2019)" tvg-logo="http://redworld.pro:8880/images/a5d884a6b26a8c5ef7fea31f58d12c60.jpg" group-title="⭐️Romance",Alguien extraordinario (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553536.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amando Deprisa (2018)" tvg-logo="http://redworld.pro:8880/images/25432f2f3cef7a45f92577453486f272.jpg" group-title="⭐️Romance",Amando Deprisa (2018)
@@ -11443,8 +11443,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553539.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553540.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Apostando al amor \ (2017)" tvg-logo="http://redworld.pro:8880/images/53e8ff84624eebda0644833d55e810b9.jpg" group-title="⭐️Romance",Apostando al amor \ (2017)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553541.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A todos los chicos de los que me enamoré (2018)" tvg-logo="http://redworld.pro:8880/images/3e2f5fdc094d319281e5a8dcca8f0d99.jpg" group-title="⭐️Romance",A todos los chicos de los que me enamoré (2018)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A todos los chicos de los que me enamoré (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edspFefhqzR2jpqzV38duYjYKNC.jpg" group-title="ROMANCE",A todos los chicos de los que me enamoré (2018)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/100074.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bajo el mismo techo (2010)" tvg-logo="http://redworld.pro:8880/images/4ecdc176d3caafaaf4809d72d462b89e.jpg" group-title="⭐️Romance",Bajo el mismo techo (2010)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553543.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bajo La Misma Estrella (2014)" tvg-logo="http://redworld.pro:8880/images/289203d06e41fa8266c0e53fd995b39c.jpg" group-title="⭐️Romance",Bajo La Misma Estrella (2014)
@@ -11455,10 +11455,10 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553545.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553546.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cat Skin (2017)" tvg-logo="http://redworld.pro:8880/images/d23718b245842245ecc58311af8cf51e.jpg" group-title="⭐️Romance",Cat Skin (2017)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553547.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cincuenta Sombras de Grey (2015)" tvg-logo="http://redworld.pro:8880/images/a6d306d64627200c6fa02a4cfd62a27a.jpg" group-title="⭐️Romance",Cincuenta Sombras de Grey (2015)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553548.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cincuenta Sombras Liberadas (2018)" tvg-logo="http://redworld.pro:8880/images/22c65829c2e712f63040588599159ffc.jpg" group-title="⭐️Romance",Cincuenta Sombras Liberadas (2018)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras de Grey (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" group-title="ROMANCE",Cincuenta sombras de Grey (2015)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/134642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras liberadas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="ROMANCE",Cincuenta sombras liberadas (2018)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/134641.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Como si fuera la primera vez (2019)" tvg-logo="http://redworld.pro:8880/images/b692858c24ab2e2e9b201e6bddd03b32.jpg" group-title="⭐️Romance",Como si fuera la primera vez (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553550.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Contando a mis ex (2011)" tvg-logo="http://redworld.pro:8880/images/cfd40291d131e4683deb51e7bfd56d2b.jpg" group-title="⭐️Romance",Contando a mis ex (2011)
@@ -11495,8 +11495,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553566.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553567.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Elisa y Marcela (2019)" tvg-logo="http://redworld.pro:8880/images/8346cd895418a19ab066afa9172da5a1.jpg" group-title="⭐️Romance",Elisa y Marcela (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553568.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El secreto de Adaline (2015)" tvg-logo="http://redworld.pro:8880/images/d13052a63e64d52245f63c0df4b59466.jpg" group-title="⭐️Romance",El secreto de Adaline (2015)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de Adaline (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg" group-title="ROMANCE",El secreto de Adaline (2015)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/134844.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El Sol También es una Estrella (2019)" tvg-logo="http://redworld.pro:8880/images/381affeed058384bb08487b105500df7.jpg" group-title="⭐️Romance",El Sol También es una Estrella (2019)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553570.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El stand de los besos (2018)" tvg-logo="http://redworld.pro:8880/images/909d31bd4ba5ead28115ec03645e5de7.jpg" group-title="⭐️Romance",El stand de los besos (2018)
@@ -11525,8 +11525,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553581.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553582.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Boda de mi Ex (2018)" tvg-logo="http://redworld.pro:8880/images/95a3e80a46f41b6f0bf3329bf8812f7f.jpg" group-title="⭐️Romance",La Boda de mi Ex (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553583.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La Cita Perfecta (2019)" tvg-logo="http://redworld.pro:8880/images/831b38e461754cd7eb7dd3343e66f7d1.jpg" group-title="⭐️Romance",La Cita Perfecta (2019)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cita perfecta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8P8AI9xfz1AnX9ojfbn3lTo1e.jpg" group-title="ROMANCE",La cita perfecta (2019)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/58865.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La La Land: Una historia de amor (2016)" tvg-logo="http://redworld.pro:8880/images/326becfb0ecf14c7268dbb11664f85d3.jpg" group-title="⭐️Romance",La La Land: Una historia de amor (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553585.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La mala educación de Cameron Post (2018)" tvg-logo="http://redworld.pro:8880/images/930ce69c578c64ba6a22911f360707c3.jpg" group-title="⭐️Romance",La mala educación de Cameron Post (2018)
@@ -11541,8 +11541,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553589.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Loca por las Compras (2009)" tvg-logo="http://redworld.pro:8880/images/28366c5c233c2009a335eda8ddebecf7.jpg" group-title="⭐️Romance",Loca por las Compras (2009)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553591.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de mí (2014)" tvg-logo="http://redworld.pro:8880/images/ea29f7eba6192b6a0c882aacea825bb1.jpg" group-title="⭐️Romance",Lo mejor de mí (2014)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de mí (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47VDL1LRHXfofzXTLrGFe8QpxD4.jpg" group-title="ROMANCE",Lo mejor de mí (2014)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/95716.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Long Nights Short Mornings (2016)" tvg-logo="http://redworld.pro:8880/images/432ad83ca4e24b0a59054eedb2ca22d2.jpg" group-title="⭐️Romance",Long Nights Short Mornings (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553593.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Fantasmas de mis Ex (2009)" tvg-logo="http://redworld.pro:8880/images/ddd6544cc0104e8781c1878cb4521993.jpg" group-title="⭐️Romance",Los Fantasmas de mis Ex (2009)
@@ -11599,10 +11599,10 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553618.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553619.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Royal Hearts (2018)" tvg-logo="http://redworld.pro:8880/images/e79e972d679524f1cb73ab7b6d457d18.jpg" group-title="⭐️Romance",Royal Hearts (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553620.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Secretaria ejecutiva (1988)" tvg-logo="http://redworld.pro:8880/images/0bfc1c0376ac25afbd4dcd54cae907ad.jpg" group-title="⭐️Romance",Secretaria ejecutiva (1988)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553621.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Siempre el mismo día (2011)" tvg-logo="http://redworld.pro:8880/images/d03202f7364abbd2c71a5d7362f066bd.jpg" group-title="⭐️Romance",Siempre el mismo día (2011)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretaria Ejecutiva (1988)" tvg-logo="https://pbs.twimg.com/media/Eeja1e6WkAAzN1P.jpg" group-title="ROMANCE",Secretaria Ejecutiva (1988)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/102307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siempre el mismo día (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pC7IS1LlDYtxN3HHaeRrhmlAVin.jpg" group-title="ROMANCE",Siempre el mismo día (2011)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/104023.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Si la colonia hablara (2018)" tvg-logo="http://redworld.pro:8880/images/26551bfae5d9fa1b711bc5ac5f58d487.jpg" group-title="⭐️Romance",Si la colonia hablara (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553623.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sing Street: Este es tu momento (2016)" tvg-logo="http://redworld.pro:8880/images/e3ebf13a2ef63c364fe1442fb3fd9983.jpg" group-title="⭐️Romance",Sing Street: Este es tu momento (2016)
@@ -11611,8 +11611,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553624.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553625.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Starman: El hombre de las estrellas (1984)" tvg-logo="http://redworld.pro:8880/images/19fd79e8fe95e59a418fdd3537125aeb.jpg" group-title="⭐️Romance",Starman: El hombre de las estrellas (1984)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553626.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tengo ganas de ti (2012)" tvg-logo="http://redworld.pro:8880/images/3e00514be78ff7d734df89108eb78995.jpg" group-title="⭐️Romance",Tengo ganas de ti (2012)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tengo ganas de ti (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z13I3sWzOoKBDAEpJ7iK9bSznQn.jpg" group-title="ROMANCE",Tengo ganas de ti (2012)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/91886.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tonari no Kaibutsu-kun (2018)" tvg-logo="http://redworld.pro:8880/images/a6897f7f19999e9acfb3d7b5f8e77b3b.jpg" group-title="⭐️Romance",Tonari no Kaibutsu-kun (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553628.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tootsie (1982)" tvg-logo="http://redworld.pro:8880/images/3382ca533e292b97e965819e37e6e639.jpg" group-title="⭐️Romance",Tootsie (1982)
@@ -11633,8 +11633,8 @@ http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553636.mkv
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553637.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un hombre fiel (2018)" tvg-logo="http://redworld.pro:8880/images/d7ee73b99f038d0fcfe9048ddb54a6ce.jpg" group-title="⭐️Romance",Un hombre fiel (2018)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un lugar llamado Notting Hill (1999)" tvg-logo="http://redworld.pro:8880/images/16e18cf7ebd4a49b999ed18d657d32a8.jpg" group-title="⭐️Romance",Un lugar llamado Notting Hill (1999)
-http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar llamado  Notting Hill (1999)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjlhNWEwN2MtYTg2ZS00Y2UwLTg2OTUtNmU2YTlhOTA5MDA0XkEyXkFqcGc@._V1_.jpg" group-title="ROMANCE",Un lugar llamado  Notting Hill (1999)
+http://planettvweb.com:8091/movie/MariaFontes/DLun4967d/126299.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un momento de amor (2016)" tvg-logo="http://redworld.pro:8880/images/75863c74e7aabe5f7ae835df07c7e437.jpg" group-title="⭐️Romance",Un momento de amor (2016)
 http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/553640.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un paseo por las nubes (1995)" tvg-logo="http://redworld.pro:8880/images/1406f17433bee1bd46c9e400484b7a83.jpg" group-title="⭐️Romance",Un paseo por las nubes (1995)
