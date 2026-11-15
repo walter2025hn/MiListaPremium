@@ -71,14 +71,44 @@ def parse_m3u(text: str):
 
 
 def fetch_source(url: str, index: int):
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        data = response.read(50 * 1024 * 1024).decode("utf-8-sig", errors="replace")
-    parsed = parse_m3u(data)
-    if not parsed:
-        raise RuntimeError(f"fuente {index} sin entradas M3U válidas")
-    print(f"Fuente autorizada {index}: {len(parsed)} entradas.", flush=True)
-    return parsed
+    """Download an approved source with retries; never log its private URL."""
+    last_error = "error_desconocido"
+    for attempt in range(RETRIES):
+        try:
+            request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(request, timeout=30) as response:
+                data = response.read(50 * 1024 * 1024).decode("utf-8-sig", errors="replace")
+            parsed = parse_m3u(data)
+            if not parsed:
+                raise RuntimeError("fuente_sin_entradas_M3U_validas")
+            print(f"Fuente autorizada {index}: {len(parsed)} entradas.", flush=True)
+            return parsed
+        except urllib.error.HTTPError as exc:
+            last_error = f"HTTP_{exc.code}"
+        except urllib.error.URLError as exc:
+            # Report only the reason type, never the source URL or credentials.
+            reason = getattr(exc, "reason", None)
+            last_error = f"URLError:{type(reason).__name__ if reason is not None else 'sin_detalle'}"
+        except (TimeoutError, socket.timeout) as exc:
+            last_error = type(exc).__name__
+        except Exception as exc:
+            last_error = type(exc).__name__
+            # Invalid M3U content is not likely to improve by retrying.
+            if isinstance(exc, RuntimeError):
+                break
+
+        if attempt + 1 < RETRIES:
+            wait_seconds = min(2 ** attempt, 8)
+            print(
+                f"Aviso: fallo temporal al leer fuente autorizada {index} "
+                f"({last_error}); reintento {attempt + 2}/{RETRIES} en {wait_seconds}s.",
+                flush=True,
+            )
+            time.sleep(wait_seconds)
+
+    raise RuntimeError(
+        f"no_se_pudo_leer_fuente_autorizada_{index}_tras_{RETRIES}_intentos ({last_error})"
+    )
 
 
 def check_url(url: str):
