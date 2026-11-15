@@ -71,10 +71,11 @@ jobs:
             git push
           fi
 
-          CURSOR=$(python -c "import json; print(json.load(open('verificacion_estado.json', encoding='utf-8'))['cursor'])")
-          if [ "$CURSOR" -ne 0 ]; then
-            echo "Lote publicado. Se inicia automáticamente el siguiente lote."
+          VERIFY_CURSOR=$(python -c "import json, pathlib; p=pathlib.Path('verificacion_estado.json'); print(json.loads(p.read_text(encoding='utf-8')).get('cursor', 0) if p.exists() else 0)")
+          MAINT_CURSOR=$(python -c "import json, pathlib; p=pathlib.Path('mantenimiento_estado.json'); print(json.loads(p.read_text(encoding='utf-8')).get('cursor', 0) if p.exists() else 0)")
+          if [ "$VERIFY_CURSOR" -ne 0 ] || [ "$MAINT_CURSOR" -ne 0 ]; then
+            echo "Quedan lotes pendientes de verificación o mantenimiento. Se inicia el siguiente lote."
             gh workflow run update-playlist.yml --ref main
           else
-            echo "Ciclo completo: todos los enlaces únicos han sido revisados."
+            echo "Ciclo completo: la verificación y el mantenimiento han recorrido sus listas."
           fi
