@@ -1,0 +1,928 @@
+REPORTE AUTOMÁTICO — CÓDIGO MASTER
+Entradas descargadas: 256763
+Entradas finales (sin duplicados): 253171
+URLs únicas totales: 256763
+URLs comprobadas en este lote: 3000
+URLs pendientes de comprobación en esta vuelta: 253763
+Elementos confirmados sin respuesta en sus copias: 2852
+Siguiente posición de revisión: 3001
+
+Entradas por grupo:
+- 24/7: 118
+- 4 K: 263
+- ACCION Y AVENTURA: 1453
+- ALEMANIA: 239
+- ANIME: 3851
+- ANIME 2: 1
+- ARGENTINA: 28
+- Adultos +18 ❌❌❌: 30
+- Adultos +18 ❌❌❌ Goldtv: 4
+- Adultos ❌❌❌: 357
+- Amazon Prime Video: 3893
+- Apple TV+: 1342
+- BELICO: 268
+- BRASIL: 62
+- BRASIL FILMES y SERIES: 60
+- BRASIL | ENTRETENIMIENTO: 47
+- BRASIL | ESPORTES: 28
+- BRASIL | INFANTILES: 13
+- BRASIL | NACIONALES: 7
+- BRASIL | NOTICIERO: 5
+- BRASIL! | GLOBO: 29
+- CANALES DE SERIE: 23
+- CHILE: 10
+- CIENCIA FICCION: 461
+- CINE: 107
+- CINE ARGENTINO/URUGUAYO: 276
+- CINE CANTINFLAS: 6
+- CLASICAS 2: 103
+- COLOMBIA: 16
+- CONCIERTOS: 236
+- DEPORTES: 69
+- DEPORTES ARGENTINA HD: 18
+- DEPORTES ESPAÑA: 19
+- DEPORTES MEXICO: 19
+- DISNEY - Star+: 3328
+- DOCUMENTAL: 149
+- DOCUMENTAL 2: 32
+- DOCUMENTALES: 41
+- ENTRETENIMIENTOS: 34
+- ESPAÑA: 27
+- ESPECIAL DE NAVIDAD: 101
+- EVENTOS DEL DIA: 12
+- El SALVADOR: 8
+- Globoplay: 132
+- HBO MAX: 3017
+- HONDURAS: 7
+- Hulu: 55
+- INFANTILES: 25
+- INTERNACIONALES: 16
+- LIGA DE CAMPEONES 2026/27: 5
+- MARVEL 2: 4
+- MEXICO: 4
+- MUSICA: 27
+- NAVIDAD 2: 1
+- NBA VIP: 2
+- NETFLIX: 11866
+- NOTICIA: 11
+- NUEVAS: 1122
+- PELICULAS CLASICAS: 504
+- PELICULAS DE  TERROR: 742
+- PELICULAS DE COMEDIAS: 1128
+- PELICULAS DE DRAMA: 1070
+- PELICULAS EROTICAS: 6
+- PELICULAS INFANTILES: 607
+- PELICULAS PARA ADULTOS: 415
+- PERU: 9
+- POLICIAL, SUSPENSO. CRIMEN: 743
+- PPV FHD: 35
+- Paramount+: 704
+- Peliculas 2026: 41
+- RADIOS EN VIVO: 6
+- REALITY SHOW: 6
+- RELIGIOSO: 6
+- RELIGIÓN: 24
+- ROMANCE: 212
+- SERIE DE DOCUMENTALES: 800
+- SERIES CLÁSICAS: 4448
+- SERIES DE ACCIÓN: 2732
+- SERIES DE COMEDIAS: 7910
+- SERIES DE DRAMA: 6990
+- SERIES DE SUSPENSO: 5093
+- SERIES DE TERROR: 491
+- SERIES EN EMISION: 1293
+- SERIES FICCION: 2188
+- SERIES INFANTILES: 4349
+- SERIES NUEVAS: 2801
+- SIN GRUPO: 9
+- TELENOVELAS: 14
+- TERROR 2: 1
+- URUGUAY: 27
+- USA: 183
+- WESTERN: 206
+- WESTERN 2: 5
+- XXX ADULTOS: 24
+- ▶️ AUDIO ORIGINAL: 48
+- ▶️ CINE 2023: 315
+- ▶️ CINE 2024: 86
+- ▶️ CINE 2025: 66
+- ▶️ CINE 2026: 81
+- ▶️ CINE BELICO: 139
+- ▶️ CLASICOS RETRO: 357
+- ▶️ EVENTOS DEL DIA  ▶️: 128
+- ▶️ EVENTOS NHL: 1
+- ▶️ SAGA INFANTILES: 30
+- ▶️ UNIVERSO DC: 23
+- ▶️ VOD 2023: 239
+- ▶️ VOD 2024: 628
+- ▶️ VOD 2025: 782
+- ▶️ VOD 2026: 497
+- ▶️ VOD ANIME  SER #2: 72
+- ▶️ VOD NETFLIX: 76
+- ☀️ VOD NAVIDEÑO: 325
+- ⚽ DEPORTE COSTA Rica  🇨🇷: 13
+- ⚽ DEPORTES 4K: 13
+- ⚽ DEPORTES ARGENTINA 🇦🇷: 13
+- ⚽ DEPORTES COLOMBIA: 12
+- ⚽ FOX ONE: 9
+- ⚽ FÚTBOL CHILE: 6
+- ⚽ LA LIGA 📺: 10
+- ⚽ LIGA HYPERMOTION ▶️: 4
+- ⚽ |  DSPORTS: 20
+- ⚽ | BEIN SPORT: 5
+- ⚽ | DAZN: 7
+- ⚽ | DEPORTE CHILE 🇨🇱: 25
+- ⚽ | DEPORTE ECUADOR 🇪🇨: 12
+- ⚽ | DEPORTES BOLIVIA 🇧🇴: 18
+- ⚽ | DEPORTES ESPAÑA 🇪🇸: 15
+- ⚽ | DEPORTES PREMIUM HD - SD: 34
+- ⚽ | ESPN PREMIUM: 29
+- ⚽ | FOX SPORTS: 13
+- ⚽ | LIGA Peruana 🇵🇪: 30
+- ⚾ EVENTOS DIARIOS LIGA BEISBOL MEXICANA: 17
+- ⚾ EVENTOS DIARIOS LIGA DOMINICANA DE BEISBOL: 7
+- ⚾ SERIE DEL CARIBE 2024 - 2025: 1
+- ⛪ | RELIGION / PREDICAS: 14
+- ✅ 24 /7 ACCIÓN: 3
+- ✅ 24/7 VIP: 253
+- ✅ CINE  MEXICANO: 215
+- ✅ CINE  PERUANO: 29
+- ✅ CINE ARGENTINO: 2
+- ✅ CINE BOLIVIANO: 1
+- ✅ CINE CHILENO: 180
+- ✅ LIGA MX: 7
+- ✅ MLB: 1
+- ✅ NBA: 4
+- ✅ NFL: 4
+- ✅ PELICULAS 480: 1029
+- ✅ SAGA: 115
+- ✅ USA | ABC: 97
+- ✅ USA | FOX: 113
+- ✅ USA | NBC: 190
+- ✅ VOD 720p: 1228
+- ✅ VOD HINDU: 1
+- ✅NOTICIAS VENEZUELA: 3
+- ✅️ | VOD HISTORIA: 232
+- ✝️ Semana Santa ✝️: 86
+- ✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨: 5
+- ❌❌❌   | OPC 1: 14
+- ❌❌❌  | OPC 2: 16
+- ⭐  VOD  TENDENCIA 20 MG: 390
+- ⭐  VOD ACCIÓN: 970
+- ⭐  VOD CRIMEN: 80
+- ⭐  VOD TERROR: 390
+- ⭐  VOD WESTERN: 88
+- ⭐ 4M4Z0N PR1M3: 7968
+- ⭐ ESTRENOS  2021: 337
+- ⭐ ESTRENOS 2022: 940
+- ⭐ LA GRANJA VIP: 8
+- ⭐ REALITYS ⭐: 1
+- ⭐ SEMANA SANTA: 34
+- ⭐ SERIES   ANIMES: 11731
+- ⭐ SERIES   NETFLIX: 11111
+- ⭐ SERIES  CARTOON: 696
+- ⭐ SERIES COLOMBIANAS: 5813
+- ⭐ SERIES DISNEY: 9068
+- ⭐ SERIES MAX: 6087
+- ⭐ SERIES NARCO: 2837
+- ⭐ SERIES PARAMOUNT: 2741
+- ⭐ SERIES STAR: 341
+- ⭐ TELESERIES: 12977
+- ⭐ VOD   DRAMA: 424
+- ⭐ VOD  2020: 472
+- ⭐ VOD 4K: 176
+- ⭐ VOD ANIMADOS: 437
+- ⭐ VOD ANIME: 19
+- ⭐ VOD ARTE MARCIALES: 80
+- ⭐ VOD AUDIO ESPAÑOL: 5
+- ⭐ VOD AVENTURAS: 368
+- ⭐ VOD CANTINFLAS: 20
+- ⭐ VOD CIENCIA FICCIÓN: 688
+- ⭐ VOD COMEDIA: 960
+- ⭐ VOD DOCUMENTALES: 243
+- ⭐ VOD DORAMAS: 1
+- ⭐ VOD INFANTILES: 356
+- ⭐ VOD KARAOKE: 549
+- ⭐ VOD MARVEL: 67
+- ⭐ VOD ROMANTICAS: 677
+- ⭐ Zona Retro: 7
+- ⭐VOD  CONCIERTOS: 147
+- ⭐VOD  SUSPENSO: 187
+- ⭐⭐ CATEGORIA CINE -CULTURA ⭐⭐: 1
+- ⭐⭐ CATEGORIA PAISES ⭐⭐: 1
+- ⭐️ Argentina: 29
+- ⭐️ Argentina Regionales: 44
+- ⭐️ Bolivia: 39
+- ⭐️ Brasil: 52
+- ⭐️ CHILE: 27
+- ⭐️ CHILE DEPORTE: 14
+- ⭐️ CHILE REGIONALES: 40
+- ⭐️ CINE PREMIUM: 83
+- ⭐️ COSTA RICA: 19
+- ⭐️ CULTURA: 34
+- ⭐️ Canadá: 87
+- ⭐️ Canales: 20
+- ⭐️ Colombia: 39
+- ⭐️ DEPORTE COSTA RICA: 5
+- ⭐️ Deporte Argentina: 13
+- ⭐️ Deporte Bolivia: 4
+- ⭐️ Deporte Colombia: 4
+- ⭐️ Deporte Ecuador: 6
+- ⭐️ Deportes Uruguay: 3
+- ⭐️ Doramas: 1834
+- ⭐️ DƏPORTE VIP: 31
+- ⭐️ DƏPORTES PE: 18
+- ⭐️ Ecuador: 13
+- ⭐️ El Salvador: 20
+- ⭐️ Estrenos 2026 ⭐️: 483
+- ⭐️ Futbol Paraguay: 3
+- ⭐️ Guatemala: 25
+- ⭐️ Honduras: 25
+- ⭐️ Infantiles: 20
+- ⭐️ Italia: 161
+- ⭐️ LA CASA DE LOS FAMOSOS MEXICO ⭐️: 10
+- ⭐️ LMP Liga ARCO: 7
+- ⭐️ MLS Exclusivo ⭐️: 7
+- ⭐️ Musica: 8
+- ⭐️ México: 62
+- ⭐️ NFL Exclusivo ⭐️: 17
+- ⭐️ Nicaragua: 9
+- ⭐️ Noticias: 4
+- ⭐️ PERU: 52
+- ⭐️ Panama: 8
+- ⭐️ Paraguay: 14
+- ⭐️ Peliculas 2020: 524
+- ⭐️ Puerto Rico: 4
+- ⭐️ RADIO PERU: 16
+- ⭐️ RADIOS ARGENTINA: 11
+- ⭐️ RADIOS CHILE: 63
+- ⭐️ RADIOS COLOMBIA: 12
+- ⭐️ RADIOS MEXICO: 12
+- ⭐️ República Dominicana: 4
+- ⭐️ Series Acción: 102
+- ⭐️ Series Amazon: 4069
+- ⭐️ Series Anime: 8169
+- ⭐️ Series Anime Gore: 119
+- ⭐️ Series Apple TV: 458
+- ⭐️ Series Chilenas: 7671
+- ⭐️ Series Ciencia Ficción: 605
+- ⭐️ Series Colombianas: 3628
+- ⭐️ Series Comedia: 1834
+- ⭐️ Series Disney: 2085
+- ⭐️ Series Documentales: 167
+- ⭐️ Series DragonBall: 664
+- ⭐️ Series Drama: 488
+- ⭐️ Series HBO: 3543
+- ⭐️ Series Hulu: 51
+- ⭐️ Series Infantiles: 2944
+- ⭐️ Series Mexicanas: 236
+- ⭐️ Series Narcos: 2369
+- ⭐️ Series Netflix: 14343
+- ⭐️ Series Paramount: 1023
+- ⭐️ Series Peruanas: 1669
+- ⭐️ Series Policiales: 193
+- ⭐️ Series Religiosas: 465
+- ⭐️ Series Retro: 4184
+- ⭐️ Series Star Plus: 2459
+- ⭐️ Series Starz: 105
+- ⭐️ Series Turcas: 878
+- ⭐️ TV Usa: 58
+- ⭐️ Telemundo: 14
+- ⭐️ Telenovelas: 18
+- ⭐️ Telenovelas Top: 3781
+- ⭐️ Tv Religiosos: 14
+- ⭐️ Unimas - Galavision: 13
+- ⭐️ Univision: 16
+- ⭐️ Uruguay: 15
+- ⭐️ Usa Childish: 6
+- ⭐️ Usa Entertainment: 23
+- ⭐️ Usa Fox: 48
+- ⭐️ Usa Movies: 39
+- ⭐️ Usa News: 5
+- ⭐️ Venezuela: 25
+- ⭐️Acción: 409
+- ⭐️Anime: 75
+- ⭐️Aventura: 580
+- ⭐️Ciencia Ficción: 130
+- ⭐️Cine Audio España: 136
+- ⭐️Cine Cantinflas: 37
+- ⭐️Cine Chileno: 90
+- ⭐️Cine Clásicos: 120
+- ⭐️Cine retro: 970
+- ⭐️Comedía: 232
+- ⭐️Conciertos: 349
+- ⭐️Crímen y Suspenso: 180
+- ⭐️DEBUT RONALDINHO⭐️: 1
+- ⭐️Dc Universe: 16
+- ⭐️Deportes México: 33
+- ⭐️Disney: 94
+- ⭐️Drama: 468
+- ⭐️HBO Max: 315
+- ⭐️Infantiles: 453
+- ⭐️Marvel: 64
+- ⭐️Navidad 2025: 52
+- ⭐️Netflix: 402
+- ⭐️Peliculas Internet Lentos: 516
+- ⭐️Peliculas Mexicanas: 46
+- ⭐️Peliculas Musicales: 20
+- ⭐️Peliculas Peruanas: 192
+- ⭐️Películas 2021: 627
+- ⭐️Películas 2023: 359
+- ⭐️Películas 2024: 418
+- ⭐️Películas 2025: 315
+- ⭐️Romance: 114
+- ⭐️Saga American Pie: 8
+- ⭐️Saga Bad Boys: 4
+- ⭐️Saga Chucky: 8
+- ⭐️Saga Creed: 3
+- ⭐️Saga Descendientes: 5
+- ⭐️Saga Duro de Matar: 6
+- ⭐️Saga El Rey Escorpión: 5
+- ⭐️Saga El Señor de los Anillos: 7
+- ⭐️Saga El Transportador: 4
+- ⭐️Saga Freddy Krueger: 9
+- ⭐️Saga Harry Potter: 8
+- ⭐️Saga Insidious: 5
+- ⭐️Saga Ip man: 6
+- ⭐️Saga Jason Voorhees: 12
+- ⭐️Saga Jeepers Creepers: 3
+- ⭐️Saga Jhon Wick: 4
+- ⭐️Saga Jigsaw: 10
+- ⭐️Saga Jurassic Park: 7
+- ⭐️Saga La momia: 4
+- ⭐️Saga Piratas del Caribe: 5
+- ⭐️Saga Scary Movie: 5
+- ⭐️Saga Star Wars: 12
+- ⭐️Saga Transformers: 7
+- ⭐️Saga Una Pareja Explosiva: 3
+- ⭐️Terror: 316
+- ⭐️Variadas: 562
+- ⭐️Western: 106
+- ⭕  UNIMAS: 10
+- ⭕ Casa de los Famosos All-Stars ⭕: 3
+- ⭕ GALAVISION PREMIUM: 3
+- ⭕ TELEMUNDO PREMIUM: 27
+- ⭕ TELENOVELA: 11
+- ⭕ UNIVISION PREMIUM: 17
+- 🆚 | EVENTOS NETFLIX Y DISNEY: 3
+- 🇦🇷 | ARGENTINA: 33
+- 🇧🇴 | BOLIVIA: 36
+- 🇨🇦 | CANADA: 95
+- 🇨🇱 | CHILE: 43
+- 🇨🇱 | CHILE EN DIRECTO: 344
+- 🇨🇴 |  COLOMBIA: 27
+- 🇨🇷  | COSTA RICA: 56
+- 🇨🇺 | CUBA: 7
+- 🇨🇿 |  RD DOMINICANA: 20
+- 🇪🇨 | ECUADOR: 34
+- 🇪🇸 | ESPAÑA: 44
+- 🇬🇹 | GUATEMALA: 27
+- 🇭🇳 | HONDURAS: 40
+- 🇲🇽 |  MEXICO: 37
+- 🇳🇮 | NICARAGUA: 15
+- 🇵🇦 |  PANAMA: 18
+- 🇵🇪 |  PERU: 26
+- 🇵🇷 | PUERTO RICO: 14
+- 🇵🇹 PORTUGAL: 410
+- 🇵🇾 | PARAGUAY: 11
+- 🇸🇻 |  EL SALVADOR: 10
+- 🇺🇸 |  KIDS FAMILY: 18
+- 🇺🇸 |  MOVIE NETWORKS: 84
+- 🇺🇸 |  USA  NEWS: 10
+- 🇺🇸 |  USA ENT: 158
+- 🇺🇸 |  USA SPORTZ: 84
+- 🇺🇾 | URUGUAY: 17
+- 🇻🇪 | VENEZUELA: 27
+- 🎬 CULTURA & VIAJES: 32
+- 🎬 TV  | VIX: 9
+- 🎬 |  CULTURA PREMIUM HD: 34
+- 🎬 | 24/7 DRAGÓN BALL PREMIUM: 5
+- 🎬 | 24/7 NARCOS: 1
+- 🎬 | 24/7 PREMIUM: 76
+- 🎬 | 24/7 PREMIUM OP2: 6
+- 🎬 | ANIME 24/7: 13
+- 🎬 | ASTRA CHILE: 190
+- 🎬 | CINE EN CASA: 5
+- 🎬 | CINE PREMIUM España  🇪🇸: 15
+- 🎬 | CINE PREMIUM HD - SD: 70
+- 🎬 | INFANTILES PREMIUM: 20
+- 🎬 | MUNDO  BEBE: 4
+- 🎬 | PLUTO PREMIUM: 541
+- 🎬 | RUN :TIME PLAY: 12
+- 🎵 |  MUSICA: 575
+- 🎾 | TENIS  GOLF & CICLISMOS ❗️: 4
+- 🏁 | FORMULA 1: 9
+- 🏆 SKY PREMIUM ⚽: 5
+- 🏆 | DEPORTES ALTERNATIVOS⭐: 184
+- 🏆 | DISNEY + ✅: 8
+- 🏆DISNEY + GUATEMALA ⚽: 10
+- 🏇 | HIPÓDROMO TV: 5
+- 🐂 | TORO TV: 3
+- 📡 EVENTOS CHILE ⚽: 6
+- 📰 |  NOTICIAS GLOBAL  - NEWS: 18
+- 📰 | NOTICIAS 24 NEWS: 5
+- 🔝 TOP 10: 1
+- 🥊 |  PELEAS UFC: 31
+- 🥊 | UFC PREMIUM: 23
+
+Posibles enlaces sin respuesta en copias ya comprobadas (no se eliminan):
+- CL | MEGA HD
+- CL | MEGA SD
+- CL | CHILEVISION HD
+- F0X $PORTS 1 (CHI)
+- F0X $PORTS 2 (CHI)
+- Latino | A3S
+- Latino | AZ CORAZON
+- Latino | Canal 5
+- Latino | Canal De Las Estrellas
+- Latino | TLNovelas
+- TL Novelas Univision
+- RADIO CORAZÓN
+- RADIO BIO BIO (SANTIAGO)
+- RADIO BIO BIO (CONCEPCION)
+- RADIO BIO BIO (TEMUCO)
+- RADIO BIO BIO (OSORNO)
+- RADIO BIO BIO (VALDIVIA)
+- RADIO PUDAHUEL
+- RADIO ARAUCANA (TEMUCO)
+- RADIO COOPERATIVA
+- RADIO ADN
+- RADIO ROCK AND POP
+- PUNTO 7 (VALPARAISO)
+- RADIO FMDOS
+- RADIO LOS 40
+- RADIO POSITIVA
+- RADIO IMAGINA
+- RADIO LA RETRO 80S
+- RADIO ACTIVA
+- RADIO FUTURO
+- RADIO LAS COLINAS (CARAHUE)
+- RADIO ANGEL(CARAHUE)
+- RADIO CAROLINA
+- RADIO DECADA DE LOS 90S
+- RADIO 24/7
+- RADIO LATINA BACHATA
+- RADIO DISNEY
+- RADIO ESTACIÓN RANCHERA
+- RADIO PRENDETE
+- RADIO TROPIKAL RANCHERAS
+- RADIO SABOR A CUMBIA
+- RADIO LA CUMBIA
+- RADIO PLAY FM
+- RADIO SONAR FM
+- RADIO BUENISIMA (PADRE LAS CASAS)
+- RADIO CONCIERTO
+- RADIO PUNTO 7 (VALDIVIA)
+- RADIO PUNTO 7 (PUERTO MONTT)
+- RADIO PICARONA
+- RADIO TROPICAL STEREO
+- RADIO SUPERSOL
+- RADIO FM DE LOS RECUERDOS
+- RADIO VICTORIA FM
+- ROCK & POP ( ARGENTINA )
+- RADIO 40 PRINCIPALES (ARGENTINA)
+- RADIO PLANETA CUMBIA LATINA (ARGENTINA)
+- RADIO RINCON GAUCHO (ARGENTINA)
+- RADIO ROCA FM CLASICOS (ARGENTINA)
+- RADIO CVC LA VOZ (ARGENTINA)
+- RADIO BELGRANO AM650 (ARGENTINA)
+- RADIO SOLO VINILO (ARGENTINA)
+- RADIO LIGHT FM 97.3 (ARGENTINA)
+- RADIO LA POPULAR (ARGENTINA)
+- RADIO SOLO ROCK NACIONAL (ARGENTINA)
+- RADIO RPP LIMA (PERU)
+- RADIO OXIGENO (PERU)
+- RADIO EXITOSA (PERU)
+- RADIO LA INOLVIDABLE (PERU)
+- RADIO OASIS (PERU)
+- RADIO PANAMERICANA (PERU)
+- RADIO RITMO ROMANTICO (PERU)
+- RADIO LA KALLE (PERU)
+- RADIO RADIOMAR (PERU)
+- RADIO NUEVA Q (PERU)
+- RADIO MODA TE MUEVE (PERU)
+- RADIO Z ROCK & POP (PERU)
+- RADIO ONDA CERO (PERU)
+- RADIO MAGICA (PERU)
+- RADIO CUMBIA MIX (PERU)
+- RADIO TOP LATINO (PERU)
+- RADIO UNIVERSO
+- RADIO ROCKIN 80S
+- RADIO CUMBRE
+- D3PØRT3S | $ŠPN-4
+- DEPORTES | $ŠPN PR3MIUM
+- DEPORTES | * $.Š.P.N U
+- DEPORTES | F0X $PORTS 1
+- DEPORTES | F0X $PORTS 2
+- DEPORTES | F0X $PORTS 3
+- DEPORTES | F0X $PORTS PREMIUM
+- DEPORTES | WIN SPORTS +
+- DEPORTES | F1
+- DEPORTES | GOLF CHANNEL
+- DEPORTES | TENNIS CHANEL
+- Deportes | AFIZZIONADOS
+- DEPORTES | TUDN
+- DEPORTES | TUDN XTRA
+- DEPORTES | TVG
+- DEPORTES | TVG 2
+- DEPORTES | TVC Deportes
+- DEPORTES | $ŠPN  NEWS
+- DEPORTES | SPORTV
+- RADIO MÁXIMA EXPERIENCIA
+- TVU Concepción
+- CANAL 9 Bio Bio
+- CANAL 2 San antonio
+- ADN TV
+- ANTOFAGASTA TV
+- VClassicTV Tropical
+- Radio recuerdos retro
+- CL | CHILEVISION SD
+- CL | CANAL 13 SD
+- CL | *TV*N HD
+- CL | *TV*N SD
+- CL | 24 HORAS HD
+- CL | LA RED HD
+- CL | LA RED SD
+- CL | REC TV
+- CL |  ETC TV
+- CDO 2
+- CL | UCV HD
+- Live Cams
+- MILF
+- Big Dick
+- Big Tits
+- Fetish
+- Pornstar
+- Big Ass
+- Interracial
+- Latina
+- POV
+- Blowjob
+- Teen
+- Hardcore
+- Cuckold
+- Threesome
+- Russian
+- Lesbian
+- Rough
+- Gangbang
+- Anal
+- Compilation
+- Brunette
+- Blonde
+- Gay
+- Asian
+- Venus
+- Interracialpass
+- Playboy
+- Hotwifexxx
+- CL | TELETRAK HD
+- CL | 13 TELESERIES
+- CL | 13 CULTURA
+- Latino | RCN Novelas
+- UMAG TV CL
+- UMAG TV 2 CL
+- ITV PATAGONIA
+- Pingüino tv CL
+- Santa Maria TV
+- Private
+- CO | Cable Noticias HD
+- CO | Canal Capital
+- CO | Canal Uno HD
+- CO | CARACOL HD
+- CO | CARACOL OP2
+- CO | CARACOL
+- CO | Caracol Internacional
+- CO | Caracol Internacional HD
+- CO | Caracol Noticias
+- CO | City TV HD
+- CO | El Tiempo
+- CO | NTN24
+- CO | Pasiones HD
+- CO | RCN SD
+- CO | RCN HD
+- CO | RCN Novelas HD
+- CO | Señal Colombia
+- CO | Señal Colombia HD
+- CO | TeleAntioquia
+- CO | TeleAntioquia HD
+- CO | Telecafé
+- CO | Telecafé HD
+- CO | TeleCaribe
+- CO | Telecaribe HD
+- CO | Telemedellin
+- CO | Telemedellin HD
+- CO | Telepacifico
+- CO | La kalle
+- CO | TV AGRO
+- Discovery Channel HD
+- Discovery Channel SD
+- Discovery Home & Health HD
+- Discovery Home & Health SD
+- Discovery Investigation HD
+- DISCOVERY Science
+- DISCOVERY Theater HD
+- DISCOVERY Theater
+- DISCOVERY Turbo HD
+- DISCOVERY World SD
+- DISCOVERY World HD
+- Discovery Familia FHD
+- Discovery Familia HD
+- EL GOURMET
+- HISTORY HD
+- History 2
+- History 2 HD
+- NATIONAL Geographic FHD
+- NAT Geo HD
+- NATGEO WILD HD
+- ANIMAL Planet HD.
+- E! Entretainment FHD
+- E! Entretainment HD
+- CANAL COCINA HD.
+- TLC FHD
+- TLC HD
+- HGTV FHD
+- LIFETIME HD
+- KIDS | BABY FIRST
+- KIDS | BABY TV
+- KIDS | CARTOON NETWORK | OPC2
+- KIDS | CARTOON NETWORK
+- KIDS | CARTOONITO
+- KIDS | DISCOVERY KIDS
+- KIDS | DISNEY CHANNEL
+- KIDS | DISNEY JUNIOR
+- KIDS | NICK
+- KIDS | NICKELODEON
+- KIDS | NICKTOONS
+- CHI | TVN 3
+- 13 REALITIES
+- Radio JPS 107.5 FM (Parral)
+- CL | NTV HD
+- AR | $ŠPN-1
+- AR | [$ŠPN 2]
+- AR | ($ŠPN -3)
+- AR | [$ŠPN) PREMIUM
+- AR | TYC SPORTS
+- AR | FUT SPORTS
+- AR | F0X $PORTS 1
+- AR | F0X $PORTS 2
+- AR | F0X $PORTS 3
+- AR | F0X $PORTS PREMIUM
+- TVC HD
+- TC TELEVISION
+- RTS
+- ECUADOR | ECUAVISA
+- ECUADOR | TELEAMAZONAS HD
+- EC | ECUAVISA HD (GYE)
+- GAMAVISION HD
+- EC | TC TELEVISION HD
+- ECUADOR TV
+- TVC SD
+- EC | RTS SD
+- TELEAMAZONAS SD
+- Radio lado oscuro TV / Cl
+- RADIO PACHANGA DANCE
+- RADIO CARAMELO
+- RADIO SONICA
+- RADIO PUNTO 7 (CONCEPCION)
+- RADIO LA CARIÑOSA
+- RADIO ISIDORA (CHILLAN)
+- RADIO BLU
+- RADIO CARACOL
+- RADIO W
+- RADIO OLIMPIA STEREO MEDELLIN
+- RADIO BESAME
+- RADIO TROPICANA BOGOTA
+- RADIO CANDELA ESTEREO
+- RADIO LOS 40 (COLOMBIA)
+- RADIO ACKTIVA BOGOTA
+- RADIO VIBRA FM
+- RADIO CONEXION56
+- RADIO LA REINA 98.6FM
+- RADIO LA RANCHERA (MONTEREY)
+- RADIO CUMBIAS INMORTALES
+- RADIO LA GRUPERA
+- RADIO CUMBIA MIX
+- RADIO CUMBIA SONIDERA
+- RADIO LA RANCHERA 106.1 FM
+- RADIO QUE VIVA MEXICO
+- RADIO GALLITO 760AM
+- RADIO LATINA EN VIVO 104.5
+- RADIO LA INVASORA 99.7FM
+- RADIO CUMBIA MEXICO
+- RADIO LA RANCHERITA
+- Love Nature HD
+- Love Nature SD (D)
+- SOBERANÍA
+- Boxing Tv SD (D)
+- Garage Tv SD (D)
+- Deportes 13 Tv SD (D)
+- Canela Deportes SD (D)
+- RT en Español SD (D)
+- ECUADOR | PURUWA
+- Just For Laughs Bromas HD (D)
+- Inti ecuador SD (D)
+- Mi Gente Tv Colombia HD (D)
+- Oxigeno Venezuela SD (D)
+- FAP TV COMPILATION
+- FAP TV 2
+- FAP TV 3
+- FAP TV 4
+- Megavision 21 FHD (El Salvador)
+- Megavision 19 HD (El Salvador)
+- Canal 36 FHD (Costa Rica)
+- Telesur HD (Costa Rica)
+- ABC HD (Paraguay)
+- PR  | Wapa 2
+- PR II PUNTO 2 HD (PP)
+- PR II NOTIUNO SD (PP)
+- PR II TELEORO SD (PP)
+- CL | MEGA 2 HD
+- Canal 10
+- CANAL 11
+- CANAL 2 HD
+- CANAL 8 TN8 HD
+- CANAL 6
+- CANAL 14 VOS TV HD
+- CANAL 12 HD
+- CANAL 10 HD
+- Radio Magallanes
+- Canal Gen Tv  - C.A B.A
+- Canal Atv - C.A.B.A
+- Canal Net Tv - C.A.B.A
+- Canal Urbana Teve - C.A.B.A
+- Canal Neo Tv  - Buenos Aires
+- Canal Quantica Tv - Buenos Aires
+- Canal Solidaria Tv - Buenos Aires
+- Canal Cinco Tv - Buenos Aires
+- Canal UNLP - Buenos Aires
+- Canal 8 Mar del Plata - Buenos Aires
+- Canal Telemix - Buenos Aires
+- Canal 3 Pinamar- Buenos Aires
+- Canal SpTv - Buenos Aires
+- Canal Telecreativa - Buenos Aires
+- Canal 11 de la Costa - Buenos Aires
+- Canal Chaco Tv - Chaco
+- Canal Azm Tv - Chubut
+- Canal 10 Cordoba - Cordoba
+- Canal U - Cordoba
+- Canal unitv - Cordoba
+- Canal Quatro Tv - Cordoba
+- Canal 9 Río cuarto Tv - Cordoba
+- Canal C20 - Cordoba
+- Canal Tru Tv - Cordoba
+- Canal CorrientesTV - Corrientes
+- Canal ACV HD - Corrientes
+- Canal 9 Litoral - Entre Rios
+- Canal Lapacho Tv - Formosa
+- Canal 3 - Formosa
+- Canal 7 - Jujui
+- Canal 13 - Jujui
+- Canal Televisión Publica Panpeana - La Pampa
+- Canal 9 Televida - Mendoza
+- Canal Señal U - Mendoza
+- Canal Coope Tv - Mendoza
+- Canal 8 - Mendoza
+- Canal Tum - Misiones
+- Canal 4 - Misiones
+- Canal 6 Digital - Misiones
+- Canal Misiones 4 - Misiones
+- Canal 21 Tv - Misiones
+- Canal RTN - Neuquen
+- Canal 7 - Neuquen
+- Canal 10 - Neuquen
+- TELE2WEB HD
+- GARAGE TV HD
+- POLAR COMUNICACIONES TV
+- RCN MÁS+
+- Milodon TV CL
+- Retro Magico | AR
+- Retro Music Television | CZ
+- The Retro Channel | PR
+- Retro Play TV | CL
+- Recuerdos Retro Radio TV |CL
+- Retro Plus TV
+- Chilevisual Retro | CL
+- AR | FUT SPORTS OP2
+- AR | $ŠPN PR3MIUM Opc 2
+- INet TV
+- ISB
+- Patagonia TV
+- TeleAngol
+- Canal 2 Quellón
+- UATV
+- Polar TV
+- TVR
+- Iquique TV
+- Huasco TV
+- El Centro TV
+- Holvoet TV
+- Canal 21 TV
+- Tevex
+- Teletrak
+- UESTV
+- STGO TV
+- Portalfoxmix TV
+- + Listas en M3U.CL ✪ | CL
+- Teleweb TV ✪ | BR
+- TV Grande Natal HDTV ✪ | BR
+- Vintage TV ✪ | BR
+- Agro Brasil TV | BR
+- ArarunaTV | BR
+- Band | BR
+- Classique TV | BR
+- NTV Patos de Minas | BR
+- Record News Espirito Santo | BR
+- TV A Plateia | BR
+- TV Água Boa | BR
+- TV Curuça | BR
+- TV Destak | BR
+- TV Difusora | BR
+- TV Difusora Leste | BR
+- TV Digital Birigui | BR
+- TV Mais | BR
+- TV Maná Brasil | BR
+- TV Mundial | BR
+- TV Rio Preto | BR
+- TV Sim Cachoeiro | BR
+- TV Sim Colatina | BR
+- TV Sim Linhares | BR
+- TV Sim Vitória | BR
+- TV Sul | BR
+- TV Ti Vejo | BR
+- TV Vicosa | BR
+- TVE | BR
+- Via Morena | BR
+- All Sports | BR
+- Canal 29 | BR
+- Geekdot | BR
+- Gospel Cartoon | BR
+- ISTV | BR
+- Kuriakos Kids | BR
+- Retro Cartoon | BR
+- TV Aracati | BR
+- TV J.SID | BR
+- TV Japi | BR
+- Kpop TV | BR
+- Mundo de la Musica TV | CL
+- Top TV | BR
+- Gospel Movies Television | BR
+- Nuevo Tiempo | BR
+- Rede Vida | BR
+- TV Aparecida | BR
+- TV Apostolos | BR
+- TV Evangelizar | BR
+- TV Rede Gospel | BR
+- TV Universal | BR
+- Spectrum Channel | CL
+- CDM (PR)
+- Logos TV (ES) (Opt-2)
+- Red ADVenir (BO)
+- Solidaria TV (ES)
+- CBN Español (US)
+- SOLIDARIA TV INTERNACIONAL
+- SOLIDARIA TV ARGENTINA
+- EWTN
+- SUBLIME GRACIA TV FORMOSA
+- GRACIA TV
+- RCC TV
+- TV ELOHIM
+- 3ABN Latino
+- CDM International
+- UR | CANAL 4 HD
+- UR | CANAL 4 SD
+- UR | CANAL 10 HD
+- UR | CANAL 10 SAETA HD
+- UR | CANAL 10 SD
+- UR | CANAL 12 HD
+- UR | CANAL 12 TELEDOCE HD
+- UR | CANAL LA RED HD
+- UR | A+V HD
+- UR | VTV HD
+- UR | VTV SD
+- UR | TV CIUDAD HD
+- URU || TNU  CANAL 5 SD (I)
+- UR | VTV PLUS HD
+- UR | VTV PLUS SD
+- Canal 13 Nic
+- Galáctika media
+- D3PORTES | Ŕ3@L M@DRÏD TV
+- DEP. URUGUAY | VTV HD
+- DEP. URUGUAY | VTV OP2
+- DEP. URUGUAY | VTV PLUS OP2
+- TeenNick
+- Nick Junior
+- Disney Channel
+- Disney Junior
+- Disney XD East
+- Baby TV
+- AR | Deport TV
+- CL | BIO-BIO TV
+- DEPORTES | CLARO SPORTS
+- Ecuavisa HD (Ecuador)
+- Oromar HD (Ecuador)
+- Multivision Sport (Guatemala)
+- Canal 7 (Guatemala)
+- Canal Televida (Argentina)
+- CINE  | A&E FHD
+- CINE  | A&E HD
