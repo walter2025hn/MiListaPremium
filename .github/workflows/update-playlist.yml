@@ -49,6 +49,7 @@ jobs:
 
       - name: Combinar fuentes autorizadas
         if: steps.phase.outputs.merge == 'true'
+        continue-on-error: true
         env:
           M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
           M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
