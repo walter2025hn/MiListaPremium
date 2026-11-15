@@ -10,6 +10,7 @@ import concurrent.futures
 import json
 import os
 import re
+import socket
 import sys
 import time
 import unicodedata
@@ -24,7 +25,7 @@ REPORT = Path("reporte_mantenimiento.txt")
 PAGE_SIZE = 1000
 WORKERS = 32
 TIMEOUT = 8
-RETRIES = 2
+RETRIES = 3
 MAX_ALTERNATIVES = 5
 USER_AGENT = "CodigoMaster-M3U-Maintenance/1.0"
 URL_RE = re.compile(r"^(https?|rtmp|rtsp|udp)://", re.I)
@@ -83,6 +84,7 @@ def fetch_source(url: str, index: int):
 def check_url(url: str):
     if not url.lower().startswith(("http://", "https://")):
         return "unknown", "protocolo_no_http"
+
     last = "error_desconocido"
     for attempt in range(RETRIES):
         try:
@@ -94,28 +96,33 @@ def check_url(url: str):
                 code = response.status
                 if 200 <= code < 400:
                     return "alive", str(code)
-                if code in (404, 410):
-                    last = str(code)
-                    # Retry once before declaring the URL definitively dead.
-                elif code in (401, 403):
+                if code in (401, 403):
                     return "restricted", str(code)
+                if code in (404, 410, 408, 425, 429) or 500 <= code <= 599:
+                    last = str(code)
                 else:
                     return "unknown", str(code)
         except urllib.error.HTTPError as exc:
-            if exc.code in (401, 403):
-                return "restricted", str(exc.code)
-            if exc.code in (404, 410):
-                last = str(exc.code)
+            code = exc.code
+            if code in (401, 403):
+                return "restricted", str(code)
+            if code in (404, 410, 408, 425, 429) or 500 <= code <= 599:
+                last = str(code)
             else:
-                return "unknown", str(exc.code)
-        except (TimeoutError, urllib.error.URLError, OSError) as exc:
-            # Network failures are not enough evidence to delete an entry.
-            return "unknown", type(exc).__name__
+                return "unknown", str(code)
+        except (TimeoutError, socket.timeout, urllib.error.URLError, OSError) as exc:
+            # Reintentar fallos transitorios; nunca borrar por timeout o error de red.
+            last = type(exc).__name__
         except Exception as exc:
             return "unknown", type(exc).__name__
+
         if attempt + 1 < RETRIES:
-            time.sleep(1)
-    return "dead", last
+            time.sleep(min(2 ** attempt, 4))
+
+    # Solo 404/410 persistentes en todos los intentos permiten retirar una URL.
+    if last in ("404", "410"):
+        return "dead", last
+    return "unknown", last
 
 
 def main():
@@ -166,13 +173,20 @@ def main():
         state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
     except Exception:
         state = {}
+    # Continuar desde la siguiente URL, no desde un índice que cambia cuando
+    # se retiran entradas. El índice queda como respaldo para estados antiguos.
     cursor = int(state.get("cursor", 0)) % len(unique)
-    batch = unique[cursor:cursor + PAGE_SIZE]
-    if len(batch) < PAGE_SIZE and cursor > 0:
-        batch += unique[:PAGE_SIZE - len(batch)]
+    next_url = state.get("next_url", "")
+    start = next((i for i, item in enumerate(unique) if item["url"] == next_url), cursor)
+    batch = unique[start:start + PAGE_SIZE]
+    if not batch:
+        print("ERROR: lote vacío; no se modifica la lista.")
+        return 8
+    next_index = (start + len(batch)) % len(unique)
+    following_url = unique[next_index]["url"] if next_index != 0 else ""
     checked = {}
     print(f"Lista: {len(original)} entradas; {duplicate_count} URLs duplicadas exactas.", flush=True)
-    print(f"Comprobando {len(batch)} enlaces de esta vuelta (posición {cursor + 1}).", flush=True)
+    print(f"Comprobando {len(batch)} enlaces de esta vuelta (posición {start + 1}).", flush=True)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futures = {pool.submit(check_url, item["url"]): item["url"] for item in batch}
@@ -227,9 +241,9 @@ def main():
     if new_text != original_text:
         PLAYLIST.write_text(new_text, encoding="utf-8")
 
-    next_cursor = (cursor + len(batch)) % len(unique)
     STATE.write_text(json.dumps({
-        "cursor": next_cursor,
+        "cursor": next_index,
+        "next_url": following_url,
         "total_entries": len(unique),
         "batch_size": len(batch),
         "checked_in_batch": len(checked),
@@ -241,6 +255,7 @@ def main():
         f"Entradas antes: {len(original)}",
         f"Duplicados exactos eliminados: {duplicate_count}",
         f"Enlaces comprobados en este lote: {len(checked)}",
+        f"Reintentos ante fallos transitorios: hasta {RETRIES} intentos por URL",
         f"Enlaces sustituidos con una alternativa válida: {replaced_count}",
         f"Enlaces confirmados 404/410 sin sustituto y retirados: {len(removed)}",
         f"Enlaces restringidos 401/403 conservados: {restricted}",
