@@ -1,11 +1,11 @@
 REPORTE AUTOMÁTICO — CÓDIGO MASTER
-Entradas descargadas: 256777
-Entradas finales (sin duplicados): 253180
-URLs únicas totales: 256777
+Entradas descargadas: 256779
+Entradas finales (sin duplicados): 253182
+URLs únicas totales: 256779
 URLs comprobadas en este lote: 3000
-URLs pendientes de comprobación en esta vuelta: 253777
-Elementos confirmados sin respuesta en sus copias: 2804
-Siguiente posición de revisión: 24001
+URLs pendientes de comprobación en esta vuelta: 253779
+Elementos confirmados sin respuesta en sus copias: 3000
+Siguiente posición de revisión: 27001
 
 Entradas por grupo:
 - 24/7: 118
@@ -92,7 +92,7 @@ Entradas por grupo:
 - SERIES DE TERROR: 491
 - SERIES EN EMISION: 1293
 - SERIES FICCION: 2188
-- SERIES INFANTILES: 4513
+- SERIES INFANTILES: 4349
 - SERIES NUEVAS: 2815
 - SIN GRUPO: 9
 - TELENOVELAS: 14
@@ -274,7 +274,7 @@ Entradas por grupo:
 - ⭐️ Series Drama: 488
 - ⭐️ Series HBO: 3543
 - ⭐️ Series Hulu: 51
-- ⭐️ Series Infantiles: 2780
+- ⭐️ Series Infantiles: 2944
 - ⭐️ Series Mexicanas: 236
 - ⭐️ Series Narcos: 2369
 - ⭐️ Series Netflix: 14343
@@ -321,7 +321,7 @@ Entradas por grupo:
 - ⭐️Marvel: 64
 - ⭐️Navidad 2025: 52
 - ⭐️Netflix: 402
-- ⭐️PRIMERA B⭐️: 1
+- ⭐️PRIMERA B⭐️: 3
 - ⭐️Peliculas Internet Lentos: 516
 - ⭐️Peliculas Mexicanas: 46
 - ⭐️Peliculas Musicales: 20
@@ -426,503 +426,503 @@ Entradas por grupo:
 - 🥊 | UFC PREMIUM: 23
 
 Posibles enlaces sin respuesta en copias ya comprobadas (no se eliminan):
-- LazyTown S01 E34
-- LazyTown S01 E35
-- LazyTown S02 E01
-- LazyTown S02 E02
-- LazyTown S02 E03
-- LazyTown S02 E04
-- LazyTown S02 E05
-- LazyTown S02 E06
-- LazyTown S02 E07
-- LazyTown S02 E08
-- LazyTown S02 E09
-- LazyTown S02 E10
-- LazyTown S02 E11
-- LazyTown S02 E12
-- LazyTown S02 E13
-- LazyTown S02 E14
-- LazyTown S02 E15
-- LazyTown S02 E16
-- LazyTown S02 E17
-- LazyTown S02 E18
-- LazyTown S03 E01
-- LazyTown S03 E02
-- LazyTown S03 E03
-- LazyTown S03 E04
-- LazyTown S03 E05
-- LazyTown S03 E06
-- LazyTown S03 E07
-- LazyTown S03 E08
-- LazyTown S03 E09
-- LazyTown S03 E10
-- LazyTown S03 E11
-- LazyTown S03 E12
-- LazyTown S03 E13
-- LazyTown S04 E01
-- LazyTown S04 E02
-- LazyTown S04 E03
-- LazyTown S04 E04
-- LazyTown S04 E05
-- LazyTown S04 E06
-- LazyTown S04 E07
-- LazyTown S04 E08
-- LazyTown S04 E09
-- LazyTown S04 E10
-- LazyTown S04 E11
-- LazyTown S04 E12
-- LazyTown S04 E13
-- LazyTown S04 E14
-- Insensato Corazón S01 E01
-- Insensato Corazón S01 E02
-- Insensato Corazón S01 E03
-- Insensato Corazón S01 E04
-- Insensato Corazón S01 E05
-- Insensato Corazón S01 E06
-- Insensato Corazón S01 E07
-- Insensato Corazón S01 E08
-- Insensato Corazón S01 E09
-- Insensato Corazón S01 E10
-- Insensato Corazón S01 E11
-- Insensato Corazón S01 E12
-- Insensato Corazón S01 E13
-- Insensato Corazón S01 E14
-- Insensato Corazón S01 E15
-- Insensato Corazón S01 E16
-- Insensato Corazón S01 E17
-- Insensato Corazón S01 E18
-- Insensato Corazón S01 E19
-- Insensato Corazón S01 E20
-- Insensato Corazón S01 E21
-- Insensato Corazón S01 E22
-- Insensato Corazón S01 E23
-- Insensato Corazón S01 E24
-- Insensato Corazón S01 E25
-- Insensato Corazón S01 E26
-- Insensato Corazón S01 E27
-- Insensato Corazón S01 E28
-- Insensato Corazón S01 E29
-- Insensato Corazón S01 E30
-- Insensato Corazón S01 E31
-- Insensato Corazón S01 E32
-- Insensato Corazón S01 E33
-- Insensato Corazón S01 E34
-- Insensato Corazón S01 E35
-- Insensato Corazón S01 E36
-- Insensato Corazón S01 E37
-- Insensato Corazón S01 E38
-- Insensato Corazón S01 E39
-- Insensato Corazón S01 E40
-- Insensato Corazón S01 E41
-- Insensato Corazón S01 E42
-- Insensato Corazón S01 E43
-- Insensato Corazón S01 E44
-- Insensato Corazón S01 E45
-- Insensato Corazón S01 E46
-- Insensato Corazón S01 E47
-- Insensato Corazón S01 E48
-- Insensato Corazón S01 E49
-- Insensato Corazón S01 E50
-- Insensato Corazón S01 E51
-- Insensato Corazón S01 E52
-- Insensato Corazón S01 E53
-- Insensato Corazón S01 E54
-- Insensato Corazón S01 E55
-- Insensato Corazón S01 E56
-- Insensato Corazón S01 E57
-- Insensato Corazón S01 E58
-- Insensato Corazón S01 E59
-- Insensato Corazón S01 E60
-- Insensato Corazón S01 E61
-- Insensato Corazón S01 E62
-- Insensato Corazón S01 E63
-- Insensato Corazón S01 E64
-- Insensato Corazón S01 E65
-- Insensato Corazón S01 E66
-- Insensato Corazón S01 E67
-- Insensato Corazón S01 E68
-- Insensato Corazón S01 E69
-- Insensato Corazón S01 E70
-- Insensato Corazón S01 E71
-- Insensato Corazón S01 E72
-- Insensato Corazón S01 E73
-- Insensato Corazón S01 E74
-- Insensato Corazón S01 E75
-- Insensato Corazón S01 E76
-- Insensato Corazón S01 E77
-- Insensato Corazón S01 E78
-- Insensato Corazón S01 E79
-- Insensato Corazón S01 E80
-- Insensato Corazón S01 E81
-- Insensato Corazón S01 E82
-- Insensato Corazón S01 E83
-- Insensato Corazón S01 E84
-- Insensato Corazón S01 E85
-- Insensato Corazón S01 E86
-- Insensato Corazón S01 E87
-- Insensato Corazón S01 E88
-- Insensato Corazón S01 E89
-- Insensato Corazón S01 E90
-- Insensato Corazón S01 E91
-- Insensato Corazón S01 E92
-- Insensato Corazón S01 E93
-- Insensato Corazón S01 E94
-- Insensato Corazón S01 E95
-- Insensato Corazón S01 E96
-- Insensato Corazón S01 E97
-- Insensato Corazón S01 E98
-- Insensato Corazón S01 E99
-- Insensato Corazón S01 E100
-- Insensato Corazón S01 E101
-- Insensato Corazón S01 E102
-- Insensato Corazón S01 E103
-- Insensato Corazón S01 E104
-- Insensato Corazón S01 E105
-- Insensato Corazón S01 E106
-- Insensato Corazón S01 E107
-- Insensato Corazón S01 E108
-- Insensato Corazón S01 E109
-- Insensato Corazón S01 E110
-- Insensato Corazón S01 E111
-- Insensato Corazón S01 E112
-- Insensato Corazón S01 E113
-- Insensato Corazón S01 E114
-- Insensato Corazón S01 E115
-- Insensato Corazón S01 E116
-- Insensato Corazón S01 E117
-- Insensato Corazón S01 E118
-- Insensato Corazón S01 E119
-- Insensato Corazón S01 E120
-- Insensato Corazón S01 E121
-- Insensato Corazón S01 E122
-- Insensato Corazón S01 E123
-- Insensato Corazón S01 E124
-- Insensato Corazón S01 E125
-- Insensato Corazón S01 E126
-- Insensato Corazón S01 E127
-- Insensato Corazón S01 E128
-- Insensato Corazón S01 E129
-- Insensato Corazón S01 E130
-- Insensato Corazón S01 E131
-- Insensato Corazón S01 E132
-- Insensato Corazón S01 E133
-- Insensato Corazón S01 E134
-- Insensato Corazón S01 E135
-- Insensato Corazón S01 E136
-- Insensato Corazón S01 E137
-- Insensato Corazón S01 E138
-- Insensato Corazón S01 E139
-- Insensato Corazón S01 E140
-- Insensato Corazón S01 E141
-- Insensato Corazón S01 E142
-- Insensato Corazón S01 E143
-- Insensato Corazón S01 E144
-- Insensato Corazón S01 E145
-- Insensato Corazón S01 E146
-- Insensato Corazón S01 E147
-- Insensato Corazón S01 E148
-- Insensato Corazón S01 E149
-- Insensato Corazón S01 E150
-- Avatar: La Leyenda de Korra S01 E01
-- Avatar: La Leyenda de Korra S01 E02
-- Avatar: La Leyenda de Korra S01 E03
-- Avatar: La Leyenda de Korra S01 E04
-- Avatar: La Leyenda de Korra S01 E05
-- Avatar: La Leyenda de Korra S01 E06
-- Avatar: La Leyenda de Korra S01 E07
-- Avatar: La Leyenda de Korra S01 E08
-- Avatar: La Leyenda de Korra S01 E09
-- Avatar: La Leyenda de Korra S01 E10
-- Avatar: La Leyenda de Korra S01 E11
-- Avatar: La Leyenda de Korra S01 E12
-- Avatar: La Leyenda de Korra S02 E01
-- Avatar: La Leyenda de Korra S02 E02
-- Avatar: La Leyenda de Korra S02 E03
-- Avatar: La Leyenda de Korra S02 E04
-- Avatar: La Leyenda de Korra S02 E05
-- Avatar: La Leyenda de Korra S02 E06
-- Avatar: La Leyenda de Korra S02 E07
-- Avatar: La Leyenda de Korra S02 E08
-- Avatar: La Leyenda de Korra S02 E09
-- Avatar: La Leyenda de Korra S02 E10
-- Avatar: La Leyenda de Korra S02 E11
-- Avatar: La Leyenda de Korra S02 E12
-- Avatar: La Leyenda de Korra S02 E13
-- Avatar: La Leyenda de Korra S02 E14
-- Agatha Christie: Las siete esferas S01 E01
-- Agatha Christie: Las siete esferas S01 E02
-- Agatha Christie: Las siete esferas S01 E03
-- perder S01 E01
-- perder S01 E02
-- perder S01 E03
-- perder S01 E04
-- perder S01 E05
-- perder S01 E06
-- perder S01 E07
-- perder S01 E08
-- Amor de oficina S01 E01
-- Amor de oficina S01 E02
-- Amor de oficina S01 E03
-- Amor de oficina S01 E04
-- Amor de oficina S01 E05
-- Amor de oficina S01 E06
-- Amor de oficina S01 E07
-- Amor de oficina S01 E08
-- Bailando sobre hielo S01 E01
-- Bailando sobre hielo S01 E02
-- Bailando sobre hielo S01 E03
-- Bailando sobre hielo S01 E04
-- Bailando sobre hielo S01 E05
-- Bailando sobre hielo S01 E06
-- Bailando sobre hielo S01 E07
-- Bailando sobre hielo S01 E08
-- Beso dinamita S01 E01
-- Beso dinamita S01 E02
-- Beso dinamita S01 E03
-- Beso dinamita S01 E04
-- Beso dinamita S01 E05
-- Beso dinamita S01 E06
-- Beso dinamita S01 E07
-- Beso dinamita S01 E08
-- Beso dinamita S01 E09
-- Beso dinamita S01 E10
-- Beso dinamita S01 E11
-- Beso dinamita S01 E12
-- Beso dinamita S01 E13
-- Beso dinamita S01 E14
-- Una estrella más brillante que el sol S01 E01
-- Una estrella más brillante que el sol S01 E02
-- Una estrella más brillante que el sol S01 E03
-- Una estrella más brillante que el sol S01 E04
-- Una estrella más brillante que el sol S01 E05
-- Una estrella más brillante que el sol S01 E06
-- Una estrella más brillante que el sol S01 E07
-- Una estrella más brillante que el sol S01 E08
-- Una estrella más brillante que el sol S01 E09
-- Una estrella más brillante que el sol S01 E10
-- Una estrella más brillante que el sol S01 E11
-- Una estrella más brillante que el sol S01 E12
-- Una estrella más brillante que el sol S01 E13
-- Una estrella más brillante que el sol S01 E14
-- Una estrella más brillante que el sol S01 E15
-- Una estrella más brillante que el sol S01 E16
-- Una estrella más brillante que el sol S01 E17
-- Una estrella más brillante que el sol S01 E18
-- Una estrella más brillante que el sol S01 E19
-- Una estrella más brillante que el sol S01 E20
-- Una estrella más brillante que el sol S01 E21
-- Una estrella más brillante que el sol S01 E22
-- Una estrella más brillante que el sol S01 E23
-- Una estrella más brillante que el sol S01 E24
-- Una estrella más brillante que el sol S01 E25
-- Una estrella más brillante que el sol S01 E26
-- Una estrella más brillante que el sol S01 E27
-- Una estrella más brillante que el sol S01 E28
-- Una estrella más brillante que el sol S01 E29
-- Una estrella más brillante que el sol S01 E30
-- La casa de papel: Corea S01 E01
-- La casa de papel: Corea S01 E02
-- La casa de papel: Corea S01 E03
-- La casa de papel: Corea S01 E04
-- La casa de papel: Corea S01 E05
-- La casa de papel: Corea S01 E06
-- La casa de papel: Corea S01 E07
-- La casa de papel: Corea S01 E08
-- La casa de papel: Corea S01 E09
-- La casa de papel: Corea S01 E10
-- La casa de papel: Corea S01 E11
-- La casa de papel: Corea S01 E12
-- Cashman S01 E01
-- Cashman S01 E02
-- Cashman S01 E03
-- Cashman S01 E04
-- Cashman S01 E05
-- Cashman S01 E06
-- Cashman S01 E07
-- Cashman S01 E08
-- Cielo Para Dos S01 E01
-- Cielo Para Dos S01 E02
-- Cielo Para Dos S01 E03
-- Cielo Para Dos S01 E04
-- Cielo Para Dos S01 E05
-- Cielo Para Dos S01 E06
-- Cielo Para Dos S01 E07
-- Cielo Para Dos S01 E08
-- Cielo Para Dos S02 E01
-- Cielo Para Dos S02 E02
-- Cielo Para Dos S02 E03
-- Cielo Para Dos S02 E04
-- Cielo Para Dos S02 E05
-- Cielo Para Dos S02 E06
-- Cielo Para Dos S02 E07
-- Cielo Para Dos S02 E08
-- Cielo Para Dos S02 E09
-- Cielo Para Dos S02 E10
-- Cielo Para Dos S03 E01
-- Cielo Para Dos S03 E02
-- Cielo Para Dos S03 E03
-- Cielo Para Dos S03 E04
-- Cielo Para Dos S03 E05
-- Cielo Para Dos S03 E06
-- Cielo Para Dos S03 E07
-- Cielo Para Dos S03 E08
-- Cielo Para Dos S03 E09
-- Cielo Para Dos S03 E10
-- Cielo Para Dos S03 E11
-- Cielo Para Dos S04 E01
-- Cielo Para Dos S04 E02
-- Cielo Para Dos S04 E03
-- Cielo Para Dos S04 E04
-- Cielo Para Dos S04 E05
-- Cielo Para Dos S04 E06
-- Cielo Para Dos S04 E07
-- Cielo Para Dos S04 E08
-- Cielo Para Dos S04 E09
-- Cielo Para Dos S04 E10
-- Cielo Para Dos S04 E11
-- Cielo Para Dos S04 E12
-- Cielo Para Dos S05 E01
-- Cielo Para Dos S05 E02
-- Cielo Para Dos S05 E03
-- Cielo Para Dos S05 E04
-- Cielo Para Dos S05 E05
-- Cielo Para Dos S05 E06
-- Cielo Para Dos S05 E07
-- Cielo Para Dos S05 E08
-- Cielo Para Dos S05 E09
-- Cielo Para Dos S05 E10
-- Cielo Para Dos S05 E11
-- Cielo Para Dos S05 E12
-- ¿Cómo se traduce este amor? S01 E01
-- ¿Cómo se traduce este amor? S01 E02
-- ¿Cómo se traduce este amor? S01 E03
-- ¿Cómo se traduce este amor? S01 E04
-- ¿Cómo se traduce este amor? S01 E05
-- ¿Cómo se traduce este amor? S01 E06
-- ¿Cómo se traduce este amor? S01 E07
-- ¿Cómo se traduce este amor? S01 E08
-- ¿Cómo se traduce este amor? S01 E09
-- ¿Cómo se traduce este amor? S01 E10
-- ¿Cómo se traduce este amor? S01 E11
-- ¿Cómo se traduce este amor? S01 E12
-- Dulces magnolias S01 E01
-- Dulces magnolias S01 E02
-- Dulces magnolias S01 E03
-- Dulces magnolias S01 E04
-- Dulces magnolias S01 E05
-- Dulces magnolias S01 E06
-- Dulces magnolias S01 E07
-- Dulces magnolias S01 E08
-- Dulces magnolias S01 E09
-- Dulces magnolias S01 E10
-- Dulces magnolias S02 E01
-- Dulces magnolias S02 E02
-- Dulces magnolias S02 E03
-- Dulces magnolias S02 E04
-- Dulces magnolias S02 E05
-- Dulces magnolias S02 E06
-- Dulces magnolias S02 E07
-- Dulces magnolias S02 E08
-- Dulces magnolias S02 E09
-- Dulces magnolias S02 E10
-- Dulces magnolias S03 E01
-- Dulces magnolias S03 E02
-- Dulces magnolias S03 E03
-- Dulces magnolias S03 E04
-- Dulces magnolias S03 E05
-- Dulces magnolias S03 E06
-- Dulces magnolias S03 E07
-- Dulces magnolias S03 E08
-- Dulces magnolias S03 E09
-- Dulces magnolias S03 E10
-- Dulces magnolias S04 E01
-- Dulces magnolias S04 E02
-- Dulces magnolias S04 E03
-- Dulces magnolias S04 E04
-- Dulces magnolias S04 E05
-- Dulces magnolias S04 E06
-- Dulces magnolias S04 E07
-- Dulces magnolias S04 E08
-- Dulces magnolias S04 E09
-- Dulces magnolias S04 E10
-- Dulces magnolias S05 E01
-- Dulces magnolias S05 E02
-- Dulces magnolias S05 E03
-- Dulces magnolias S05 E04
-- Dulces magnolias S05 E05
-- Dulces magnolias S05 E06
-- Dulces magnolias S05 E07
-- Dulces magnolias S05 E08
-- Dulces magnolias S05 E09
-- Dulces magnolias S05 E10
-- El amor a través de un prisma S01 E01
-- El amor a través de un prisma S01 E02
-- El amor a través de un prisma S01 E03
-- El amor a través de un prisma S01 E04
-- El amor a través de un prisma S01 E05
-- El amor a través de un prisma S01 E06
-- El amor a través de un prisma S01 E07
-- El amor a través de un prisma S01 E08
-- El amor a través de un prisma S01 E09
-- El amor a través de un prisma S01 E10
-- El amor a través de un prisma S01 E11
-- El amor a través de un prisma S01 E12
-- El amor a través de un prisma S01 E13
-- El amor a través de un prisma S01 E14
-- El amor a través de un prisma S01 E15
-- El amor a través de un prisma S01 E16
-- El amor a través de un prisma S01 E17
-- El amor a través de un prisma S01 E18
-- El amor a través de un prisma S01 E19
-- El amor a través de un prisma S01 E20
-- El tiempo de las moscas S01 E01
-- El tiempo de las moscas S01 E02
-- El tiempo de las moscas S01 E03
-- El tiempo de las moscas S01 E04
-- El tiempo de las moscas S01 E05
-- El tiempo de las moscas S01 E06
-- Él y ella S01 E01
-- Él y ella S01 E02
-- Él y ella S01 E03
-- Él y ella S01 E04
-- Él y ella S01 E05
-- Él y ella S01 E06
-- En fuga S01 E01
-- En fuga S01 E02
-- En fuga S01 E03
-- En fuga S01 E04
-- En fuga S01 E05
-- En fuga S01 E06
-- En fuga S01 E07
-- En fuga S01 E08
-- Familia Typhoon S01 E01
-- Familia Typhoon S01 E02
-- Familia Typhoon S01 E03
-- Familia Typhoon S01 E04
-- Familia Typhoon S01 E05
-- Familia Typhoon S01 E06
-- Familia Typhoon S01 E07
-- Familia Typhoon S01 E08
-- Familia Typhoon S01 E09
-- Familia Typhoon S01 E10
-- Familia Typhoon S01 E11
-- Familia Typhoon S01 E12
-- Familia Typhoon S01 E13
-- Familia Typhoon S01 E14
-- Familia Typhoon S01 E15
-- Familia Typhoon S01 E16
-- Free Bert S01 E01
-- Free Bert S01 E02
-- Free Bert S01 E03
-- Free Bert S01 E04
-- Free Bert S01 E05
-- Free Bert S01 E06
-- Los Backyardigans S01 E01
-- Los Backyardigans S01 E02
-- Los Backyardigans S01 E03
-- Los Backyardigans S01 E04
-- Los Backyardigans S01 E05
-- Los Backyardigans S01 E06
-- Los Backyardigans S01 E07
-- Los Backyardigans S01 E08
-- Los Backyardigans S01 E09
+- el Cacique de La Junta S01 E04
+- el Cacique de La Junta S01 E05
+- el Cacique de La Junta S01 E06
+- el Cacique de La Junta S01 E07
+- el Cacique de La Junta S01 E08
+- el Cacique de La Junta S01 E09
+- el Cacique de La Junta S01 E10
+- el Cacique de La Junta S01 E11
+- el Cacique de La Junta S01 E12
+- el Cacique de La Junta S01 E13
+- el Cacique de La Junta S01 E14
+- el Cacique de La Junta S01 E15
+- el Cacique de La Junta S01 E16
+- el Cacique de La Junta S01 E17
+- el Cacique de La Junta S01 E18
+- el Cacique de La Junta S01 E19
+- el Cacique de La Junta S01 E20
+- el Cacique de La Junta S01 E21
+- el Cacique de La Junta S01 E22
+- el Cacique de La Junta S01 E23
+- el Cacique de La Junta S01 E24
+- el Cacique de La Junta S01 E25
+- el Cacique de La Junta S01 E26
+- el Cacique de La Junta S01 E27
+- el Cacique de La Junta S01 E28
+- el Cacique de La Junta S01 E29
+- el Cacique de La Junta S01 E30
+- el Cacique de La Junta S01 E31
+- el Cacique de La Junta S01 E32
+- el Cacique de La Junta S01 E33
+- el Cacique de La Junta S01 E34
+- el Cacique de La Junta S01 E35
+- el Cacique de La Junta S01 E36
+- el Cacique de La Junta S01 E37
+- el Cacique de La Junta S01 E38
+- el Cacique de La Junta S01 E39
+- el Cacique de La Junta S01 E40
+- el Cacique de La Junta S01 E41
+- el Cacique de La Junta S01 E42
+- el Cacique de La Junta S01 E43
+- el Cacique de La Junta S01 E44
+- el Cacique de La Junta S01 E45
+- el Cacique de La Junta S01 E46
+- el Cacique de La Junta S01 E47
+- el Cacique de La Junta S01 E48
+- el Cacique de La Junta S01 E49
+- el Cacique de La Junta S01 E50
+- el Cacique de La Junta S01 E51
+- el Cacique de La Junta S01 E52
+- el Cacique de La Junta S01 E53
+- el Cacique de La Junta S01 E54
+- el Cacique de La Junta S01 E55
+- el Cacique de La Junta S01 E56
+- el Cacique de La Junta S01 E57
+- el Cacique de La Junta S01 E58
+- el Cacique de La Junta S01 E59
+- el Cacique de La Junta S01 E60
+- el Cacique de La Junta S01 E61
+- el Cacique de La Junta S01 E62
+- el Cacique de La Junta S01 E63
+- el Cacique de La Junta S01 E64
+- el Cacique de La Junta S01 E65
+- el Cacique de La Junta S01 E66
+- el Cacique de La Junta S01 E67
+- el Cacique de La Junta S01 E68
+- el Cacique de La Junta S01 E69
+- el Cacique de La Junta S01 E70
+- el Cacique de La Junta S01 E71
+- el Cacique de La Junta S01 E72
+- el Cacique de La Junta S01 E73
+- el Cacique de La Junta S01 E74
+- el Cacique de La Junta S01 E75
+- el Cacique de La Junta S01 E76
+- el Cacique de La Junta S01 E77
+- el Cacique de La Junta S01 E78
+- el Cacique de La Junta S01 E79
+- el Cacique de La Junta S01 E80
+- el Cacique de La Junta S01 E81
+- el Cacique de La Junta S01 E82
+- el Cacique de La Junta S01 E83
+- el Cacique de La Junta S01 E84
+- el Cacique de La Junta S01 E85
+- el Cacique de La Junta S01 E86
+- el Cacique de La Junta S01 E87
+- el Cacique de La Junta S01 E88
+- el Cacique de La Junta S01 E89
+- el Cacique de La Junta S01 E90
+- el Cacique de La Junta S01 E91
+- el Cacique de La Junta S01 E92
+- el Cacique de La Junta S01 E93
+- el Cacique de La Junta S01 E94
+- el Cacique de La Junta S01 E95
+- el Cacique de La Junta S01 E96
+- el Cacique de La Junta S01 E97
+- el Cacique de La Junta S01 E98
+- el Cacique de La Junta S01 E99
+- el Cacique de La Junta S01 E100
+- el Cacique de La Junta S01 E101
+- el Cacique de La Junta S01 E102
+- el Cacique de La Junta S01 E103
+- el Cacique de La Junta S01 E104
+- el Cacique de La Junta S01 E105
+- el Cacique de La Junta S01 E106
+- el Cacique de La Junta S01 E107
+- el Cacique de La Junta S01 E108
+- el Cacique de La Junta S01 E109
+- el Cacique de La Junta S01 E110
+- el Cacique de La Junta S01 E111
+- el Cacique de La Junta S01 E112
+- el Cacique de La Junta S01 E113
+- el Cacique de La Junta S01 E114
+- El robo del siglo S01 E01
+- El robo del siglo S01 E02
+- El robo del siglo S01 E03
+- El robo del siglo S01 E04
+- El robo del siglo S01 E05
+- El robo del siglo S01 E06
+- Enfermeras S01 E01
+- Enfermeras S01 E02
+- Enfermeras S01 E03
+- Enfermeras S01 E04
+- Enfermeras S01 E05
+- Enfermeras S01 E06
+- Enfermeras S01 E07
+- Enfermeras S01 E08
+- Enfermeras S01 E09
+- Enfermeras S01 E10
+- Enfermeras S01 E11
+- Enfermeras S01 E12
+- Enfermeras S01 E13
+- Enfermeras S01 E14
+- Enfermeras S01 E15
+- Enfermeras S01 E16
+- Enfermeras S01 E17
+- Enfermeras S01 E18
+- Enfermeras S01 E19
+- Enfermeras S01 E20
+- Enfermeras S01 E21
+- Enfermeras S01 E22
+- Enfermeras S01 E23
+- Enfermeras S01 E24
+- Enfermeras S01 E25
+- Enfermeras S01 E26
+- Enfermeras S01 E27
+- Enfermeras S01 E28
+- Enfermeras S01 E29
+- Enfermeras S01 E30
+- Enfermeras S01 E31
+- Enfermeras S01 E32
+- Enfermeras S01 E33
+- Enfermeras S01 E34
+- Enfermeras S01 E35
+- Enfermeras S01 E36
+- Enfermeras S01 E37
+- Enfermeras S01 E38
+- Enfermeras S01 E39
+- Enfermeras S01 E40
+- Enfermeras S01 E41
+- Enfermeras S01 E42
+- Enfermeras S01 E43
+- Enfermeras S01 E44
+- Enfermeras S01 E45
+- Enfermeras S01 E46
+- Enfermeras S01 E47
+- Enfermeras S01 E48
+- Enfermeras S01 E49
+- Enfermeras S01 E50
+- Enfermeras S01 E51
+- Enfermeras S01 E52
+- Enfermeras S01 E53
+- Enfermeras S01 E54
+- Enfermeras S01 E55
+- Enfermeras S01 E56
+- Enfermeras S01 E57
+- Enfermeras S01 E58
+- Enfermeras S01 E59
+- Enfermeras S01 E60
+- Enfermeras S01 E61
+- Enfermeras S01 E62
+- Enfermeras S01 E63
+- Enfermeras S01 E64
+- Enfermeras S01 E65
+- Enfermeras S01 E66
+- Enfermeras S01 E67
+- Enfermeras S01 E68
+- Enfermeras S01 E69
+- Enfermeras S01 E70
+- Enfermeras S01 E71
+- Enfermeras S01 E72
+- Enfermeras S01 E73
+- Enfermeras S01 E74
+- Enfermeras S01 E75
+- Enfermeras S01 E76
+- Enfermeras S01 E77
+- Enfermeras S01 E78
+- Enfermeras S01 E79
+- Enfermeras S01 E80
+- Enfermeras S01 E81
+- Enfermeras S01 E82
+- Enfermeras S01 E83
+- Enfermeras S01 E84
+- Enfermeras S01 E85
+- Enfermeras S01 E86
+- Enfermeras S01 E87
+- Enfermeras S01 E88
+- Enfermeras S01 E89
+- Enfermeras S01 E90
+- Enfermeras S01 E91
+- Enfermeras S01 E92
+- Enfermeras S01 E93
+- Enfermeras S01 E94
+- Enfermeras S01 E95
+- Enfermeras S01 E96
+- Enfermeras S01 E97
+- Enfermeras S01 E98
+- Enfermeras S01 E99
+- Enfermeras S01 E100
+- Hasta que la plata nos separe S01 E01
+- Hasta que la plata nos separe S01 E02
+- Hasta que la plata nos separe S01 E03
+- Hasta que la plata nos separe S01 E04
+- Hasta que la plata nos separe S01 E05
+- Hasta que la plata nos separe S01 E06
+- Hasta que la plata nos separe S01 E07
+- Hasta que la plata nos separe S01 E08
+- Hasta que la plata nos separe S01 E09
+- Hasta que la plata nos separe S01 E10
+- Hasta que la plata nos separe S01 E11
+- Hasta que la plata nos separe S01 E12
+- Hasta que la plata nos separe S01 E13
+- Hasta que la plata nos separe S01 E14
+- Hasta que la plata nos separe S01 E15
+- Hasta que la plata nos separe S01 E16
+- Hasta que la plata nos separe S01 E17
+- Hasta que la plata nos separe S01 E18
+- Hasta que la plata nos separe S01 E19
+- Hasta que la plata nos separe S01 E20
+- Hasta que la plata nos separe S01 E21
+- Hasta que la plata nos separe S01 E22
+- Hasta que la plata nos separe S01 E23
+- Hasta que la plata nos separe S01 E24
+- Hasta que la plata nos separe S01 E25
+- Hasta que la plata nos separe S01 E26
+- Hasta que la plata nos separe S01 E27
+- Hasta que la plata nos separe S01 E28
+- Hasta que la plata nos separe S01 E29
+- Hasta que la plata nos separe S01 E30
+- Hasta que la plata nos separe S01 E31
+- Hasta que la plata nos separe S01 E32
+- Hasta que la plata nos separe S01 E33
+- Hasta que la plata nos separe S01 E34
+- Hasta que la plata nos separe S01 E35
+- Hasta que la plata nos separe S01 E36
+- Hasta que la plata nos separe S01 E37
+- Hasta que la plata nos separe S01 E38
+- Hasta que la plata nos separe S01 E39
+- Hasta que la plata nos separe S01 E40
+- Hasta que la plata nos separe S01 E41
+- Hasta que la plata nos separe S01 E42
+- Hasta que la plata nos separe S01 E43
+- Hasta que la plata nos separe S01 E44
+- Hasta que la plata nos separe S01 E45
+- Hasta que la plata nos separe S01 E46
+- Hasta que la plata nos separe S01 E47
+- Hasta que la plata nos separe S01 E48
+- Hasta que la plata nos separe S01 E49
+- Hasta que la plata nos separe S01 E50
+- Hasta que la plata nos separe S01 E51
+- Hasta que la plata nos separe S01 E52
+- Hasta que la plata nos separe S01 E53
+- Hasta que la plata nos separe S01 E54
+- Hasta que la plata nos separe S01 E55
+- Hasta que la plata nos separe S01 E56
+- Hasta que la plata nos separe S01 E57
+- Hasta que la plata nos separe S01 E58
+- Hasta que la plata nos separe S01 E59
+- Hasta que la plata nos separe S01 E60
+- Hasta que la plata nos separe S01 E61
+- Hasta que la plata nos separe S01 E62
+- Hasta que la plata nos separe S01 E63
+- Hasta que la plata nos separe S01 E64
+- Hasta que la plata nos separe S01 E65
+- Hasta que la plata nos separe S01 E66
+- Hasta que la plata nos separe S01 E67
+- Hasta que la plata nos separe S01 E68
+- Hasta que la plata nos separe S01 E69
+- Hasta que la plata nos separe S01 E70
+- Hasta que la plata nos separe S01 E71
+- Hasta que la plata nos separe S01 E72
+- Hasta que la plata nos separe S01 E73
+- Hasta que la plata nos separe S01 E74
+- Hasta que la plata nos separe S01 E75
+- Hasta que la plata nos separe S01 E76
+- Hasta que la plata nos separe S01 E77
+- Hasta que la plata nos separe S01 E78
+- Hasta que la plata nos separe S01 E79
+- Hasta que la plata nos separe S01 E80
+- Hasta que la plata nos separe S01 E81
+- Hasta que la plata nos separe S01 E82
+- Hasta que la plata nos separe S01 E83
+- Hasta que la plata nos separe S01 E84
+- Hasta que la plata nos separe S01 E85
+- Hasta que la plata nos separe S01 E86
+- Hasta que la plata nos separe S01 E87
+- Hasta que la plata nos separe S01 E88
+- Hasta que la plata nos separe S01 E89
+- Hasta que la plata nos separe S01 E90
+- Hasta que la plata nos separe S01 E91
+- Hasta que la plata nos separe S01 E92
+- Hasta que la plata nos separe S01 E93
+- Hasta que la plata nos separe S01 E94
+- Hasta que la plata nos separe S01 E95
+- Hasta que la plata nos separe S01 E96
+- Hasta que la plata nos separe S01 E97
+- Hasta que la plata nos separe S01 E98
+- Hasta que la plata nos separe S01 E99
+- Hasta que la plata nos separe S01 E100
+- Hasta que la plata nos separe S01 E101
+- Hasta que la plata nos separe S01 E102
+- Hasta que la plata nos separe S01 E103
+- Hasta que la plata nos separe S01 E104
+- Hasta que la plata nos separe S01 E105
+- Hasta que la plata nos separe S01 E106
+- Hasta que la plata nos separe S01 E107
+- Hasta que la plata nos separe S01 E108
+- Hasta que la plata nos separe S01 E109
+- Hasta que la plata nos separe S01 E110
+- Hasta que la plata nos separe S01 E111
+- Hasta que la plata nos separe S01 E112
+- Hasta que la plata nos separe S01 E113
+- Hasta que la plata nos separe S01 E114
+- Hasta que la plata nos separe S01 E115
+- Hasta que la plata nos separe S01 E116
+- Hasta que la plata nos separe S01 E117
+- Hasta que la plata nos separe S01 E118
+- Hasta que la plata nos separe S01 E119
+- Hasta que la plata nos separe S01 E120
+- Hasta que la plata nos separe S01 E121
+- Hasta que la plata nos separe S01 E122
+- Hasta que la plata nos separe S01 E123
+- Hasta que la plata nos separe S01 E124
+- Hasta que la plata nos separe S01 E125
+- Hasta que la plata nos separe S01 E126
+- Hasta que la plata nos separe S01 E127
+- Hasta que la plata nos separe S01 E128
+- Hasta que la plata nos separe S01 E129
+- Hasta que la plata nos separe S01 E130
+- Hasta que la plata nos separe S01 E131
+- Hasta que la plata nos separe S01 E132
+- Hasta que la plata nos separe S01 E133
+- Hasta que la plata nos separe S01 E134
+- Hasta que la plata nos separe S01 E135
+- Hasta que la plata nos separe S01 E136
+- Hasta que la plata nos separe S01 E137
+- Hasta que la plata nos separe S01 E138
+- Hasta que la plata nos separe S01 E139
+- Hasta que la plata nos separe S01 E140
+- Hasta que la plata nos separe S01 E141
+- Hasta que la plata nos separe S01 E142
+- Hasta que la plata nos separe S01 E143
+- Hasta que la plata nos separe S01 E144
+- Hasta que la plata nos separe S01 E145
+- Hasta que la plata nos separe S01 E146
+- Hasta que la plata nos separe S01 E147
+- Hasta que la plata nos separe S01 E148
+- Hasta que la plata nos separe S01 E149
+- Hasta que la plata nos separe S01 E150
+- Hasta que la plata nos separe S01 E151
+- Hasta que la plata nos separe S01 E152
+- Hasta que la plata nos separe S01 E153
+- Hasta que la plata nos separe S01 E154
+- Hasta que la plata nos separe S01 E155
+- Hasta que la plata nos separe S01 E156
+- Hasta que la plata nos separe S01 E157
+- Hasta que la plata nos separe S01 E158
+- Hasta que la plata nos separe S01 E159
+- Hasta que la plata nos separe S01 E160
+- Hasta que la plata nos separe S01 E161
+- Hasta que la plata nos separe S01 E162
+- Hasta que la plata nos separe S01 E163
+- Hija del Mariachi S01 E01
+- Hija del Mariachi S01 E02
+- Hija del Mariachi S01 E03
+- Hija del Mariachi S01 E04
+- Hija del Mariachi S01 E05
+- Hija del Mariachi S01 E06
+- Hija del Mariachi S01 E07
+- Hija del Mariachi S01 E08
+- Hija del Mariachi S01 E09
+- Hija del Mariachi S01 E10
+- Hija del Mariachi S01 E11
+- Hija del Mariachi S01 E12
+- Hija del Mariachi S01 E13
+- Hija del Mariachi S01 E14
+- Hija del Mariachi S01 E15
+- Hija del Mariachi S01 E16
+- Hija del Mariachi S01 E17
+- Hija del Mariachi S01 E18
+- Hija del Mariachi S01 E19
+- Hija del Mariachi S01 E20
+- Hija del Mariachi S01 E21
+- Hija del Mariachi S01 E22
+- Hija del Mariachi S01 E23
+- Hija del Mariachi S01 E24
+- Hija del Mariachi S01 E25
+- Hija del Mariachi S01 E26
+- Hija del Mariachi S01 E27
+- Hija del Mariachi S01 E28
+- Hija del Mariachi S01 E29
+- Hija del Mariachi S01 E30
+- Hija del Mariachi S01 E31
+- Hija del Mariachi S01 E32
+- Hija del Mariachi S01 E33
+- Hija del Mariachi S01 E34
+- Hija del Mariachi S01 E35
+- Hija del Mariachi S01 E36
+- Hija del Mariachi S01 E37
+- Hija del Mariachi S01 E38
+- Hija del Mariachi S01 E39
+- Hija del Mariachi S01 E40
+- Hija del Mariachi S01 E41
+- Hija del Mariachi S01 E42
+- Hija del Mariachi S01 E43
+- Hija del Mariachi S01 E44
+- Hija del Mariachi S01 E45
+- Hija del Mariachi S01 E46
+- Hija del Mariachi S01 E47
+- Hija del Mariachi S01 E48
+- Hija del Mariachi S01 E49
+- Hija del Mariachi S01 E50
+- Hija del Mariachi S01 E51
+- Hija del Mariachi S01 E52
+- Hija del Mariachi S01 E53
+- Hija del Mariachi S01 E54
+- Hija del Mariachi S01 E55
+- Hija del Mariachi S01 E56
+- Hija del Mariachi S01 E57
+- Hija del Mariachi S01 E58
+- Hija del Mariachi S01 E59
+- Hija del Mariachi S01 E60
+- Hija del Mariachi S01 E61
+- Hija del Mariachi S01 E62
+- Hija del Mariachi S01 E63
+- Hija del Mariachi S01 E64
+- Hija del Mariachi S01 E65
+- Hija del Mariachi S01 E66
+- Hija del Mariachi S01 E67
+- Hija del Mariachi S01 E68
+- Hija del Mariachi S01 E69
+- Hija del Mariachi S01 E70
+- Hija del Mariachi S01 E71
+- Hija del Mariachi S01 E72
+- Hija del Mariachi S01 E73
+- Hija del Mariachi S01 E74
+- Hija del Mariachi S01 E75
+- Hija del Mariachi S01 E76
+- Hija del Mariachi S01 E77
+- Hija del Mariachi S01 E78
+- Hija del Mariachi S01 E79
+- Hija del Mariachi S01 E80
+- Hija del Mariachi S01 E81
+- Hija del Mariachi S01 E82
+- Hija del Mariachi S01 E83
+- Hija del Mariachi S01 E84
+- Hija del Mariachi S01 E85
+- Hija del Mariachi S01 E86
+- Hija del Mariachi S01 E87
+- Hija del Mariachi S01 E88
+- Hija del Mariachi S01 E89
+- Hija del Mariachi S01 E90
+- Hija del Mariachi S01 E91
+- Hija del Mariachi S01 E92
+- Hija del Mariachi S01 E93
+- Hija del Mariachi S01 E94
+- Hija del Mariachi S01 E95
+- Hija del Mariachi S01 E96
+- Hija del Mariachi S01 E97
+- Hija del Mariachi S01 E98
+- Hija del Mariachi S01 E99
+- Hija del Mariachi S01 E100
+- Hija del Mariachi S01 E101
+- Hija del Mariachi S01 E102
+- Hija del Mariachi S01 E103
+- Hija del Mariachi S01 E104
+- Hija del Mariachi S01 E105
+- Hija del Mariachi S01 E106
+- Hija del Mariachi S01 E107
+- Hija del Mariachi S01 E108
+- Hija del Mariachi S01 E109
+- Hija del Mariachi S01 E110
+- Hija del Mariachi S01 E111
+- Hija del Mariachi S01 E112
+- Hija del Mariachi S01 E113
+- Hija del Mariachi S01 E114
+- Hija del Mariachi S01 E115
+- Hija del Mariachi S01 E116
+- Hija del Mariachi S01 E117
+- Hija del Mariachi S01 E118
+- Hija del Mariachi S01 E119
+- Hija del Mariachi S01 E120
