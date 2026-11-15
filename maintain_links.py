@@ -261,7 +261,7 @@ def main():
         f"Enlaces restringidos 401/403 conservados: {restricted}",
         f"Enlaces inciertos o pendientes conservados: {uncertain}",
         f"Entradas finales: {len(repaired)}",
-        f"Próxima posición de revisión: {next_cursor + 1}",
+        f"Próxima posición de revisión: {next_index + 1 if next_index else 1}",
         "",
         "Entradas finales por grupo:",
     ]
