@@ -45,22 +45,21 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
-    pages = []
+    page_count = (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE
     for start in range(0, len(entries), PAGE_SIZE):
         page_no = start // PAGE_SIZE + 1
         name = f"page-{page_no:06d}.json"
         chunk = entries[start:start + PAGE_SIZE]
         (OUT / name).write_text(json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
-        pages.append({"page": page_no, "file": name, "count": len(chunk)})
     manifest = {
         "schema": 1,
         "source_sha256": digest,
         "total": len(entries),
         "page_size": PAGE_SIZE,
-        "page_count": len(pages),
-        "pages": pages
+        "page_count": page_count,
+        "page_pattern": "page-{page:06d}.json"
     }
     (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
-    print(f"Catálogo paginado: {len(entries)} entradas, {len(pages)} páginas de hasta {PAGE_SIZE}.")
+    print(f"Catálogo paginado: {len(entries)} entradas, {page_count} páginas de hasta {PAGE_SIZE}.")
 if __name__ == "__main__":
     main()
