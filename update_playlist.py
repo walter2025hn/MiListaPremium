@@ -49,7 +49,9 @@ def parse_m3u(text: str):
         name = info.rsplit(",", 1)[-1].strip() if "," in info else info
         group_match = re.search(r'group-title="([^"]*)"', info, re.I)
         group = group_match.group(1).strip() if group_match else ""
-        key = (normalize(name), normalize(group))
+        # Deduplicate by exact URL, not by display name/group. Different
+        # episodes or versions can share a title and must remain in the playlist.
+        key = url
         parsed.append({"block": block, "url": url, "name": name, "group": group, "key": key})
     return parsed
 
