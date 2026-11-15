@@ -116,6 +116,7 @@ def check_url(url: str):
         return "unknown", "protocolo_no_http"
 
     last = "error_desconocido"
+    definitive_failures = []
     for attempt in range(RETRIES):
         try:
             req = urllib.request.Request(
@@ -128,7 +129,10 @@ def check_url(url: str):
                     return "alive", str(code)
                 if code in (401, 403):
                     return "restricted", str(code)
-                if code in (404, 410, 408, 425, 429) or 500 <= code <= 599:
+                if code in (404, 410):
+                    definitive_failures.append(code)
+                    last = str(code)
+                elif code in (408, 425, 429) or 500 <= code <= 599:
                     last = str(code)
                 else:
                     return "unknown", str(code)
@@ -136,7 +140,10 @@ def check_url(url: str):
             code = exc.code
             if code in (401, 403):
                 return "restricted", str(code)
-            if code in (404, 410, 408, 425, 429) or 500 <= code <= 599:
+            if code in (404, 410):
+                definitive_failures.append(code)
+                last = str(code)
+            elif code in (408, 425, 429) or 500 <= code <= 599:
                 last = str(code)
             else:
                 return "unknown", str(code)
@@ -149,9 +156,9 @@ def check_url(url: str):
         if attempt + 1 < RETRIES:
             time.sleep(min(2 ** attempt, 4))
 
-    # Solo 404/410 persistentes en todos los intentos permiten retirar una URL.
-    if last in ("404", "410"):
-        return "dead", last
+    # Retirar solo si TODOS los intentos fueron respuestas HTTP 404 o 410.
+    if len(definitive_failures) == RETRIES:
+        return "dead", "/".join(str(code) for code in definitive_failures)
     return "unknown", last
 
 
@@ -173,12 +180,26 @@ def main():
         return 4
 
     source_entries = []
+    source_errors = []
     for index, url in enumerate(source_urls, 1):
         try:
             source_entries.extend(fetch_source(url, index))
         except Exception as exc:
-            print(f"ERROR: no se pudo leer la fuente autorizada {index} ({type(exc).__name__}); se conserva la lista.")
-            return 5
+            # The existing playlist can still be safely deduplicated and checked.
+            # Missing replacement sources must not block maintenance; it only
+            # means no replacement candidate can be selected from that source.
+            source_errors.append(f"fuente_{index}:{type(exc).__name__}")
+            print(
+                f"AVISO: no se pudo leer fuente autorizada {index} tras reintentos "
+                f"({type(exc).__name__}); se continúa sin usar esa fuente para reemplazos.",
+                flush=True,
+            )
+    if not source_entries:
+        print(
+            "AVISO: ninguna fuente de reemplazo está disponible; "
+            "se conservarán los enlaces caídos si no hay alternativa verificada.",
+            flush=True,
+        )
 
     # Index possible replacements by metadata. Keep different episode URLs.
     replacement_index = defaultdict(list)
@@ -286,6 +307,8 @@ def main():
         f"Duplicados exactos eliminados: {duplicate_count}",
         f"Enlaces comprobados en este lote: {len(checked)}",
         f"Reintentos ante fallos transitorios: hasta {RETRIES} intentos por URL",
+        f"Fuentes de reemplazo no disponibles: {len(source_errors)}",
+        "Criterio de retiro: todos los intentos deben responder HTTP 404/410.",
         f"Enlaces sustituidos con una alternativa válida: {replaced_count}",
         f"Enlaces confirmados 404/410 sin sustituto y retirados: {len(removed)}",
         f"Enlaces restringidos 401/403 conservados: {restricted}",
