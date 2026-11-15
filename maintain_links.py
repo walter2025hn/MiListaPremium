@@ -184,6 +184,7 @@ def main():
 
     replacement_checks = {}
     repaired, removed, restricted, uncertain = [], [], 0, 0
+    replaced_count = 0
     for item in unique:
         status, detail = checked.get(item["url"], ("unchecked", ""))
         if status == "dead":
@@ -204,6 +205,7 @@ def main():
             if replacement:
                 new_block = [replacement if line == item["url"] else line for line in item["block"]]
                 repaired.append({**item, "block": new_block, "url": replacement})
+                replaced_count += 1
             else:
                 removed.append(item)
         else:
@@ -239,7 +241,7 @@ def main():
         f"Entradas antes: {len(original)}",
         f"Duplicados exactos eliminados: {duplicate_count}",
         f"Enlaces comprobados en este lote: {len(checked)}",
-        f"Enlaces sustituidos con una alternativa válida: {sum(1 for x in repaired if x['url'] in replacement_checks)}",
+        f"Enlaces sustituidos con una alternativa válida: {replaced_count}",
         f"Enlaces confirmados 404/410 sin sustituto y retirados: {len(removed)}",
         f"Enlaces restringidos 401/403 conservados: {restricted}",
         f"Enlaces inciertos o pendientes conservados: {uncertain}",
@@ -255,7 +257,7 @@ def main():
 
     print(
         f"OK: duplicados eliminados={duplicate_count}; sustituidos="
-        f"{sum(1 for x in repaired if x['url'] in replacement_checks)}; "
+        f"{replaced_count}; "
         f"retirados={len(removed)}; finales={len(repaired)}.",
         flush=True,
     )
