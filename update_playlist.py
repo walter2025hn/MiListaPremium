@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import concurrent.futures
+import json
 import os
 import re
 import sys
@@ -15,9 +16,11 @@ from pathlib import Path
 
 OUTPUT = Path("Completa.m3u")
 REPORT = Path("reporte_enlaces.txt")
+STATE = Path("verificacion_estado.json")
 TIMEOUT = 5
 RETRIES = 2
 WORKERS = 64
+BATCH_SIZE = 3000
 
 def normalize(value: str) -> str:
     value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
@@ -101,30 +104,45 @@ def main():
         print("ERROR: no hay entradas; no se modificará la lista.")
         return 5
 
-    # Check links concurrently. A failed URL is not discarded if it is the only copy.
+    # Check only a rotating batch each run; keep every source entry in the output.
     urls = list(dict.fromkeys(item["url"] for item in all_entries))
+    try:
+        state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
+    except Exception:
+        state = {}
+    cursor = int(state.get("cursor", 0)) % len(urls)
+    batch = [urls[(cursor + offset) % len(urls)] for offset in range(min(BATCH_SIZE, len(urls)))]
+    next_cursor = (cursor + len(batch)) % len(urls)
     checks = {}
-    print(f"Comprobando {len(urls)} enlaces únicos con {WORKERS} trabajadores...", flush=True)
+    print(f"Enlaces únicos: {len(urls)}. Lote de esta ejecución: {len(batch)} (posición {cursor + 1}).", flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        futures = {pool.submit(check_url, url): url for url in urls}
+        futures = {pool.submit(check_url, url): url for url in batch}
         total = len(futures)
         completed = 0
         for future in concurrent.futures.as_completed(futures):
             checks[futures[future]] = future.result()
             completed += 1
             if completed % 100 == 0 or completed == total:
-                print(f"Progreso: {completed}/{total} enlaces comprobados ({completed * 100 // total}%).", flush=True)
+                print(f"Progreso del lote: {completed}/{total} ({completed * 100 // total}%).", flush=True)
 
-    # Prefer a reachable duplicate; if all copies fail, retain the first copy.
+    STATE.write_text(json.dumps({
+        "cursor": next_cursor,
+        "total_urls": len(urls),
+        "batch_size": len(batch)
+    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+    # Prefer a verified reachable duplicate. If none was checked successfully,
+    # keep an unchecked copy where possible; never drop an unverified entry.
     groups = {}
     for item in all_entries:
         groups.setdefault(item["key"], []).append(item)
     selected, dead_names = [], []
     for key, copies in groups.items():
         reachable = [x for x in copies if checks.get(x["url"], (False, ""))[0]]
-        chosen = reachable[0] if reachable else copies[0]
+        unchecked = [x for x in copies if x["url"] not in checks]
+        chosen = reachable[0] if reachable else (unchecked[0] if unchecked else copies[0])
         selected.append(chosen)
-        if not reachable:
+        if not reachable and not unchecked:
             dead_names.append(chosen["name"])
 
     # Dict insertion order preserves the first-seen order of each title/group.
@@ -147,13 +165,16 @@ def main():
         "REPORTE AUTOMÁTICO — CÓDIGO MASTER",
         f"Entradas descargadas: {len(all_entries)}",
         f"Entradas finales (sin duplicados): {len(selected)}",
-        f"URLs comprobadas: {len(urls)}",
-        f"Elementos sin respuesta tras {RETRIES} intentos (se conservan si no hay alternativa): {len(dead_names)}",
+        f"URLs únicas totales: {len(urls)}",
+        f"URLs comprobadas en este lote: {len(checks)}",
+        f"URLs pendientes de comprobación en esta vuelta: {len(urls) - len(checks)}",
+        f"Elementos confirmados sin respuesta en sus copias: {len(dead_names)}",
+        f"Siguiente posición de revisión: {next_cursor + 1}",
         "",
         "Entradas por grupo:",
     ]
     report.extend(f"- {name}: {count}" for name, count in sorted(counts.items()))
-    report += ["", "Posibles enlaces caídos (nombre solamente; se mantienen si no hay copia válida):"]
+    report += ["", "Posibles enlaces sin respuesta en copias ya comprobadas (no se eliminan):"]
     report.extend(f"- {name}" for name in dead_names[:500])
     REPORT.write_text("\n".join(report) + "\n", encoding="utf-8")
     print(f"OK: Completa.m3u generada con {len(selected)} entradas. Enlaces sin respuesta: {len(dead_names)}.")
