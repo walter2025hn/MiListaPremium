@@ -1,0 +1,44 @@
+name: Reconstruir catálogo paginado
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "build_catalog_pages.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reconstruir-catalogo-paginado
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crear páginas equilibradas
+        run: python build_catalog_pages.py
+
+      - name: Publicar catálogo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog_pages/
+          if git diff --cached --quiet; then
+            echo "El catálogo ya está actualizado."
+          else
+            git commit -m "Reorganizar páginas para mostrar todas las secciones"
+            git pull --rebase origin main
+            git push
+          fi
