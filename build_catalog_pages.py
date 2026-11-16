@@ -35,6 +35,15 @@ def parse():
             current = None
     return entries
 
+def page_digest(chunk):
+    digest = hashlib.sha256()
+    for entry in chunk:
+        for key in ("name", "url", "group", "logo", "tvgId", "attributes", "section"):
+            value = entry.get(key, "").encode("utf-8")
+            digest.update(len(value).to_bytes(4, "big"))
+            digest.update(value)
+    return digest.hexdigest()
+
 def main():
     if not SOURCE.exists():
         raise SystemExit("No existe Completa.m3u")
@@ -94,7 +103,7 @@ def main():
         chunk = entries[start:start + PAGE_SIZE]
         payload = (json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
         (OUT / name).write_bytes(payload)
-        page_hashes.append(hashlib.sha256(payload).hexdigest())
+        page_hashes.append(page_digest(chunk))
     manifest = {
         "schema": 1,
         "source_sha256": digest,
