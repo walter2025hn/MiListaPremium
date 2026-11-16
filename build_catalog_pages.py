@@ -113,7 +113,30 @@ def main():
         "page_sha256": page_hashes,
         "page_pattern": "page-{page:06d}.json"
     }
-    (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-    print(f"Catálogo paginado: {len(entries)} entradas, {page_count} páginas de hasta {PAGE_SIZE}.")
+    (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
+
+    # Índices independientes para que el panel pueda explorar cada tipo sin
+    # descargar el catálogo completo ni mezclar canales con VOD.
+    catalog = {"schema": 1, "source_sha256": digest, "page_size": PAGE_SIZE, "categories": {}}
+    for category in ("movies", "series", "live"):
+        items = buckets[category]
+        folder = OUT / category
+        folder.mkdir(parents=True, exist_ok=True)
+        hashes = []
+        for start in range(0, len(items), PAGE_SIZE):
+            chunk = items[start:start + PAGE_SIZE]
+            page_no = start // PAGE_SIZE + 1
+            payload = (json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\\n").encode("utf-8")
+            (folder / f"page-{page_no:06d}.json").write_bytes(payload)
+            hashes.append(page_digest(chunk))
+        catalog["categories"][category] = {
+            "total": len(items),
+            "page_count": (len(items) + PAGE_SIZE - 1) // PAGE_SIZE,
+            "page_pattern": f"{category}/page-{{page:06d}}.json",
+            "page_sha256": hashes
+        }
+    (OUT / "catalog_index.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")) + "\\n", encoding="utf-8")
+    print(f"Catálogo paginado: {len(entries)} entradas, {page_count} páginas generales; "
+          + ", ".join(f"{k}={len(buckets[k])}" for k in ("movies", "series", "live")) + ".")
 if __name__ == "__main__":
     main()
