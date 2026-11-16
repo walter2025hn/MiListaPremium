@@ -117,7 +117,7 @@ def main():
 
     # Índices independientes para que el panel pueda explorar cada tipo sin
     # descargar el catálogo completo ni mezclar canales con VOD.
-    catalog = {"schema": 1, "source_sha256": digest, "page_size": PAGE_SIZE, "categories": {}}
+    catalog = {"schema": 1, "source_sha256": digest, "total": len(entries), "page_size": PAGE_SIZE, "categories": {}}
     for category in ("movies", "series", "live"):
         items = buckets[category]
         folder = OUT / category
