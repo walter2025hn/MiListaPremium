@@ -22,8 +22,8 @@ from pathlib import Path
 PLAYLIST = Path("Completa.m3u")
 STATE = Path("mantenimiento_estado.json")
 REPORT = Path("reporte_mantenimiento.txt")
-PAGE_SIZE = 1000
-WORKERS = 32
+PAGE_SIZE = 5000
+WORKERS = 64
 TIMEOUT = 8
 RETRIES = 3
 MAX_ALTERNATIVES = 5
@@ -276,7 +276,7 @@ def main():
         else:
             if status == "restricted":
                 restricted += 1
-            elif status in ("unknown", "unchecked"):
+            elif status == "unknown":
                 uncertain += 1
             repaired.append(item)
 
@@ -312,7 +312,8 @@ def main():
         f"Enlaces sustituidos con una alternativa válida: {replaced_count}",
         f"Enlaces confirmados 404/410 sin sustituto y retirados: {len(removed)}",
         f"Enlaces restringidos 401/403 conservados: {restricted}",
-        f"Enlaces inciertos o pendientes conservados: {uncertain}",
+        f"Enlaces inciertos comprobados y conservados: {uncertain}",
+        f"Enlaces aún pendientes de revisión: {len(unique) - len(checked)}",
         f"Entradas finales: {len(repaired)}",
         f"Próxima posición de revisión: {next_index + 1 if next_index else 1}",
         "",
