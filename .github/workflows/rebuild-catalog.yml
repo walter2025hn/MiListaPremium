@@ -39,6 +39,6 @@ jobs:
             echo "El catálogo ya está actualizado."
           else
             git commit -m "Reorganizar páginas para mostrar todas las secciones"
-            git pull --rebase origin main
+            git pull --rebase -X theirs origin main
             git push
           fi
