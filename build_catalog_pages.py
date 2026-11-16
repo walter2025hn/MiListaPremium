@@ -87,17 +87,21 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
     page_count = (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE
+    page_hashes = []
     for start in range(0, len(entries), PAGE_SIZE):
         page_no = start // PAGE_SIZE + 1
         name = f"page-{page_no:06d}.json"
         chunk = entries[start:start + PAGE_SIZE]
-        (OUT / name).write_text(json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+        payload = (json.dumps(chunk, ensure_ascii=False, separators=(",", ":")) + "\n").encode("utf-8")
+        (OUT / name).write_bytes(payload)
+        page_hashes.append(hashlib.sha256(payload).hexdigest())
     manifest = {
         "schema": 1,
         "source_sha256": digest,
         "total": len(entries),
         "page_size": PAGE_SIZE,
         "page_count": page_count,
+        "page_sha256": page_hashes,
         "page_pattern": "page-{page:06d}.json"
     }
     (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
