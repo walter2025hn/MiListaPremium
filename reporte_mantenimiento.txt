@@ -1,0 +1,433 @@
+REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
+Entradas antes: 256779
+Duplicados exactos eliminados: 0
+Enlaces comprobados en este lote: 1000
+Reintentos ante fallos transitorios: hasta 3 intentos por URL
+Fuentes de reemplazo no disponibles: 1
+Criterio de retiro: todos los intentos deben responder HTTP 404/410.
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 0
+Enlaces inciertos o pendientes conservados: 256778
+Entradas finales: 256779
+Próxima posición de revisión: 1001
+
+Entradas finales por grupo:
+- 24/7: 118
+- 4 K: 265
+- ACCION Y AVENTURA: 1595
+- ALEMANIA: 239
+- ANIME: 3897
+- ANIME 2: 1
+- ARGENTINA: 28
+- Adultos +18 ❌❌❌: 31
+- Adultos +18 ❌❌❌ Goldtv: 4
+- Adultos ❌❌❌: 357
+- Amazon Prime Video: 4011
+- Apple TV+: 1350
+- BELICO: 276
+- BRASIL: 62
+- BRASIL FILMES y SERIES: 60
+- BRASIL | ENTRETENIMIENTO: 47
+- BRASIL | ESPORTES: 28
+- BRASIL | INFANTILES: 13
+- BRASIL | NACIONALES: 7
+- BRASIL | NOTICIERO: 5
+- BRASIL! | GLOBO: 29
+- CANALES DE SERIE: 23
+- CHILE: 10
+- CIENCIA FICCION: 477
+- CINE: 110
+- CINE ARGENTINO/URUGUAYO: 289
+- CINE CANTINFLAS: 27
+- CLASICAS 2: 106
+- COLOMBIA: 16
+- CONCIERTOS: 263
+- DEPORTES: 69
+- DEPORTES ARGENTINA HD: 18
+- DEPORTES ESPAÑA: 19
+- DEPORTES MEXICO: 19
+- DISNEY - Star+: 3461
+- DOCUMENTAL: 149
+- DOCUMENTAL 2: 33
+- DOCUMENTALES: 41
+- ENTRETENIMIENTOS: 34
+- ESPAÑA: 27
+- ESPECIAL DE NAVIDAD: 107
+- EVENTOS DEL DIA: 12
+- El SALVADOR: 8
+- Globoplay: 132
+- HBO MAX: 3030
+- HONDURAS: 7
+- Hulu: 55
+- INFANTILES: 26
+- INTERNACIONALES: 17
+- LIGA DE CAMPEONES 2026/27: 5
+- MARVEL 2: 4
+- MEXICO: 4
+- MUSICA: 37
+- NAVIDAD 2: 1
+- NBA VIP: 2
+- NETFLIX: 12059
+- NOTICIA: 11
+- NUEVAS: 1127
+- PELICULAS CLASICAS: 520
+- PELICULAS DE  TERROR: 783
+- PELICULAS DE COMEDIAS: 1191
+- PELICULAS DE DRAMA: 1121
+- PELICULAS EROTICAS: 6
+- PELICULAS INFANTILES: 675
+- PELICULAS PARA ADULTOS: 415
+- PERU: 9
+- POLICIAL, SUSPENSO. CRIMEN: 786
+- PPV FHD: 35
+- Paramount+: 712
+- Peliculas 2026: 48
+- RADIOS EN VIVO: 6
+- REALITY SHOW: 6
+- RELIGIOSO: 6
+- RELIGIÓN: 24
+- ROMANCE: 229
+- SERIE DE DOCUMENTALES: 845
+- SERIES CLÁSICAS: 4448
+- SERIES DE ACCIÓN: 2732
+- SERIES DE COMEDIAS: 7910
+- SERIES DE DRAMA: 7004
+- SERIES DE SUSPENSO: 5111
+- SERIES DE TERROR: 491
+- SERIES EN EMISION: 1293
+- SERIES FICCION: 2230
+- SERIES INFANTILES: 4769
+- SERIES NUEVAS: 2823
+- SIN GRUPO: 9
+- TELENOVELAS: 15
+- TERROR 2: 1
+- URUGUAY: 28
+- USA: 183
+- WESTERN: 262
+- WESTERN 2: 6
+- XXX ADULTOS: 24
+- ▶️ AUDIO ORIGINAL: 48
+- ▶️ CINE 2023: 357
+- ▶️ CINE 2024: 93
+- ▶️ CINE 2025: 66
+- ▶️ CINE 2026: 86
+- ▶️ CINE BELICO: 141
+- ▶️ CLASICOS RETRO: 360
+- ▶️ EVENTOS DEL DIA  ▶️: 141
+- ▶️ EVENTOS NHL: 1
+- ▶️ SAGA INFANTILES: 30
+- ▶️ UNIVERSO DC: 24
+- ▶️ VOD 2023: 242
+- ▶️ VOD 2024: 635
+- ▶️ VOD 2025: 849
+- ▶️ VOD 2026: 503
+- ▶️ VOD ANIME  SER #2: 74
+- ▶️ VOD NETFLIX: 83
+- ☀️ VOD NAVIDEÑO: 329
+- ⚽ DEPORTE COSTA Rica  🇨🇷: 14
+- ⚽ DEPORTES 4K: 13
+- ⚽ DEPORTES ARGENTINA 🇦🇷: 14
+- ⚽ DEPORTES COLOMBIA: 17
+- ⚽ FOX ONE: 9
+- ⚽ FÚTBOL CHILE: 6
+- ⚽ LA LIGA 📺: 10
+- ⚽ LIGA HYPERMOTION ▶️: 4
+- ⚽ |  DSPORTS: 22
+- ⚽ | BEIN SPORT: 6
+- ⚽ | DAZN: 7
+- ⚽ | DEPORTE CHILE 🇨🇱: 25
+- ⚽ | DEPORTE ECUADOR 🇪🇨: 12
+- ⚽ | DEPORTES BOLIVIA 🇧🇴: 20
+- ⚽ | DEPORTES ESPAÑA 🇪🇸: 15
+- ⚽ | DEPORTES PREMIUM HD - SD: 34
+- ⚽ | ESPN PREMIUM: 29
+- ⚽ | FOX SPORTS: 13
+- ⚽ | LIGA Peruana 🇵🇪: 30
+- ⚾ EVENTOS DIARIOS LIGA BEISBOL MEXICANA: 17
+- ⚾ EVENTOS DIARIOS LIGA DOMINICANA DE BEISBOL: 7
+- ⚾ SERIE DEL CARIBE 2024 - 2025: 1
+- ⛪ | RELIGION / PREDICAS: 14
+- ✅ 24 /7 ACCIÓN: 3
+- ✅ 24/7 VIP: 256
+- ✅ CINE  MEXICANO: 215
+- ✅ CINE  PERUANO: 29
+- ✅ CINE ARGENTINO: 2
+- ✅ CINE BOLIVIANO: 1
+- ✅ CINE CHILENO: 238
+- ✅ LIGA MX: 7
+- ✅ MLB: 1
+- ✅ NBA: 4
+- ✅ NFL: 4
+- ✅ PELICULAS 480: 1041
+- ✅ SAGA: 115
+- ✅ USA | ABC: 97
+- ✅ USA | FOX: 114
+- ✅ USA | NBC: 192
+- ✅ VOD 720p: 1290
+- ✅ VOD HINDU: 1
+- ✅NOTICIAS VENEZUELA: 3
+- ✅️ | VOD HISTORIA: 235
+- ✝️ Semana Santa ✝️: 87
+- ✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨: 5
+- ❌❌❌   | OPC 1: 14
+- ❌❌❌  | OPC 2: 16
+- ⭐  VOD  TENDENCIA 20 MG: 475
+- ⭐  VOD ACCIÓN: 1003
+- ⭐  VOD CRIMEN: 82
+- ⭐  VOD TERROR: 409
+- ⭐  VOD WESTERN: 91
+- ⭐ 4M4Z0N PR1M3: 7991
+- ⭐ ESTRENOS  2021: 337
+- ⭐ ESTRENOS 2022: 957
+- ⭐ LA GRANJA VIP: 8
+- ⭐ REALITYS ⭐: 1
+- ⭐ SEMANA SANTA: 34
+- ⭐ SERIES   ANIMES: 11771
+- ⭐ SERIES   NETFLIX: 11187
+- ⭐ SERIES  CARTOON: 699
+- ⭐ SERIES COLOMBIANAS: 5853
+- ⭐ SERIES DISNEY: 9079
+- ⭐ SERIES MAX: 6101
+- ⭐ SERIES NARCO: 2840
+- ⭐ SERIES PARAMOUNT: 2746
+- ⭐ SERIES STAR: 342
+- ⭐ TELESERIES: 13167
+- ⭐ VOD   DRAMA: 432
+- ⭐ VOD  2020: 476
+- ⭐ VOD 4K: 177
+- ⭐ VOD ANIMADOS: 455
+- ⭐ VOD ANIME: 20
+- ⭐ VOD ARTE MARCIALES: 81
+- ⭐ VOD AUDIO ESPAÑOL: 5
+- ⭐ VOD AVENTURAS: 374
+- ⭐ VOD CANTINFLAS: 21
+- ⭐ VOD CIENCIA FICCIÓN: 718
+- ⭐ VOD COMEDIA: 971
+- ⭐ VOD DOCUMENTALES: 261
+- ⭐ VOD DORAMAS: 1
+- ⭐ VOD INFANTILES: 367
+- ⭐ VOD KARAOKE: 549
+- ⭐ VOD MARVEL: 69
+- ⭐ VOD ROMANTICAS: 687
+- ⭐ Zona Retro: 7
+- ⭐VOD  CONCIERTOS: 147
+- ⭐VOD  SUSPENSO: 196
+- ⭐⭐ CATEGORIA CINE -CULTURA ⭐⭐: 1
+- ⭐⭐ CATEGORIA PAISES ⭐⭐: 1
+- ⭐️ Argentina: 35
+- ⭐️ Argentina Regionales: 44
+- ⭐️ Bolivia: 45
+- ⭐️ Brasil: 53
+- ⭐️ CHILE: 28
+- ⭐️ CHILE DEPORTE: 14
+- ⭐️ CHILE REGIONALES: 40
+- ⭐️ CINE PREMIUM: 85
+- ⭐️ COSTA RICA: 28
+- ⭐️ CULTURA: 35
+- ⭐️ Canadá: 129
+- ⭐️ Canales: 20
+- ⭐️ Colombia: 39
+- ⭐️ DEPORTE COSTA RICA: 5
+- ⭐️ Deporte Argentina: 13
+- ⭐️ Deporte Bolivia: 4
+- ⭐️ Deporte Colombia: 5
+- ⭐️ Deporte Ecuador: 6
+- ⭐️ Deportes Uruguay: 4
+- ⭐️ Doramas: 1866
+- ⭐️ DƏPORTE VIP: 32
+- ⭐️ DƏPORTES PE: 18
+- ⭐️ Ecuador: 13
+- ⭐️ El Salvador: 22
+- ⭐️ Estrenos 2026 ⭐️: 483
+- ⭐️ Futbol Paraguay: 3
+- ⭐️ Guatemala: 27
+- ⭐️ Honduras: 25
+- ⭐️ Infantiles: 20
+- ⭐️ Italia: 161
+- ⭐️ LA CASA DE LOS FAMOSOS MEXICO ⭐️: 10
+- ⭐️ LMP Liga ARCO: 7
+- ⭐️ MLS Exclusivo ⭐️: 11
+- ⭐️ Musica: 8
+- ⭐️ México: 64
+- ⭐️ NFL Exclusivo ⭐️: 17
+- ⭐️ Nicaragua: 9
+- ⭐️ Noticias: 4
+- ⭐️ PERU: 55
+- ⭐️ Panama: 9
+- ⭐️ Paraguay: 18
+- ⭐️ Peliculas 2020: 524
+- ⭐️ Puerto Rico: 10
+- ⭐️ RADIO PERU: 16
+- ⭐️ RADIOS ARGENTINA: 11
+- ⭐️ RADIOS CHILE: 63
+- ⭐️ RADIOS COLOMBIA: 12
+- ⭐️ RADIOS MEXICO: 12
+- ⭐️ República Dominicana: 4
+- ⭐️ Series Acción: 102
+- ⭐️ Series Amazon: 4100
+- ⭐️ Series Anime: 8233
+- ⭐️ Series Anime Gore: 119
+- ⭐️ Series Apple TV: 458
+- ⭐️ Series Chilenas: 7671
+- ⭐️ Series Ciencia Ficción: 605
+- ⭐️ Series Colombianas: 3628
+- ⭐️ Series Comedia: 1834
+- ⭐️ Series Disney: 2085
+- ⭐️ Series Documentales: 167
+- ⭐️ Series DragonBall: 664
+- ⭐️ Series Drama: 488
+- ⭐️ Series HBO: 3569
+- ⭐️ Series Hulu: 51
+- ⭐️ Series Infantiles: 2944
+- ⭐️ Series Mexicanas: 236
+- ⭐️ Series Narcos: 2369
+- ⭐️ Series Netflix: 14412
+- ⭐️ Series Paramount: 1023
+- ⭐️ Series Peruanas: 1669
+- ⭐️ Series Policiales: 193
+- ⭐️ Series Religiosas: 465
+- ⭐️ Series Retro: 4184
+- ⭐️ Series Star Plus: 2459
+- ⭐️ Series Starz: 105
+- ⭐️ Series Turcas: 878
+- ⭐️ TV Usa: 58
+- ⭐️ Telemundo: 15
+- ⭐️ Telenovelas: 18
+- ⭐️ Telenovelas Top: 3781
+- ⭐️ Tv Religiosos: 14
+- ⭐️ Unimas - Galavision: 13
+- ⭐️ Univision: 16
+- ⭐️ Uruguay: 15
+- ⭐️ Usa Childish: 6
+- ⭐️ Usa Entertainment: 24
+- ⭐️ Usa Fox: 54
+- ⭐️ Usa Movies: 39
+- ⭐️ Usa News: 10
+- ⭐️ Venezuela: 27
+- ⭐️Acción: 417
+- ⭐️Anime: 75
+- ⭐️Aventura: 582
+- ⭐️Ciencia Ficción: 144
+- ⭐️Cine Audio España: 136
+- ⭐️Cine Cantinflas: 37
+- ⭐️Cine Chileno: 90
+- ⭐️Cine Clásicos: 120
+- ⭐️Cine retro: 985
+- ⭐️Comedía: 234
+- ⭐️Conciertos: 353
+- ⭐️Crímen y Suspenso: 181
+- ⭐️Dc Universe: 16
+- ⭐️Deportes México: 34
+- ⭐️Disney: 95
+- ⭐️Drama: 474
+- ⭐️HBO Max: 315
+- ⭐️Infantiles: 454
+- ⭐️Marvel: 65
+- ⭐️Navidad 2025: 52
+- ⭐️Netflix: 402
+- ⭐️PRIMERA B⭐️: 3
+- ⭐️Peliculas Internet Lentos: 516
+- ⭐️Peliculas Mexicanas: 46
+- ⭐️Peliculas Musicales: 20
+- ⭐️Peliculas Peruanas: 193
+- ⭐️Películas 2021: 627
+- ⭐️Películas 2023: 365
+- ⭐️Películas 2024: 420
+- ⭐️Películas 2025: 317
+- ⭐️Romance: 116
+- ⭐️Saga American Pie: 8
+- ⭐️Saga Bad Boys: 4
+- ⭐️Saga Chucky: 8
+- ⭐️Saga Creed: 3
+- ⭐️Saga Descendientes: 5
+- ⭐️Saga Duro de Matar: 6
+- ⭐️Saga El Rey Escorpión: 5
+- ⭐️Saga El Señor de los Anillos: 7
+- ⭐️Saga El Transportador: 4
+- ⭐️Saga Freddy Krueger: 9
+- ⭐️Saga Harry Potter: 8
+- ⭐️Saga Insidious: 5
+- ⭐️Saga Ip man: 6
+- ⭐️Saga Jason Voorhees: 12
+- ⭐️Saga Jeepers Creepers: 3
+- ⭐️Saga Jhon Wick: 4
+- ⭐️Saga Jigsaw: 10
+- ⭐️Saga Jurassic Park: 7
+- ⭐️Saga La momia: 4
+- ⭐️Saga Piratas del Caribe: 5
+- ⭐️Saga Scary Movie: 5
+- ⭐️Saga Star Wars: 12
+- ⭐️Saga Transformers: 7
+- ⭐️Saga Una Pareja Explosiva: 3
+- ⭐️Terror: 320
+- ⭐️Variadas: 589
+- ⭐️Western: 106
+- ⭕  UNIMAS: 11
+- ⭕ Casa de los Famosos All-Stars ⭕: 3
+- ⭕ GALAVISION PREMIUM: 3
+- ⭕ TELEMUNDO PREMIUM: 27
+- ⭕ TELENOVELA: 11
+- ⭕ UNIVISION PREMIUM: 17
+- 🆚 | EVENTOS NETFLIX Y DISNEY: 3
+- 🇦🇷 | ARGENTINA: 35
+- 🇧🇴 | BOLIVIA: 36
+- 🇨🇦 | CANADA: 95
+- 🇨🇱 | CHILE: 43
+- 🇨🇱 | CHILE EN DIRECTO: 345
+- 🇨🇴 |  COLOMBIA: 27
+- 🇨🇷  | COSTA RICA: 56
+- 🇨🇺 | CUBA: 7
+- 🇨🇿 |  RD DOMINICANA: 20
+- 🇪🇨 | ECUADOR: 34
+- 🇪🇸 | ESPAÑA: 44
+- 🇬🇹 | GUATEMALA: 27
+- 🇭🇳 | HONDURAS: 40
+- 🇲🇽 |  MEXICO: 38
+- 🇳🇮 | NICARAGUA: 15
+- 🇵🇦 |  PANAMA: 19
+- 🇵🇪 |  PERU: 27
+- 🇵🇷 | PUERTO RICO: 14
+- 🇵🇹 PORTUGAL: 620
+- 🇵🇾 | PARAGUAY: 11
+- 🇸🇻 |  EL SALVADOR: 13
+- 🇺🇸 |  KIDS FAMILY: 18
+- 🇺🇸 |  MOVIE NETWORKS: 84
+- 🇺🇸 |  USA  NEWS: 10
+- 🇺🇸 |  USA ENT: 159
+- 🇺🇸 |  USA SPORTZ: 85
+- 🇺🇾 | URUGUAY: 18
+- 🇻🇪 | VENEZUELA: 28
+- 🎬 CULTURA & VIAJES: 32
+- 🎬 TV  | VIX: 9
+- 🎬 |  CULTURA PREMIUM HD: 34
+- 🎬 | 24/7 DRAGÓN BALL PREMIUM: 5
+- 🎬 | 24/7 NARCOS: 1
+- 🎬 | 24/7 PREMIUM: 77
+- 🎬 | 24/7 PREMIUM OP2: 6
+- 🎬 | ANIME 24/7: 13
+- 🎬 | ASTRA CHILE: 357
+- 🎬 | CINE EN CASA: 5
+- 🎬 | CINE PREMIUM España  🇪🇸: 15
+- 🎬 | CINE PREMIUM HD - SD: 72
+- 🎬 | INFANTILES PREMIUM: 20
+- 🎬 | MUNDO  BEBE: 4
+- 🎬 | PLUTO PREMIUM: 541
+- 🎬 | RUN :TIME PLAY: 13
+- 🎵 |  MUSICA: 594
+- 🎾 | TENIS  GOLF & CICLISMOS ❗️: 4
+- 🏁 | FORMULA 1: 9
+- 🏆 SKY PREMIUM ⚽: 5
+- 🏆 | DEPORTES ALTERNATIVOS⭐: 195
+- 🏆 | DISNEY + ✅: 8
+- 🏆DISNEY + GUATEMALA ⚽: 10
+- 🏇 | HIPÓDROMO TV: 5
+- 🐂 | TORO TV: 3
+- 📡 EVENTOS CHILE ⚽: 10
+- 📰 |  NOTICIAS GLOBAL  - NEWS: 18
+- 📰 | NOTICIAS 24 NEWS: 5
+- 🔝 TOP 10: 1
+- 🥊 |  PELEAS UFC: 32
+- 🥊 | UFC PREMIUM: 43
+
+Elementos retirados sin sustituto (solo nombres; no se publican URLs):

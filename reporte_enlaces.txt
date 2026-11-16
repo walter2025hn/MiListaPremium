@@ -1,26 +1,26 @@
 REPORTE AUTOMÁTICO — CÓDIGO MASTER
 Entradas descargadas: 256779
-Entradas finales (sin duplicados): 253182
+Entradas finales (sin duplicados): 256779
 URLs únicas totales: 256779
 URLs comprobadas en este lote: 3000
 URLs pendientes de comprobación en esta vuelta: 253779
-Elementos confirmados sin respuesta en sus copias: 2973
-Siguiente posición de revisión: 30001
+Elementos confirmados sin respuesta en sus copias: 2969
+Siguiente posición de revisión: 33001
 
 Entradas por grupo:
 - 24/7: 118
-- 4 K: 263
-- ACCION Y AVENTURA: 1453
+- 4 K: 265
+- ACCION Y AVENTURA: 1595
 - ALEMANIA: 239
-- ANIME: 3851
+- ANIME: 3897
 - ANIME 2: 1
 - ARGENTINA: 28
-- Adultos +18 ❌❌❌: 30
+- Adultos +18 ❌❌❌: 31
 - Adultos +18 ❌❌❌ Goldtv: 4
 - Adultos ❌❌❌: 357
-- Amazon Prime Video: 3893
-- Apple TV+: 1342
-- BELICO: 268
+- Amazon Prime Video: 4011
+- Apple TV+: 1350
+- BELICO: 276
 - BRASIL: 62
 - BRASIL FILMES y SERIES: 60
 - BRASIL | ENTRETENIMIENTO: 47
@@ -30,110 +30,110 @@ Entradas por grupo:
 - BRASIL | NOTICIERO: 5
 - BRASIL! | GLOBO: 29
 - CANALES DE SERIE: 23
-- CHILE: 9
-- CIENCIA FICCION: 450
-- CINE: 107
-- CINE ARGENTINO/URUGUAYO: 276
-- CINE CANTINFLAS: 6
-- CLASICAS 2: 103
+- CHILE: 10
+- CIENCIA FICCION: 477
+- CINE: 110
+- CINE ARGENTINO/URUGUAYO: 289
+- CINE CANTINFLAS: 27
+- CLASICAS 2: 106
 - COLOMBIA: 16
-- CONCIERTOS: 236
+- CONCIERTOS: 263
 - DEPORTES: 69
 - DEPORTES ARGENTINA HD: 18
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
-- DISNEY - Star+: 3328
+- DISNEY - Star+: 3461
 - DOCUMENTAL: 149
-- DOCUMENTAL 2: 32
+- DOCUMENTAL 2: 33
 - DOCUMENTALES: 41
 - ENTRETENIMIENTOS: 34
 - ESPAÑA: 27
-- ESPECIAL DE NAVIDAD: 101
+- ESPECIAL DE NAVIDAD: 107
 - EVENTOS DEL DIA: 12
 - El SALVADOR: 8
 - Globoplay: 132
-- HBO MAX: 3017
+- HBO MAX: 3030
 - HONDURAS: 7
 - Hulu: 55
-- INFANTILES: 25
-- INTERNACIONALES: 16
+- INFANTILES: 26
+- INTERNACIONALES: 17
 - LIGA DE CAMPEONES 2026/27: 5
 - MARVEL 2: 4
 - MEXICO: 4
-- MUSICA: 27
+- MUSICA: 37
 - NAVIDAD 2: 1
 - NBA VIP: 2
-- NETFLIX: 11866
+- NETFLIX: 12059
 - NOTICIA: 11
-- NUEVAS: 1122
-- PELICULAS CLASICAS: 504
-- PELICULAS DE  TERROR: 742
-- PELICULAS DE COMEDIAS: 1128
-- PELICULAS DE DRAMA: 1070
+- NUEVAS: 1127
+- PELICULAS CLASICAS: 520
+- PELICULAS DE  TERROR: 783
+- PELICULAS DE COMEDIAS: 1191
+- PELICULAS DE DRAMA: 1121
 - PELICULAS EROTICAS: 6
-- PELICULAS INFANTILES: 607
+- PELICULAS INFANTILES: 675
 - PELICULAS PARA ADULTOS: 415
 - PERU: 9
-- POLICIAL, SUSPENSO. CRIMEN: 743
+- POLICIAL, SUSPENSO. CRIMEN: 786
 - PPV FHD: 35
-- Paramount+: 704
-- Peliculas 2026: 41
+- Paramount+: 712
+- Peliculas 2026: 48
 - RADIOS EN VIVO: 6
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 24
-- ROMANCE: 212
-- SERIE DE DOCUMENTALES: 800
+- ROMANCE: 229
+- SERIE DE DOCUMENTALES: 845
 - SERIES CLÁSICAS: 4448
 - SERIES DE ACCIÓN: 2732
 - SERIES DE COMEDIAS: 7910
-- SERIES DE DRAMA: 6990
-- SERIES DE SUSPENSO: 5093
+- SERIES DE DRAMA: 7004
+- SERIES DE SUSPENSO: 5111
 - SERIES DE TERROR: 491
 - SERIES EN EMISION: 1293
-- SERIES FICCION: 2188
-- SERIES INFANTILES: 4349
-- SERIES NUEVAS: 2815
+- SERIES FICCION: 2230
+- SERIES INFANTILES: 4769
+- SERIES NUEVAS: 2823
 - SIN GRUPO: 9
-- TELENOVELAS: 14
+- TELENOVELAS: 15
 - TERROR 2: 1
-- URUGUAY: 27
+- URUGUAY: 28
 - USA: 183
-- WESTERN: 206
-- WESTERN 2: 5
+- WESTERN: 262
+- WESTERN 2: 6
 - XXX ADULTOS: 24
 - ▶️ AUDIO ORIGINAL: 48
-- ▶️ CINE 2023: 315
-- ▶️ CINE 2024: 86
+- ▶️ CINE 2023: 357
+- ▶️ CINE 2024: 93
 - ▶️ CINE 2025: 66
-- ▶️ CINE 2026: 81
-- ▶️ CINE BELICO: 139
-- ▶️ CLASICOS RETRO: 357
-- ▶️ EVENTOS DEL DIA  ▶️: 128
+- ▶️ CINE 2026: 86
+- ▶️ CINE BELICO: 141
+- ▶️ CLASICOS RETRO: 360
+- ▶️ EVENTOS DEL DIA  ▶️: 141
 - ▶️ EVENTOS NHL: 1
 - ▶️ SAGA INFANTILES: 30
-- ▶️ UNIVERSO DC: 23
-- ▶️ VOD 2023: 239
-- ▶️ VOD 2024: 628
-- ▶️ VOD 2025: 782
-- ▶️ VOD 2026: 497
-- ▶️ VOD ANIME  SER #2: 72
-- ▶️ VOD NETFLIX: 76
-- ☀️ VOD NAVIDEÑO: 325
-- ⚽ DEPORTE COSTA Rica  🇨🇷: 13
+- ▶️ UNIVERSO DC: 24
+- ▶️ VOD 2023: 242
+- ▶️ VOD 2024: 635
+- ▶️ VOD 2025: 849
+- ▶️ VOD 2026: 503
+- ▶️ VOD ANIME  SER #2: 74
+- ▶️ VOD NETFLIX: 83
+- ☀️ VOD NAVIDEÑO: 329
+- ⚽ DEPORTE COSTA Rica  🇨🇷: 14
 - ⚽ DEPORTES 4K: 13
-- ⚽ DEPORTES ARGENTINA 🇦🇷: 13
-- ⚽ DEPORTES COLOMBIA: 12
+- ⚽ DEPORTES ARGENTINA 🇦🇷: 14
+- ⚽ DEPORTES COLOMBIA: 17
 - ⚽ FOX ONE: 9
 - ⚽ FÚTBOL CHILE: 6
 - ⚽ LA LIGA 📺: 10
 - ⚽ LIGA HYPERMOTION ▶️: 4
-- ⚽ |  DSPORTS: 20
-- ⚽ | BEIN SPORT: 5
+- ⚽ |  DSPORTS: 22
+- ⚽ | BEIN SPORT: 6
 - ⚽ | DAZN: 7
 - ⚽ | DEPORTE CHILE 🇨🇱: 25
 - ⚽ | DEPORTE ECUADOR 🇪🇨: 12
-- ⚽ | DEPORTES BOLIVIA 🇧🇴: 18
+- ⚽ | DEPORTES BOLIVIA 🇧🇴: 20
 - ⚽ | DEPORTES ESPAÑA 🇪🇸: 15
 - ⚽ | DEPORTES PREMIUM HD - SD: 34
 - ⚽ | ESPN PREMIUM: 29
@@ -144,113 +144,113 @@ Entradas por grupo:
 - ⚾ SERIE DEL CARIBE 2024 - 2025: 1
 - ⛪ | RELIGION / PREDICAS: 14
 - ✅ 24 /7 ACCIÓN: 3
-- ✅ 24/7 VIP: 253
+- ✅ 24/7 VIP: 256
 - ✅ CINE  MEXICANO: 215
 - ✅ CINE  PERUANO: 29
 - ✅ CINE ARGENTINO: 2
 - ✅ CINE BOLIVIANO: 1
-- ✅ CINE CHILENO: 180
+- ✅ CINE CHILENO: 238
 - ✅ LIGA MX: 7
 - ✅ MLB: 1
 - ✅ NBA: 4
 - ✅ NFL: 4
-- ✅ PELICULAS 480: 1029
+- ✅ PELICULAS 480: 1041
 - ✅ SAGA: 115
 - ✅ USA | ABC: 97
-- ✅ USA | FOX: 113
-- ✅ USA | NBC: 190
-- ✅ VOD 720p: 1228
+- ✅ USA | FOX: 114
+- ✅ USA | NBC: 192
+- ✅ VOD 720p: 1290
 - ✅ VOD HINDU: 1
 - ✅NOTICIAS VENEZUELA: 3
-- ✅️ | VOD HISTORIA: 232
-- ✝️ Semana Santa ✝️: 86
+- ✅️ | VOD HISTORIA: 235
+- ✝️ Semana Santa ✝️: 87
 - ✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨: 5
 - ❌❌❌   | OPC 1: 14
 - ❌❌❌  | OPC 2: 16
-- ⭐  VOD  TENDENCIA 20 MG: 390
-- ⭐  VOD ACCIÓN: 970
-- ⭐  VOD CRIMEN: 80
-- ⭐  VOD TERROR: 390
-- ⭐  VOD WESTERN: 88
-- ⭐ 4M4Z0N PR1M3: 7968
+- ⭐  VOD  TENDENCIA 20 MG: 475
+- ⭐  VOD ACCIÓN: 1003
+- ⭐  VOD CRIMEN: 82
+- ⭐  VOD TERROR: 409
+- ⭐  VOD WESTERN: 91
+- ⭐ 4M4Z0N PR1M3: 7991
 - ⭐ ESTRENOS  2021: 337
-- ⭐ ESTRENOS 2022: 940
+- ⭐ ESTRENOS 2022: 957
 - ⭐ LA GRANJA VIP: 8
 - ⭐ REALITYS ⭐: 1
 - ⭐ SEMANA SANTA: 34
-- ⭐ SERIES   ANIMES: 11731
-- ⭐ SERIES   NETFLIX: 11111
-- ⭐ SERIES  CARTOON: 696
-- ⭐ SERIES COLOMBIANAS: 5813
-- ⭐ SERIES DISNEY: 9068
-- ⭐ SERIES MAX: 6087
-- ⭐ SERIES NARCO: 2837
-- ⭐ SERIES PARAMOUNT: 2741
-- ⭐ SERIES STAR: 341
-- ⭐ TELESERIES: 12973
-- ⭐ VOD   DRAMA: 424
-- ⭐ VOD  2020: 472
-- ⭐ VOD 4K: 176
-- ⭐ VOD ANIMADOS: 437
-- ⭐ VOD ANIME: 19
-- ⭐ VOD ARTE MARCIALES: 80
+- ⭐ SERIES   ANIMES: 11771
+- ⭐ SERIES   NETFLIX: 11187
+- ⭐ SERIES  CARTOON: 699
+- ⭐ SERIES COLOMBIANAS: 5853
+- ⭐ SERIES DISNEY: 9079
+- ⭐ SERIES MAX: 6101
+- ⭐ SERIES NARCO: 2840
+- ⭐ SERIES PARAMOUNT: 2746
+- ⭐ SERIES STAR: 342
+- ⭐ TELESERIES: 13167
+- ⭐ VOD   DRAMA: 432
+- ⭐ VOD  2020: 476
+- ⭐ VOD 4K: 177
+- ⭐ VOD ANIMADOS: 455
+- ⭐ VOD ANIME: 20
+- ⭐ VOD ARTE MARCIALES: 81
 - ⭐ VOD AUDIO ESPAÑOL: 5
-- ⭐ VOD AVENTURAS: 368
-- ⭐ VOD CANTINFLAS: 20
-- ⭐ VOD CIENCIA FICCIÓN: 688
-- ⭐ VOD COMEDIA: 960
-- ⭐ VOD DOCUMENTALES: 243
+- ⭐ VOD AVENTURAS: 374
+- ⭐ VOD CANTINFLAS: 21
+- ⭐ VOD CIENCIA FICCIÓN: 718
+- ⭐ VOD COMEDIA: 971
+- ⭐ VOD DOCUMENTALES: 261
 - ⭐ VOD DORAMAS: 1
-- ⭐ VOD INFANTILES: 356
+- ⭐ VOD INFANTILES: 367
 - ⭐ VOD KARAOKE: 549
-- ⭐ VOD MARVEL: 67
-- ⭐ VOD ROMANTICAS: 677
+- ⭐ VOD MARVEL: 69
+- ⭐ VOD ROMANTICAS: 687
 - ⭐ Zona Retro: 7
 - ⭐VOD  CONCIERTOS: 147
-- ⭐VOD  SUSPENSO: 187
+- ⭐VOD  SUSPENSO: 196
 - ⭐⭐ CATEGORIA CINE -CULTURA ⭐⭐: 1
 - ⭐⭐ CATEGORIA PAISES ⭐⭐: 1
-- ⭐️ Argentina: 30
+- ⭐️ Argentina: 35
 - ⭐️ Argentina Regionales: 44
-- ⭐️ Bolivia: 41
-- ⭐️ Brasil: 52
+- ⭐️ Bolivia: 45
+- ⭐️ Brasil: 53
 - ⭐️ CHILE: 28
 - ⭐️ CHILE DEPORTE: 14
 - ⭐️ CHILE REGIONALES: 40
-- ⭐️ CINE PREMIUM: 83
-- ⭐️ COSTA RICA: 22
-- ⭐️ CULTURA: 34
-- ⭐️ Canadá: 87
+- ⭐️ CINE PREMIUM: 85
+- ⭐️ COSTA RICA: 28
+- ⭐️ CULTURA: 35
+- ⭐️ Canadá: 129
 - ⭐️ Canales: 20
 - ⭐️ Colombia: 39
 - ⭐️ DEPORTE COSTA RICA: 5
 - ⭐️ Deporte Argentina: 13
 - ⭐️ Deporte Bolivia: 4
-- ⭐️ Deporte Colombia: 4
+- ⭐️ Deporte Colombia: 5
 - ⭐️ Deporte Ecuador: 6
-- ⭐️ Deportes Uruguay: 3
-- ⭐️ Doramas: 1834
-- ⭐️ DƏPORTE VIP: 31
+- ⭐️ Deportes Uruguay: 4
+- ⭐️ Doramas: 1866
+- ⭐️ DƏPORTE VIP: 32
 - ⭐️ DƏPORTES PE: 18
 - ⭐️ Ecuador: 13
-- ⭐️ El Salvador: 20
+- ⭐️ El Salvador: 22
 - ⭐️ Estrenos 2026 ⭐️: 483
 - ⭐️ Futbol Paraguay: 3
-- ⭐️ Guatemala: 25
+- ⭐️ Guatemala: 27
 - ⭐️ Honduras: 25
 - ⭐️ Infantiles: 20
 - ⭐️ Italia: 161
 - ⭐️ LA CASA DE LOS FAMOSOS MEXICO ⭐️: 10
 - ⭐️ LMP Liga ARCO: 7
-- ⭐️ MLS Exclusivo ⭐️: 7
+- ⭐️ MLS Exclusivo ⭐️: 11
 - ⭐️ Musica: 8
-- ⭐️ México: 63
+- ⭐️ México: 64
 - ⭐️ NFL Exclusivo ⭐️: 17
 - ⭐️ Nicaragua: 9
 - ⭐️ Noticias: 4
 - ⭐️ PERU: 55
 - ⭐️ Panama: 9
-- ⭐️ Paraguay: 14
+- ⭐️ Paraguay: 18
 - ⭐️ Peliculas 2020: 524
 - ⭐️ Puerto Rico: 10
 - ⭐️ RADIO PERU: 16
@@ -260,8 +260,8 @@ Entradas por grupo:
 - ⭐️ RADIOS MEXICO: 12
 - ⭐️ República Dominicana: 4
 - ⭐️ Series Acción: 102
-- ⭐️ Series Amazon: 4069
-- ⭐️ Series Anime: 8169
+- ⭐️ Series Amazon: 4100
+- ⭐️ Series Anime: 8233
 - ⭐️ Series Anime Gore: 119
 - ⭐️ Series Apple TV: 458
 - ⭐️ Series Chilenas: 7671
@@ -272,12 +272,12 @@ Entradas por grupo:
 - ⭐️ Series Documentales: 167
 - ⭐️ Series DragonBall: 664
 - ⭐️ Series Drama: 488
-- ⭐️ Series HBO: 3543
+- ⭐️ Series HBO: 3569
 - ⭐️ Series Hulu: 51
 - ⭐️ Series Infantiles: 2944
 - ⭐️ Series Mexicanas: 236
 - ⭐️ Series Narcos: 2369
-- ⭐️ Series Netflix: 14343
+- ⭐️ Series Netflix: 14412
 - ⭐️ Series Paramount: 1023
 - ⭐️ Series Peruanas: 1669
 - ⭐️ Series Policiales: 193
@@ -287,7 +287,7 @@ Entradas por grupo:
 - ⭐️ Series Starz: 105
 - ⭐️ Series Turcas: 878
 - ⭐️ TV Usa: 58
-- ⭐️ Telemundo: 14
+- ⭐️ Telemundo: 15
 - ⭐️ Telenovelas: 18
 - ⭐️ Telenovelas Top: 3781
 - ⭐️ Tv Religiosos: 14
@@ -295,42 +295,42 @@ Entradas por grupo:
 - ⭐️ Univision: 16
 - ⭐️ Uruguay: 15
 - ⭐️ Usa Childish: 6
-- ⭐️ Usa Entertainment: 23
-- ⭐️ Usa Fox: 48
+- ⭐️ Usa Entertainment: 24
+- ⭐️ Usa Fox: 54
 - ⭐️ Usa Movies: 39
 - ⭐️ Usa News: 10
-- ⭐️ Venezuela: 26
-- ⭐️Acción: 409
+- ⭐️ Venezuela: 27
+- ⭐️Acción: 417
 - ⭐️Anime: 75
-- ⭐️Aventura: 580
-- ⭐️Ciencia Ficción: 141
+- ⭐️Aventura: 582
+- ⭐️Ciencia Ficción: 144
 - ⭐️Cine Audio España: 136
 - ⭐️Cine Cantinflas: 37
 - ⭐️Cine Chileno: 90
 - ⭐️Cine Clásicos: 120
-- ⭐️Cine retro: 970
-- ⭐️Comedía: 232
-- ⭐️Conciertos: 349
-- ⭐️Crímen y Suspenso: 180
+- ⭐️Cine retro: 985
+- ⭐️Comedía: 234
+- ⭐️Conciertos: 353
+- ⭐️Crímen y Suspenso: 181
 - ⭐️Dc Universe: 16
-- ⭐️Deportes México: 33
-- ⭐️Disney: 94
-- ⭐️Drama: 468
+- ⭐️Deportes México: 34
+- ⭐️Disney: 95
+- ⭐️Drama: 474
 - ⭐️HBO Max: 315
-- ⭐️Infantiles: 453
-- ⭐️Marvel: 64
+- ⭐️Infantiles: 454
+- ⭐️Marvel: 65
 - ⭐️Navidad 2025: 52
 - ⭐️Netflix: 402
 - ⭐️PRIMERA B⭐️: 3
 - ⭐️Peliculas Internet Lentos: 516
 - ⭐️Peliculas Mexicanas: 46
 - ⭐️Peliculas Musicales: 20
-- ⭐️Peliculas Peruanas: 192
+- ⭐️Peliculas Peruanas: 193
 - ⭐️Películas 2021: 627
-- ⭐️Películas 2023: 359
-- ⭐️Películas 2024: 418
-- ⭐️Películas 2025: 315
-- ⭐️Romance: 114
+- ⭐️Películas 2023: 365
+- ⭐️Películas 2024: 420
+- ⭐️Películas 2025: 317
+- ⭐️Romance: 116
 - ⭐️Saga American Pie: 8
 - ⭐️Saga Bad Boys: 4
 - ⭐️Saga Chucky: 8
@@ -355,574 +355,574 @@ Entradas por grupo:
 - ⭐️Saga Star Wars: 12
 - ⭐️Saga Transformers: 7
 - ⭐️Saga Una Pareja Explosiva: 3
-- ⭐️Terror: 316
-- ⭐️Variadas: 562
+- ⭐️Terror: 320
+- ⭐️Variadas: 589
 - ⭐️Western: 106
-- ⭕  UNIMAS: 10
+- ⭕  UNIMAS: 11
 - ⭕ Casa de los Famosos All-Stars ⭕: 3
 - ⭕ GALAVISION PREMIUM: 3
 - ⭕ TELEMUNDO PREMIUM: 27
 - ⭕ TELENOVELA: 11
 - ⭕ UNIVISION PREMIUM: 17
 - 🆚 | EVENTOS NETFLIX Y DISNEY: 3
-- 🇦🇷 | ARGENTINA: 32
-- 🇧🇴 | BOLIVIA: 34
+- 🇦🇷 | ARGENTINA: 35
+- 🇧🇴 | BOLIVIA: 36
 - 🇨🇦 | CANADA: 95
 - 🇨🇱 | CHILE: 43
-- 🇨🇱 | CHILE EN DIRECTO: 344
+- 🇨🇱 | CHILE EN DIRECTO: 345
 - 🇨🇴 |  COLOMBIA: 27
-- 🇨🇷  | COSTA RICA: 53
+- 🇨🇷  | COSTA RICA: 56
 - 🇨🇺 | CUBA: 7
 - 🇨🇿 |  RD DOMINICANA: 20
 - 🇪🇨 | ECUADOR: 34
 - 🇪🇸 | ESPAÑA: 44
 - 🇬🇹 | GUATEMALA: 27
 - 🇭🇳 | HONDURAS: 40
-- 🇲🇽 |  MEXICO: 36
+- 🇲🇽 |  MEXICO: 38
 - 🇳🇮 | NICARAGUA: 15
-- 🇵🇦 |  PANAMA: 17
-- 🇵🇪 |  PERU: 23
-- 🇵🇷 | PUERTO RICO: 8
-- 🇵🇹 PORTUGAL: 410
+- 🇵🇦 |  PANAMA: 19
+- 🇵🇪 |  PERU: 27
+- 🇵🇷 | PUERTO RICO: 14
+- 🇵🇹 PORTUGAL: 620
 - 🇵🇾 | PARAGUAY: 11
-- 🇸🇻 |  EL SALVADOR: 10
+- 🇸🇻 |  EL SALVADOR: 13
 - 🇺🇸 |  KIDS FAMILY: 18
 - 🇺🇸 |  MOVIE NETWORKS: 84
-- 🇺🇸 |  USA  NEWS: 5
-- 🇺🇸 |  USA ENT: 158
-- 🇺🇸 |  USA SPORTZ: 84
-- 🇺🇾 | URUGUAY: 17
-- 🇻🇪 | VENEZUELA: 26
+- 🇺🇸 |  USA  NEWS: 10
+- 🇺🇸 |  USA ENT: 159
+- 🇺🇸 |  USA SPORTZ: 85
+- 🇺🇾 | URUGUAY: 18
+- 🇻🇪 | VENEZUELA: 28
 - 🎬 CULTURA & VIAJES: 32
 - 🎬 TV  | VIX: 9
 - 🎬 |  CULTURA PREMIUM HD: 34
 - 🎬 | 24/7 DRAGÓN BALL PREMIUM: 5
 - 🎬 | 24/7 NARCOS: 1
-- 🎬 | 24/7 PREMIUM: 76
+- 🎬 | 24/7 PREMIUM: 77
 - 🎬 | 24/7 PREMIUM OP2: 6
 - 🎬 | ANIME 24/7: 13
-- 🎬 | ASTRA CHILE: 190
+- 🎬 | ASTRA CHILE: 357
 - 🎬 | CINE EN CASA: 5
 - 🎬 | CINE PREMIUM España  🇪🇸: 15
-- 🎬 | CINE PREMIUM HD - SD: 70
+- 🎬 | CINE PREMIUM HD - SD: 72
 - 🎬 | INFANTILES PREMIUM: 20
 - 🎬 | MUNDO  BEBE: 4
 - 🎬 | PLUTO PREMIUM: 541
-- 🎬 | RUN :TIME PLAY: 12
-- 🎵 |  MUSICA: 575
+- 🎬 | RUN :TIME PLAY: 13
+- 🎵 |  MUSICA: 594
 - 🎾 | TENIS  GOLF & CICLISMOS ❗️: 4
 - 🏁 | FORMULA 1: 9
 - 🏆 SKY PREMIUM ⚽: 5
-- 🏆 | DEPORTES ALTERNATIVOS⭐: 184
+- 🏆 | DEPORTES ALTERNATIVOS⭐: 195
 - 🏆 | DISNEY + ✅: 8
 - 🏆DISNEY + GUATEMALA ⚽: 10
 - 🏇 | HIPÓDROMO TV: 5
 - 🐂 | TORO TV: 3
-- 📡 EVENTOS CHILE ⚽: 5
+- 📡 EVENTOS CHILE ⚽: 10
 - 📰 |  NOTICIAS GLOBAL  - NEWS: 18
 - 📰 | NOTICIAS 24 NEWS: 5
 - 🔝 TOP 10: 1
-- 🥊 |  PELEAS UFC: 31
-- 🥊 | UFC PREMIUM: 23
+- 🥊 |  PELEAS UFC: 32
+- 🥊 | UFC PREMIUM: 43
 
 Posibles enlaces sin respuesta en copias ya comprobadas (no se eliminan):
-- American Horror Story S01 E03
-- American Horror Story S01 E04
-- American Horror Story S01 E05
-- American Horror Story S01 E06
-- American Horror Story S01 E07
-- American Horror Story S02 E01
-- American Horror Story S02 E02
-- American Horror Story S02 E03
-- American Horror Story S02 E04
-- American Horror Story S02 E05
-- American Horror Story S02 E06
-- American Horror Story S02 E07
-- American Horror Story S02 E08
-- American Horror Story S02 E09
-- American Horror Story S02 E10
-- American Horror Story S02 E11
-- American Horror Story S02 E12
-- American Horror Story S02 E13
-- American Horror Story S03 E01
-- American Horror Story S03 E02
-- American Horror Story S03 E03
-- American Horror Story S03 E04
-- American Horror Story S03 E05
-- American Horror Story S03 E06
-- American Horror Story S03 E07
-- American Horror Story S03 E08
-- American Horror Story S03 E09
-- American Horror Story S03 E10
-- American Horror Story S03 E11
-- American Horror Story S03 E12
-- American Horror Story S03 E13
-- American Horror Story S04 E01
-- American Horror Story S04 E02
-- American Horror Story S04 E03
-- American Horror Story S04 E04
-- American Horror Story S04 E05
-- American Horror Story S04 E06
-- American Horror Story S04 E07
-- American Horror Story S04 E08
-- American Horror Story S04 E09
-- American Horror Story S04 E10
-- American Horror Story S04 E11
-- American Horror Story S04 E12
-- American Horror Story S04 E13
-- American Horror Story S05 E01
-- American Horror Story S05 E02
-- American Horror Story S05 E03
-- American Horror Story S05 E04
-- American Horror Story S05 E05
-- American Horror Story S05 E06
-- American Horror Story S05 E07
-- American Horror Story S05 E08
-- American Horror Story S05 E09
-- American Horror Story S05 E10
-- American Horror Story S05 E11
-- American Horror Story S05 E12
-- American Horror Story S06 E01
-- American Horror Story S06 E02
-- American Horror Story S06 E03
-- American Horror Story S06 E04
-- American Horror Story S06 E05
-- American Horror Story S06 E06
-- American Horror Story S06 E07
-- American Horror Story S06 E08
-- American Horror Story S06 E09
-- American Horror Story S06 E10
-- American Horror Story S07 E01
-- American Horror Story S07 E02
-- American Horror Story S07 E03
-- American Horror Story S07 E04
-- American Horror Story S07 E05
-- American Horror Story S07 E06
-- American Horror Story S07 E07
-- American Horror Story S07 E08
-- American Horror Story S07 E09
-- American Horror Story S07 E10
-- American Horror Story S07 E11
-- American Horror Story S08 E01
-- American Horror Story S08 E02
-- American Horror Story S08 E03
-- American Horror Story S08 E04
-- American Horror Story S08 E05
-- American Horror Story S08 E06
-- American Horror Story S08 E07
-- American Horror Story S08 E08
-- American Horror Story S08 E09
-- American Horror Story S08 E10
-- American Horror Story S09 E01
-- American Horror Story S09 E02
-- American Horror Story S09 E03
-- American Horror Story S09 E04
-- American Horror Story S09 E05
-- American Horror Story S09 E06
-- American Horror Story S09 E07
-- American Horror Story S09 E08
-- American Horror Story S09 E09
-- American Horror Story S10 E01
-- American Horror Story S10 E02
-- American Horror Story S10 E03
-- American Horror Story S10 E04
-- American Horror Story S10 E05
-- American Horror Story S10 E06
-- American Horror Story S10 E07
-- American Horror Story S10 E08
-- American Horror Story S10 E09
-- American Horror Story S10 E10
-- American Horror Story S11 E01
-- American Horror Story S11 E02
-- American Horror Story S11 E03
-- American Horror Story S11 E04
-- American Horror Story S11 E05
-- American Horror Story S11 E06
-- American Horror Story S11 E07
-- American Horror Story S11 E08
-- American Horror Story S11 E09
-- American Horror Story S11 E10
-- American Horror Story S12 E01
-- American Horror Story S12 E02
-- American Horror Story S12 E03
-- American Horror Story S12 E04
-- American Horror Story S12 E05
-- American Horror Story S13 E01
-- American Horror Story S13 E02
-- American Horror Story S13 E03
-- American Horror Story S13 E04
-- American Horror Story S13 E05
-- American Horror Story S13 E06
-- American Horror Story S13 E07
-- American Horror Story S13 E08
-- American Horror Story S13 E09
-- American Horror Story S13 E10
-- American Horror Story S13 E11
-- American Horror Story S13 E12
-- American Horror Story S13 E13
-- Angel S01 E01
-- Angel S01 E02
-- Angel S01 E03
-- Angel S01 E04
-- Angel S01 E05
-- Angel S01 E06
-- Angel S01 E07
-- Angel S01 E08
-- Angel S01 E09
-- Angel S01 E10
-- Angel S01 E11
-- Angel S01 E12
-- Angel S01 E13
-- Angel S01 E14
-- Angel S01 E15
-- Angel S01 E16
-- Angel S01 E17
-- Angel S01 E18
-- Angel S01 E19
-- Angel S01 E20
-- Angel S01 E21
-- Angel S01 E22
-- Angel S02 E01
-- Angel S02 E02
-- Angel S02 E03
-- Angel S02 E04
-- Angel S02 E05
-- Angel S02 E06
-- Angel S02 E07
-- Angel S02 E08
-- Angel S02 E09
-- Angel S02 E10
-- Angel S02 E11
-- Angel S02 E12
-- Angel S02 E13
-- Angel S02 E14
-- Angel S02 E15
-- Angel S02 E16
-- Angel S02 E17
-- Angel S02 E18
-- Angel S02 E19
-- Angel S02 E20
-- Angel S02 E21
-- Angel S02 E22
-- Angel S03 E01
-- Angel S03 E02
-- Angel S03 E03
-- Angel S03 E04
-- Angel S03 E05
-- Angel S03 E06
-- Angel S03 E07
-- Angel S03 E08
-- Angel S03 E09
-- Angel S03 E10
-- Angel S03 E11
-- Angel S03 E12
-- Angel S03 E13
-- Angel S03 E14
-- Angel S03 E15
-- Angel S03 E16
-- Angel S03 E17
-- Angel S03 E18
-- Angel S03 E19
-- Angel S03 E20
-- Angel S03 E21
-- Angel S03 E22
-- Angel S03 E23
-- Angel S04 E01
-- Angel S04 E02
-- Angel S04 E03
-- Angel S04 E04
-- Angel S04 E05
-- Angel S04 E06
-- Angel S04 E07
-- Angel S04 E08
-- Angel S04 E09
-- Angel S04 E10
-- Angel S04 E11
-- Angel S04 E12
-- Angel S04 E13
-- Angel S04 E14
-- Angel S04 E15
-- Angel S04 E16
-- Angel S04 E17
-- Angel S04 E18
-- Angel S04 E19
-- Angel S04 E20
-- Angel S04 E21
-- Angel S04 E22
-- Angel S05 E01
-- Angel S05 E02
-- Angel S05 E03
-- Angel S05 E04
-- Angel S05 E05
-- Angel S05 E06
-- Angel S05 E07
-- Angel S05 E08
-- Angel S05 E09
-- Angel S05 E10
-- Angel S05 E11
-- Angel S05 E12
-- Angel S05 E13
-- Angel S05 E14
-- Angel S05 E15
-- Angel S05 E16
-- Angel S05 E17
-- Angel S05 E18
-- Angel S05 E19
-- Angel S05 E20
-- Angel S05 E21
-- Angel S05 E22
-- Angel S05 E23
-- Angel S05 E24
-- Angel S05 E25
-- Faraway Downs: Australia S01 E01
-- Faraway Downs: Australia S01 E02
-- Faraway Downs: Australia S01 E03
-- Faraway Downs: Australia S01 E04
-- Faraway Downs: Australia S01 E05
-- Faraway Downs: Australia S01 E06
-- Bienvenidos al Chippendale S01 E01
-- Bienvenidos al Chippendale S01 E02
-- Bienvenidos al Chippendale S01 E03
-- Bienvenidos al Chippendale S01 E04
-- Bienvenidos al Chippendale S01 E05
-- Bienvenidos al Chippendale S01 E06
-- Bienvenidos al Chippendale S01 E07
-- Bienvenidos al Chippendale S01 E08
-- la cazavampiros S01 E01
-- la cazavampiros S01 E02
-- la cazavampiros S01 E03
-- la cazavampiros S01 E04
-- la cazavampiros S01 E05
-- la cazavampiros S01 E06
-- la cazavampiros S01 E07
-- la cazavampiros S01 E08
-- la cazavampiros S01 E09
-- la cazavampiros S01 E10
-- la cazavampiros S01 E11
-- la cazavampiros S01 E12
-- la cazavampiros S02 E01
-- la cazavampiros S02 E02
-- la cazavampiros S02 E03
-- la cazavampiros S02 E04
-- la cazavampiros S02 E05
-- la cazavampiros S02 E06
-- la cazavampiros S02 E07
-- la cazavampiros S02 E08
-- la cazavampiros S02 E09
-- la cazavampiros S02 E10
-- la cazavampiros S02 E11
-- la cazavampiros S02 E12
-- la cazavampiros S02 E13
-- la cazavampiros S02 E14
-- la cazavampiros S02 E15
-- la cazavampiros S02 E16
-- la cazavampiros S02 E17
-- la cazavampiros S02 E18
-- la cazavampiros S02 E19
-- la cazavampiros S02 E20
-- la cazavampiros S02 E21
-- la cazavampiros S02 E22
-- la cazavampiros S03 E01
-- la cazavampiros S03 E02
-- la cazavampiros S03 E03
-- la cazavampiros S03 E04
-- la cazavampiros S03 E05
-- la cazavampiros S03 E06
-- la cazavampiros S03 E07
-- la cazavampiros S03 E08
-- la cazavampiros S03 E09
-- la cazavampiros S03 E10
-- la cazavampiros S03 E11
-- la cazavampiros S03 E12
-- la cazavampiros S03 E13
-- la cazavampiros S03 E14
-- la cazavampiros S03 E15
-- la cazavampiros S03 E16
-- la cazavampiros S03 E17
-- la cazavampiros S03 E18
-- la cazavampiros S03 E19
-- la cazavampiros S03 E20
-- la cazavampiros S03 E21
-- la cazavampiros S03 E22
-- la cazavampiros S04 E01
-- la cazavampiros S04 E02
-- la cazavampiros S04 E03
-- la cazavampiros S04 E04
-- la cazavampiros S04 E05
-- la cazavampiros S04 E06
-- la cazavampiros S04 E07
-- la cazavampiros S04 E08
-- la cazavampiros S04 E09
-- la cazavampiros S04 E10
-- la cazavampiros S04 E11
-- la cazavampiros S04 E12
-- la cazavampiros S04 E13
-- la cazavampiros S04 E14
-- la cazavampiros S04 E15
-- la cazavampiros S04 E16
-- la cazavampiros S04 E17
-- la cazavampiros S04 E18
-- la cazavampiros S04 E19
-- la cazavampiros S04 E20
-- la cazavampiros S04 E21
-- la cazavampiros S04 E22
-- la cazavampiros S05 E01
-- la cazavampiros S05 E02
-- la cazavampiros S05 E03
-- la cazavampiros S05 E04
-- la cazavampiros S05 E05
-- la cazavampiros S05 E06
-- la cazavampiros S05 E07
-- la cazavampiros S05 E08
-- la cazavampiros S05 E09
-- la cazavampiros S05 E10
-- la cazavampiros S05 E11
-- la cazavampiros S05 E12
-- la cazavampiros S05 E13
-- la cazavampiros S05 E14
-- la cazavampiros S05 E15
-- la cazavampiros S05 E16
-- la cazavampiros S05 E17
-- la cazavampiros S05 E18
-- la cazavampiros S05 E19
-- la cazavampiros S05 E20
-- la cazavampiros S05 E21
-- la cazavampiros S05 E22
-- la cazavampiros S06 E01
-- la cazavampiros S06 E02
-- la cazavampiros S06 E03
-- la cazavampiros S06 E04
-- la cazavampiros S06 E05
-- la cazavampiros S06 E06
-- la cazavampiros S06 E07
-- la cazavampiros S06 E08
-- la cazavampiros S06 E09
-- la cazavampiros S06 E10
-- la cazavampiros S06 E11
-- la cazavampiros S06 E12
-- la cazavampiros S06 E13
-- la cazavampiros S06 E14
-- la cazavampiros S06 E15
-- la cazavampiros S06 E16
-- la cazavampiros S06 E17
-- la cazavampiros S06 E18
-- la cazavampiros S06 E19
-- la cazavampiros S06 E20
-- la cazavampiros S06 E21
-- la cazavampiros S06 E22
-- la cazavampiros S07 E01
-- la cazavampiros S07 E02
-- la cazavampiros S07 E03
-- la cazavampiros S07 E04
-- la cazavampiros S07 E05
-- la cazavampiros S07 E06
-- la cazavampiros S07 E07
-- la cazavampiros S07 E08
-- la cazavampiros S07 E09
-- la cazavampiros S07 E10
-- la cazavampiros S07 E11
-- la cazavampiros S07 E12
-- la cazavampiros S07 E13
-- la cazavampiros S07 E14
-- la cazavampiros S07 E15
-- la cazavampiros S07 E16
-- la cazavampiros S07 E17
-- la cazavampiros S07 E18
-- la cazavampiros S07 E19
-- la cazavampiros S07 E20
-- la cazavampiros S07 E21
-- la cazavampiros S07 E22
-- Mejores que nosotros S01 E01
-- Mejores que nosotros S01 E02
-- Mejores que nosotros S01 E03
-- Mejores que nosotros S01 E04
-- Mejores que nosotros S01 E05
-- Mejores que nosotros S01 E06
-- Mejores que nosotros S01 E07
-- Mejores que nosotros S01 E08
-- Mejores que nosotros S01 E09
-- Mejores que nosotros S01 E10
-- Mejores que nosotros S01 E11
-- Mejores que nosotros S01 E12
-- Mejores que nosotros S01 E13
-- Mejores que nosotros S01 E14
-- Mejores que nosotros S01 E15
-- Mejores que nosotros S01 E16
-- Bolívar S01 E01
-- Bolívar S01 E02
-- Bolívar S01 E03
-- Bolívar S01 E04
-- Bolívar S01 E05
-- Bolívar S01 E06
-- Bolívar S01 E07
-- Bolívar S01 E08
-- Bolívar S01 E09
-- Bolívar S01 E10
-- Bolívar S01 E11
-- Bolívar S01 E12
-- Bolívar S01 E13
-- Bolívar S01 E14
-- Bolívar S01 E15
-- Bolívar S01 E16
-- Bolívar S01 E17
-- Bolívar S01 E18
-- Bolívar S01 E19
-- Bolívar S01 E20
-- Bolívar S01 E21
-- Bolívar S01 E22
-- Bolívar S01 E23
-- Bolívar S01 E24
-- Bolívar S01 E25
-- Bolívar S01 E26
-- Bolívar S01 E27
-- Bolívar S01 E28
-- Bolívar S01 E29
-- Bolívar S01 E30
-- Bolívar S01 E31
-- Bolívar S01 E32
-- Bolívar S01 E33
-- Bolívar S01 E34
-- Bolívar S01 E35
-- Bolívar S01 E36
-- Bolívar S01 E37
-- Bolívar S01 E38
-- Bolívar S01 E39
-- Bolívar S01 E40
-- Bolívar S01 E41
-- Bolívar S01 E42
-- Bolívar S01 E43
-- Bolívar S01 E44
-- Bolívar S01 E45
-- Bolívar S01 E46
-- Bolívar S01 E47
-- Bolívar S01 E48
-- Bolívar S01 E49
-- Bolívar S01 E50
-- Bolívar S01 E51
-- Bolívar S01 E52
-- Bolívar S01 E53
-- Bolívar S01 E54
-- Bolívar S01 E55
-- Bolívar S01 E56
-- Bolívar S01 E57
-- Bolívar S01 E58
-- Bolívar S01 E59
-- Bolívar S01 E60
-- Cien años de soledad S01 E01
-- Cien años de soledad S01 E02
-- Cien años de soledad S01 E03
-- Cien años de soledad S01 E04
-- Cien años de soledad S01 E05
-- Cien años de soledad S01 E06
-- Cien años de soledad S01 E07
-- Cien años de soledad S01 E08
-- Cien años de soledad S02 E01
-- Cien años de soledad S02 E02
-- Cien años de soledad S02 E03
-- Cien años de soledad S02 E04
-- Cien años de soledad S02 E05
-- Cien años de soledad S02 E06
-- Cien años de soledad S02 E07
-- Adamas: Diamante asesino S01 E01
-- Adamas: Diamante asesino S01 E02
-- Adamas: Diamante asesino S01 E03
+- Doona! S01 E05
+- Doona! S01 E06
+- Doona! S01 E07
+- Doona! S01 E08
+- El baile de las luciérnagas S01 E03
+- El baile de las luciérnagas S01 E04
+- El baile de las luciérnagas S01 E06
+- El baile de las luciérnagas S01 E07
+- El baile de las luciérnagas S01 E08
+- El baile de las luciérnagas S01 E09
+- El baile de las luciérnagas S01 E10
+- El baile de las luciérnagas S02 E01
+- El baile de las luciérnagas S02 E02
+- El baile de las luciérnagas S02 E04
+- El baile de las luciérnagas S02 E05
+- El baile de las luciérnagas S02 E06
+- El baile de las luciérnagas S02 E07
+- El baile de las luciérnagas S02 E08
+- El baile de las luciérnagas S02 E09
+- El baile de las luciérnagas S02 E12
+- El baile de las luciérnagas S02 E13
+- El baile de las luciérnagas S02 E14
+- El baile de las luciérnagas S02 E15
+- El baile de las luciérnagas S02 E16
+- El camino de la noche S01 E01
+- El camino de la noche S01 E02
+- El camino de la noche S01 E03
+- El camino de la noche S01 E05
+- El camino de la noche S02 E02
+- El camino de la noche S02 E03
+- El camino de la noche S02 E04
+- El camino de la noche S02 E05
+- El camino de la noche S02 E06
+- El cuerpo en llamas S01 E02
+- El cuerpo en llamas S01 E05
+- El cuerpo en llamas S01 E07
+- El elegido S01 E01
+- El elegido S01 E02
+- El elegido S01 E03
+- El elegido S01 E05
+- El elegido S01 E06
+- Doctora Cha S01 E01
+- Doctora Cha S01 E02
+- Doctora Cha S01 E04
+- Doctora Cha S01 E05
+- Doctora Cha S01 E06
+- Doctora Cha S01 E07
+- Doctora Cha S01 E15
+- Caballero Negro S01 E01
+- Caballero Negro S01 E02
+- Caballero Negro S01 E03
+- Caballero Negro S01 E04
+- Caballero Negro S01 E05
+- Caballero Negro S01 E06
+- Drácula S01 E01
+- Drácula S01 E02
+- Drácula S01 E03
+- Donde Hubo Fuego S01 E01
+- Donde Hubo Fuego S01 E02
+- Donde Hubo Fuego S01 E04
+- Donde Hubo Fuego S01 E05
+- Donde Hubo Fuego S01 E06
+- Donde Hubo Fuego S01 E07
+- Donde Hubo Fuego S01 E08
+- Donde Hubo Fuego S01 E09
+- Donde Hubo Fuego S01 E10
+- Donde Hubo Fuego S01 E11
+- Donde Hubo Fuego S01 E12
+- Donde Hubo Fuego S01 E13
+- Donde Hubo Fuego S01 E14
+- Donde Hubo Fuego S01 E15
+- Donde Hubo Fuego S01 E16
+- Donde Hubo Fuego S01 E17
+- Donde Hubo Fuego S01 E18
+- Donde Hubo Fuego S01 E19
+- Donde Hubo Fuego S01 E20
+- Donde Hubo Fuego S01 E21
+- Donde Hubo Fuego S01 E22
+- Donde Hubo Fuego S01 E23
+- Donde Hubo Fuego S01 E24
+- Donde Hubo Fuego S01 E25
+- Donde Hubo Fuego S01 E27
+- Donde Hubo Fuego S01 E28
+- Donde Hubo Fuego S01 E29
+- Donde Hubo Fuego S01 E30
+- Donde Hubo Fuego S01 E31
+- Donde Hubo Fuego S01 E32
+- Donde Hubo Fuego S01 E33
+- Donde Hubo Fuego S01 E34
+- Donde Hubo Fuego S01 E36
+- Donde Hubo Fuego S01 E37
+- Donde Hubo Fuego S01 E38
+- Donde Hubo Fuego S01 E39
+- El gabinete de curiosidades de Guillermo del Toro S01 E05
+- El gabinete de curiosidades de Guillermo del Toro S01 E06
+- El gabinete de curiosidades de Guillermo del Toro S01 E07
+- El gabinete de curiosidades de Guillermo del Toro S01 E08
+- El Asesino Mediático S01 E01
+- El Asesino Mediático S01 E02
+- El Asesino Mediático S01 E03
+- El Asesino Mediático S01 E04
+- El Asesino Mediático S01 E05
+- El Asesino Mediático S01 E06
+- El Asesino Mediático S01 E07
+- El Asesino Mediático S01 E08
+- El Asesino Mediático S01 E09
+- El Asesino Mediático S01 E10
+- El Ascenso de un Imperio: Otomano S01 E01
+- El Ascenso de un Imperio: Otomano S01 E02
+- El Ascenso de un Imperio: Otomano S01 E03
+- El Ascenso de un Imperio: Otomano S01 E04
+- El Ascenso de un Imperio: Otomano S01 E05
+- El Ascenso de un Imperio: Otomano S01 E06
+- Dragon Age: Absolution S01 E01
+- Dragon Age: Absolution S01 E02
+- Dragon Age: Absolution S01 E03
+- Dragon Age: Absolution S01 E04
+- Dragon Age: Absolution S01 E05
+- Dragon Age: Absolution S01 E06
+- El precio de una confesión S01 E01
+- El precio de una confesión S01 E02
+- El precio de una confesión S01 E03
+- El precio de una confesión S01 E04
+- El precio de una confesión S01 E05
+- El precio de una confesión S01 E06
+- El precio de una confesión S01 E07
+- El precio de una confesión S01 E08
+- El precio de una confesión S01 E09
+- El precio de una confesión S01 E10
+- El precio de una confesión S01 E11
+- El precio de una confesión S01 E12
+- El precio de una confesión S01 E13
+- El precio de una confesión S01 E14
+- El precio de una confesión S01 E15
+- El precio de una confesión S01 E16
+- El precio de una confesión S01 E17
+- El precio de una confesión S01 E18
+- El precio de una confesión S01 E19
+- El precio de una confesión S01 E20
+- El precio de una confesión S01 E21
+- El precio de una confesión S01 E22
+- El precio de una confesión S01 E23
+- El precio de una confesión S01 E24
+- El juego de Gracie Darling S01 E01
+- El juego de Gracie Darling S01 E02
+- El juego de Gracie Darling S01 E03
+- El juego de Gracie Darling S01 E04
+- El juego de Gracie Darling S01 E05
+- El juego de Gracie Darling S01 E06
+- El imperio de Ámsterdam S01 E01
+- El imperio de Ámsterdam S01 E02
+- El imperio de Ámsterdam S01 E03
+- El imperio de Ámsterdam S01 E04
+- El imperio de Ámsterdam S01 E05
+- El imperio de Ámsterdam S01 E06
+- El imperio de Ámsterdam S01 E07
+- El Monstruo de Florencia S01 E01
+- El Monstruo de Florencia S01 E02
+- El Monstruo de Florencia S01 E03
+- El Monstruo de Florencia S01 E04
+- El genio y los deseos S01 E01
+- El genio y los deseos S01 E02
+- El genio y los deseos S01 E03
+- El genio y los deseos S01 E04
+- El genio y los deseos S01 E05
+- El genio y los deseos S01 E06
+- El genio y los deseos S01 E07
+- El genio y los deseos S01 E08
+- El genio y los deseos S01 E09
+- El genio y los deseos S01 E10
+- El genio y los deseos S01 E11
+- El genio y los deseos S01 E12
+- El genio y los deseos S01 E13
+- El hotel embrujado S01 E01
+- El hotel embrujado S01 E02
+- El hotel embrujado S01 E03
+- El hotel embrujado S01 E04
+- El hotel embrujado S01 E05
+- El hotel embrujado S01 E06
+- El hotel embrujado S01 E07
+- El hotel embrujado S01 E08
+- El hotel embrujado S01 E09
+- El hotel embrujado S01 E10
+- El hotel embrujado S02 E01
+- El hotel embrujado S02 E02
+- El hotel embrujado S02 E03
+- El hotel embrujado S02 E04
+- El hotel embrujado S02 E05
+- El hotel embrujado S02 E06
+- El hotel embrujado S02 E07
+- El hotel embrujado S02 E08
+- El jardinero S01 E01
+- El jardinero S01 E02
+- El jardinero S01 E03
+- El jardinero S01 E04
+- El jardinero S01 E05
+- El jardinero S01 E06
+- El juego de la muerte S01 E01
+- El juego de la muerte S01 E02
+- El juego de la muerte S01 E03
+- El juego de la muerte S01 E04
+- El juego de la muerte S01 E05
+- El juego de la muerte S01 E06
+- El juego de la muerte S01 E07
+- El juego de la muerte S01 E08
+- El rastro S01 E01
+- El rastro S01 E02
+- El rastro S01 E03
+- El rastro S01 E04
+- El portal: La historia oculta de Zona Divas S01 E01
+- El portal: La historia oculta de Zona Divas S01 E02
+- El portal: La historia oculta de Zona Divas S01 E03
+- El portal: La historia oculta de Zona Divas S01 E04
+- El Legado S01 E01
+- El Legado S01 E02
+- El Legado S01 E03
+- El Legado S01 E04
+- El Legado S01 E05
+- El Legado S01 E06
+- El niñero S01 E01
+- El niñero S01 E02
+- El niñero S01 E03
+- El niñero S01 E04
+- El niñero S01 E05
+- El niñero S01 E06
+- El niñero S01 E07
+- El niñero S01 E08
+- El niñero S01 E09
+- El niñero S01 E10
+- El monstruo de la vieja Seúl S01 E01
+- El monstruo de la vieja Seúl S01 E02
+- El monstruo de la vieja Seúl S01 E03
+- El monstruo de la vieja Seúl S01 E04
+- El monstruo de la vieja Seúl S01 E05
+- El monstruo de la vieja Seúl S01 E06
+- El monstruo de la vieja Seúl S01 E07
+- El monstruo de la vieja Seúl S01 E08
+- El monstruo de la vieja Seúl S01 E09
+- El monstruo de la vieja Seúl S01 E10
+- Mar de la Tranquilidad S01 E01
+- Mar de la Tranquilidad S01 E02
+- Mar de la Tranquilidad S01 E03
+- Mar de la Tranquilidad S01 E04
+- Mar de la Tranquilidad S01 E05
+- Mar de la Tranquilidad S01 E06
+- Mar de la Tranquilidad S01 E07
+- Mar de la Tranquilidad S01 E08
+- El plan del diablo S01 E01
+- El plan del diablo S01 E02
+- El plan del diablo S01 E03
+- El plan del diablo S01 E04
+- El plan del diablo S01 E05
+- El plan del diablo S01 E06
+- El plan del diablo S01 E07
+- El plan del diablo S01 E08
+- El plan del diablo S01 E09
+- El plan del diablo S01 E10
+- El plan del diablo S01 E11
+- El plan del diablo S01 E12
+- El gran vapeo: Auge y caida de Juul S01 E01
+- El gran vapeo: Auge y caida de Juul S01 E02
+- El gran vapeo: Auge y caida de Juul S01 E03
+- El gran vapeo: Auge y caida de Juul S01 E04
+- El pasado no duerme S01 E01
+- El pasado no duerme S01 E02
+- El pasado no duerme S01 E03
+- El pasado no duerme S01 E04
+- El pasado no duerme S01 E05
+- El pasado no duerme S01 E06
+- El glamur S01 E01
+- El glamur S01 E02
+- El glamur S01 E03
+- El glamur S01 E04
+- El glamur S01 E05
+- El glamur S01 E06
+- El glamur S01 E07
+- El glamur S01 E08
+- El glamur S01 E09
+- El glamur S01 E10
+- El imperio de los chimpancés S01 E01
+- El imperio de los chimpancés S01 E02
+- El imperio de los chimpancés S01 E03
+- El imperio de los chimpancés S01 E04
+- El hijo bastardo y el mismísimo diablo S01 E01
+- El hijo bastardo y el mismísimo diablo S01 E02
+- El hijo bastardo y el mismísimo diablo S01 E03
+- El hijo bastardo y el mismísimo diablo S01 E04
+- El hijo bastardo y el mismísimo diablo S01 E05
+- El hijo bastardo y el mismísimo diablo S01 E06
+- El hijo bastardo y el mismísimo diablo S01 E07
+- El hijo bastardo y el mismísimo diablo S01 E08
+- El Perfume S01 E01
+- El Perfume S01 E02
+- El Perfume S01 E03
+- El Perfume S01 E04
+- El Perfume S01 E05
+- El Perfume S01 E06
+- El primer amor S01 E01
+- El primer amor S01 E02
+- El primer amor S01 E03
+- El primer amor S01 E04
+- El primer amor S01 E05
+- El primer amor S01 E06
+- El primer amor S01 E07
+- El primer amor S01 E08
+- El primer amor S01 E09
+- el mundo oscuro de sabrina S01 E01
+- el mundo oscuro de sabrina S01 E02
+- el mundo oscuro de sabrina S01 E03
+- el mundo oscuro de sabrina S01 E04
+- el mundo oscuro de sabrina S01 E05
+- el mundo oscuro de sabrina S01 E06
+- el mundo oscuro de sabrina S01 E07
+- el mundo oscuro de sabrina S01 E08
+- el mundo oscuro de sabrina S01 E09
+- el mundo oscuro de sabrina S01 E10
+- el mundo oscuro de sabrina S01 E11
+- el mundo oscuro de sabrina S02 E01
+- el mundo oscuro de sabrina S02 E02
+- el mundo oscuro de sabrina S02 E03
+- el mundo oscuro de sabrina S02 E04
+- el mundo oscuro de sabrina S02 E05
+- el mundo oscuro de sabrina S02 E06
+- el mundo oscuro de sabrina S02 E07
+- el mundo oscuro de sabrina S02 E08
+- el mundo oscuro de sabrina S02 E09
+- el mundo oscuro de sabrina S03 E01
+- el mundo oscuro de sabrina S03 E02
+- el mundo oscuro de sabrina S03 E03
+- el mundo oscuro de sabrina S03 E04
+- el mundo oscuro de sabrina S03 E05
+- el mundo oscuro de sabrina S03 E06
+- el mundo oscuro de sabrina S03 E07
+- el mundo oscuro de sabrina S03 E08
+- el mundo oscuro de sabrina S04 E01
+- el mundo oscuro de sabrina S04 E02
+- el mundo oscuro de sabrina S04 E03
+- el mundo oscuro de sabrina S04 E04
+- el mundo oscuro de sabrina S04 E05
+- el mundo oscuro de sabrina S04 E06
+- el mundo oscuro de sabrina S04 E07
+- el mundo oscuro de sabrina S04 E08
+- El interés del amor S01 E01
+- El interés del amor S01 E02
+- El interés del amor S01 E03
+- El interés del amor S01 E04
+- El interés del amor S01 E05
+- El interés del amor S01 E06
+- El interés del amor S01 E07
+- El interés del amor S01 E08
+- El interés del amor S01 E09
+- El interés del amor S01 E10
+- El interés del amor S01 E11
+- El interés del amor S01 E12
+- El interés del amor S01 E13
+- El interés del amor S01 E14
+- El interés del amor S01 E15
+- El interés del amor S01 E16
+- El novato S01 E01
+- El novato S01 E02
+- El novato S01 E03
+- El novato S01 E04
+- El novato S01 E05
+- El novato S01 E06
+- El novato S01 E07
+- El novato S01 E08
+- El juego del calamar S01 E01
+- El juego del calamar S01 E02
+- El juego del calamar S01 E03
+- El juego del calamar S01 E04
+- El juego del calamar S01 E05
+- El juego del calamar S01 E06
+- El juego del calamar S01 E07
+- El juego del calamar S01 E08
+- El juego del calamar S01 E09
+- El juego del calamar S02 E01
+- El juego del calamar S02 E02
+- El juego del calamar S02 E03
+- El juego del calamar S02 E04
+- El juego del calamar S02 E05
+- El juego del calamar S02 E06
+- El juego del calamar S02 E07
+- El juego del calamar S03 E01
+- El juego del calamar S03 E02
+- El juego del calamar S03 E03
+- El juego del calamar S03 E04
+- El juego del calamar S03 E05
+- El juego del calamar S03 E06
+- El mundo de Karma S01 E01
+- El mundo de Karma S01 E02
+- El mundo de Karma S01 E03
+- El mundo de Karma S01 E04
+- El mundo de Karma S01 E05
+- El mundo de Karma S01 E06
+- El mundo de Karma S01 E07
+- El mundo de Karma S01 E08
+- El mundo de Karma S01 E09
+- El mundo de Karma S01 E10
+- El mundo de Karma S01 E11
+- El mundo de Karma S01 E12
+- El mundo de Karma S01 E13
+- El mundo de Karma S01 E14
+- El mundo de Karma S01 E15
+- El joven Wallander S01 E01
+- El joven Wallander S01 E02
+- El joven Wallander S01 E03
+- El joven Wallander S01 E04
+- El joven Wallander S01 E05
+- El joven Wallander S01 E06
+- El manual de juego: Lecciones de vida de un entrenador S01 E01
+- El manual de juego: Lecciones de vida de un entrenador S01 E02
+- El manual de juego: Lecciones de vida de un entrenador S01 E03
+- El manual de juego: Lecciones de vida de un entrenador S01 E04
+- El manual de juego: Lecciones de vida de un entrenador S01 E05
+- El Pequeño Bheem S01 E01
+- El Pequeño Bheem S01 E02
+- El Pequeño Bheem S01 E03
+- El Pequeño Bheem S01 E04
+- El Pequeño Bheem S01 E05
+- El Pequeño Bheem S01 E06
+- El Pequeño Bheem S01 E07
+- El Pequeño Bheem S01 E08
+- El Pequeño Bheem S01 E09
+- El Pequeño Bheem S01 E10
+- El Pequeño Bheem S01 E11
+- El Pequeño Bheem S01 E12
+- El Pequeño Bheem S01 E13
+- El Pequeño Bheem S01 E14
+- El Pequeño Bheem S01 E15
+- El Pequeño Bheem S01 E16
+- El Pequeño Bheem S01 E17
+- El Pequeño Bheem S01 E18
+- El Pequeño Bheem S01 E19
+- El Pequeño Bheem S01 E20
+- El Pequeño Bheem S01 E21
+- El último samurái en pie S01 E01
+- El último samurái en pie S01 E02
+- El último samurái en pie S01 E03
+- El último samurái en pie S01 E04
+- El último samurái en pie S01 E05
+- El último samurái en pie S01 E06
+- El refugio atómico S01 E01
+- El refugio atómico S01 E02
+- El refugio atómico S01 E03
+- El refugio atómico S01 E04
+- El refugio atómico S01 E05
+- El refugio atómico S01 E06
+- El refugio atómico S01 E07
+- El refugio atómico S01 E08
+- El sinuoso camino del derecho S01 E01
+- El sinuoso camino del derecho S01 E02
+- El sinuoso camino del derecho S01 E03
+- El sinuoso camino del derecho S01 E04
+- El sinuoso camino del derecho S01 E05
+- El sinuoso camino del derecho S01 E06
+- El sinuoso camino del derecho S01 E07
+- El sinuoso camino del derecho S01 E08
+- El sinuoso camino del derecho S01 E09
+- El sinuoso camino del derecho S01 E10
+- El sinuoso camino del derecho S01 E11
+- El sinuoso camino del derecho S01 E12
+- El sabor de lo nuestro S01 E01
+- El sabor de lo nuestro S01 E02
+- El sabor de lo nuestro S01 E03
+- El sabor de lo nuestro S01 E04
+- El sabor de lo nuestro S01 E05
+- El sabor de lo nuestro S01 E06
+- El sabor de lo nuestro S01 E07
+- El sabor de lo nuestro S01 E08
+- El sabor de lo nuestro S01 E09
+- El sabor de lo nuestro S01 E10
+- El secreto del río S01 E01
+- El secreto del río S01 E02
+- El secreto del río S01 E03
+- El secreto del río S01 E04
+- El secreto del río S01 E05
+- El secreto del río S01 E06
+- El secreto del río S01 E07
+- El secreto del río S01 E08
+- El show de Vince Staples S01 E01
+- El show de Vince Staples S01 E02
+- El show de Vince Staples S01 E03
+- El show de Vince Staples S01 E04
+- El show de Vince Staples S01 E05
+- El show de Vince Staples S01 E06
+- El show de Vince Staples S01 E07
+- El show de Vince Staples S01 E08
+- El show de Vince Staples S01 E09
+- El show de Vince Staples S01 E10
+- El show de Vince Staples S01 E11
+- Vicente Fernández S01 E01
+- Vicente Fernández S01 E02
+- Vicente Fernández S01 E03
+- Vicente Fernández S01 E04
+- Vicente Fernández S01 E05
+- Vicente Fernández S01 E06
+- Vicente Fernández S01 E07
+- Vicente Fernández S01 E08
+- Vicente Fernández S01 E09
+- Vicente Fernández S01 E10
