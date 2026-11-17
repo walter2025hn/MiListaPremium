@@ -6,10 +6,17 @@ on:
     paths:
       - "update_playlist.py"
       - "maintain_links.py"
+      - "build_catalog_pages.py"
       - ".github/workflows/update-playlist.yml"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+    inputs:
+      add_batch:
+        description: "Incorporar una tanda de hasta 50 canales, 50 películas y 50 series verificadas"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,7 +29,7 @@ concurrency:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 60
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -35,35 +42,22 @@ jobs:
       - name: Guardar copia de seguridad temporal
         run: cp Completa.m3u /tmp/Completa.m3u.before
 
-      - name: Determinar si comienza un nuevo ciclo de catálogo
-        id: phase
-        run: |
-          MAINT_CURSOR=$(python -c "import json, pathlib; p=pathlib.Path('mantenimiento_estado.json'); print(json.loads(p.read_text(encoding='utf-8')).get('cursor', 0) if p.exists() else 0)")
-          if [ "$MAINT_CURSOR" -gt 0 ]; then
-            echo "merge=false" >> "$GITHUB_OUTPUT"
-            echo "Hay una limpieza en curso (cursor $MAINT_CURSOR); se conserva la lista ya deduplicada."
-          else
-            echo "merge=true" >> "$GITHUB_OUTPUT"
-            echo "No hay limpieza pendiente; se inicia una nueva combinación de fuentes."
-          fi
-
-      - name: Combinar fuentes autorizadas
-        if: steps.phase.outputs.merge == 'true'
-        continue-on-error: true
+      - name: Incorporar tanda solicitada
+        if: github.event_name == 'workflow_dispatch' && inputs.add_batch == true
         env:
           M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
           M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
           M3U_SOURCE_3: ${{ secrets.M3U_SOURCE_3 }}
         run: python update_playlist.py
 
-      - name: Revisar y limpiar el siguiente lote
+      - name: Mantener y reparar enlaces existentes
         env:
           M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
           M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
           M3U_SOURCE_3: ${{ secrets.M3U_SOURCE_3 }}
         run: python maintain_links.py
 
-      - name: Generar páginas del catálogo al finalizar la limpieza
+      - name: Generar páginas del catálogo al finalizar la revisión
         run: |
           MAINT_CURSOR=$(python -c "import json, pathlib; p=pathlib.Path('mantenimiento_estado.json'); print(json.loads(p.read_text(encoding='utf-8')).get('cursor', 0) if p.exists() else 0)")
           if [ "$MAINT_CURSOR" -eq 0 ]; then
@@ -81,27 +75,25 @@ jobs:
           if-no-files-found: warn
           retention-days: 14
 
-      - name: Publicar lista, reporte y progreso
+      - name: Publicar lista, cola, reportes y progreso
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Completa.m3u reporte_enlaces.txt verificacion_estado.json reporte_mantenimiento.txt mantenimiento_estado.json catalog_pages/
+          git add Completa.m3u contenido_pendiente.m3u reporte_enlaces.txt verificacion_estado.json reporte_mantenimiento.txt mantenimiento_estado.json catalog_pages/
           if git diff --cached --quiet; then
             echo "No hay cambios que publicar."
           else
-            git commit -m "Actualizar lista M3U: lote de 3000 enlaces"
-            # Integrate commits added to main after this runner checked out the repo.
-            # This avoids non-fast-forward failures when workflow/code changes land mid-run.
+            git commit -m "Actualizar lista M3U y cola de contenido pendiente"
             git pull --rebase origin main
             git push
           fi
 
           MAINT_CURSOR=$(python -c "import json, pathlib; p=pathlib.Path('mantenimiento_estado.json'); print(json.loads(p.read_text(encoding='utf-8')).get('cursor', 0) if p.exists() else 0)")
           if [ "$MAINT_CURSOR" -ne 0 ]; then
-            echo "Quedan lotes de mantenimiento pendientes. Se inicia el siguiente lote sin volver a combinar las fuentes."
+            echo "Quedan lotes de mantenimiento pendientes. Se continúa sin incorporar contenido nuevo."
             gh workflow run update-playlist.yml --ref main
           else
-            echo "Ciclo completo: todos los enlaces de la lista fueron revisados y el catálogo final fue generado."
+            echo "Mantenimiento completado."
           fi
