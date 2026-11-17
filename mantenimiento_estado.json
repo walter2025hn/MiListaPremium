@@ -1,7 +1,7 @@
 {
-  "cursor": 12000,
-  "next_url": "http://redworld.pro:8880/movie/56997763248f/YZqcYbQdQzUh/567459.mp4",
-  "total_entries": 256779,
+  "cursor": 28252,
+  "next_url": "http://redworld.pro:8880/series/56997763248f/YZqcYbQdQzUh/351402.mp4",
+  "total_entries": 100000,
   "batch_size": 5000,
   "checked_in_batch": 5000
 }
