@@ -1,36 +1,37 @@
 #!/usr/bin/env python3
-"""Merge authorized M3U sources into Completa.m3u without exposing source URLs."""
+"""Controlled M3U ingestion: 50 live, 50 movies and 50 series per manual run."""
 from __future__ import annotations
-
-import concurrent.futures
-import json
-import os
-import re
-import sys
-import time
-import unicodedata
-import urllib.error
-import urllib.request
+import concurrent.futures, json, os, re, sys, time, unicodedata
+import urllib.error, urllib.request
 from collections import Counter
 from pathlib import Path
 
-OUTPUT = Path("Completa.m3u")
+ACTIVE = Path("Completa.m3u")
+PENDING = Path("contenido_pendiente.m3u")
 REPORT = Path("reporte_enlaces.txt")
-STATE = Path("verificacion_estado.json")
-TIMEOUT = 5
+CAP = 100_000
+PER_CATEGORY = 50
+MAX_CHECKS_PER_CATEGORY = 600
+TIMEOUT = 7
 RETRIES = 2
-WORKERS = 64
-BATCH_SIZE = 3000
+WORKERS = 32
+UA = "CodigoMasterPlaylist/2.0"
+URL_RE = re.compile(r"^(https?|rtmp|rtsp|udp)://", re.I)
+ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
+YEAR_RE = re.compile(r"\b(19[5-9]\d|20[0-2]\d)\b")
 
-def normalize(value: str) -> str:
-    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode()
-    return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
+def clean_group(value):
+    value = unicodedata.normalize("NFC", value or "")
+    # Remove emoji/symbol characters, retaining readable punctuation and letters.
+    value = "".join(ch for ch in value if not (unicodedata.category(ch) in ("So", "Sk") or 0x1F000 <= ord(ch) <= 0x1FAFF))
+    value = re.sub(r"\s+", " ", value).strip(" -_|")
+    return value or "Sin categoria"
 
-def parse_m3u(text: str):
-    lines = [line.strip() for line in text.replace("\r", "").split("\n")]
+def parse_m3u(text):
     entries, block = [], []
-    for line in lines:
-        if not line or line == "#EXTM3U" or line.startswith("----"):
+    for raw in text.replace("\r", "").split("\n"):
+        line = raw.strip()
+        if not line or line == "#EXTM3U":
             continue
         if line.startswith("#EXTINF:"):
             if block:
@@ -40,146 +41,195 @@ def parse_m3u(text: str):
             block.append(line)
     if block:
         entries.append(block)
-    parsed = []
-    for block in entries:
-        url = next((x for x in block if re.match(r"^(https?|rtmp|rtsp|udp)://", x, re.I)), None)
+    result = []
+    for lines in entries:
+        url = next((x for x in lines if URL_RE.match(x)), "")
         if not url:
             continue
-        info = block[0]
-        name = info.rsplit(",", 1)[-1].strip() if "," in info else info
-        group_match = re.search(r'group-title="([^"]*)"', info, re.I)
-        group = group_match.group(1).strip() if group_match else ""
-        # Deduplicate by exact URL, not by display name/group. Different
-        # episodes or versions can share a title and must remain in the playlist.
-        key = url
-        parsed.append({"block": block, "url": url, "name": name, "group": group, "key": key})
-    return parsed
+        info = lines[0]
+        attrs = dict(ATTR_RE.findall(info.split(",", 1)[0]))
+        name = info.rsplit(",", 1)[-1].strip() if "," in info else "Sin titulo"
+        group = clean_group(attrs.get("group-title", ""))
+        # Rebuild only the group-title attribute; preserve other source metadata.
+        if re.search(r'group-title="[^"]*"', info, re.I):
+            info = re.sub(r'group-title="[^"]*"', lambda _: 'group-title="' + group.replace('"', "") + '"', info, count=1, flags=re.I)
+        else:
+            info = info.replace("#EXTINF:", '#EXTINF:-1 group-title="' + group.replace('"', "") + '"', 1)
+        lines[0] = info
+        result.append({"block": lines, "url": url, "name": name, "group": group, "logo": attrs.get("tvg-logo", "")})
+    return result
 
-def check_url(url: str):
-    # Range GET is more compatible with IPTV servers than HEAD.
+def category(item):
+    name, group, url = item["name"].lower(), item["group"].lower(), item["url"].lower().split("?", 1)[0]
+    s = name + " " + group
+    if ("/series/" in url or re.search(r"\b(series|serie|temporada|novela|doramas)\b|s\d{1,2}e\d{1,3}|\d{1,2}x\d{1,3}", s)):
+        return "series"
+    if ("/movie/" in url or "/movies/" in url or re.search(r"\b(pelicula|peliculas|movie|movies|vod|film)\b", s)
+        or re.search(r"\.(mp4|mkv|avi|mov|m4v|webm)$", url)):
+        return "movies"
+    if ("/live/" in url or "/channel/" in url or "/channels/" in url or "/tv/" in url
+        or re.search(r"\b(canales|channel|channels|live|television|tv)\b", s)):
+        return "live"
+    return "live" if group else "other"
+
+def release_year(item):
+    match = YEAR_RE.search(item["name"])
+    return int(match.group(1)) if match else 0
+
+def check_url(url):
+    last = "unknown"
     for attempt in range(RETRIES):
         try:
-            req = urllib.request.Request(
-                url, headers={"Range": "bytes=0-0", "User-Agent": "CodigoMasterPlaylist/1.0"}
-            )
+            req = urllib.request.Request(url, headers={"Range":"bytes=0-0", "User-Agent":UA})
             with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
                 code = response.status
                 if 200 <= code < 400:
-                    return True, str(code)
-                if code not in (401, 403, 404, 410) and code < 500:
-                    return True, str(code)
-                last = str(code)
+                    return "alive", str(code)
+                if code in (401,403):
+                    return "unknown", str(code)
+                if code in (404,410):
+                    last = str(code)
+                else:
+                    return "unknown", str(code)
         except urllib.error.HTTPError as exc:
-            last = str(exc.code)
-            if exc.code not in (401, 403, 404, 410) and exc.code < 500:
-                return True, last
+            if exc.code in (404,410):
+                last = str(exc.code)
+            else:
+                return "unknown", str(exc.code)
         except Exception as exc:
             last = type(exc).__name__
         if attempt + 1 < RETRIES:
             time.sleep(1)
-    return False, last
+    return ("dead", last) if last in ("404","410") else ("unknown", last)
+
+def write_m3u(path, items):
+    lines = ["#EXTM3U"]
+    for item in items:
+        lines.extend(item["block"])
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 def main():
-    source_urls = [os.getenv(f"M3U_SOURCE_{i}", "").strip() for i in range(1, 4)]
+    if not ACTIVE.exists():
+        print("ERROR: no existe Completa.m3u; no se modifica nada.")
+        return 2
+    active = parse_m3u(ACTIVE.read_text(encoding="utf-8-sig", errors="replace"))
+    if not active:
+        print("ERROR: Completa.m3u está vacía o no es válida; se cancela por seguridad.")
+        return 3
+
+    # First migration: enforce the 100k ceiling and preserve every overflow item.
+    seen = set()
+    unique_active = []
+    for item in active:
+        if item["url"] not in seen:
+            seen.add(item["url"])
+            unique_active.append(item)
+    if len(unique_active) > CAP:
+        overflow = unique_active[CAP:]
+        unique_active = unique_active[:CAP]
+        existing_pending = parse_m3u(PENDING.read_text(encoding="utf-8-sig", errors="replace")) if PENDING.exists() else []
+        pending_seen = {x["url"] for x in existing_pending}
+        existing_pending.extend(x for x in overflow if x["url"] not in pending_seen)
+        write_m3u(PENDING, existing_pending)
+        write_m3u(ACTIVE, unique_active)
+        print(f"Tope aplicado: {len(unique_active)} activos; {len(overflow)} movidos a la cola pendiente (sin descartarlos).")
+
+    # Read all authorized source lists only to refresh the durable pending queue.
+    source_urls = [os.getenv(f"M3U_SOURCE_{i}", "").strip() for i in range(1,4)]
     source_urls = [u for u in source_urls if u]
     if not source_urls:
-        print("ERROR: configura M3U_SOURCE_1, M3U_SOURCE_2 y M3U_SOURCE_3 en GitHub Secrets.")
-        return 2
-
-    all_entries = []
-    for index, url in enumerate(source_urls, 1):
+        print("ERROR: faltan las fuentes autorizadas M3U_SOURCE_1..3.")
+        return 4
+    pending = parse_m3u(PENDING.read_text(encoding="utf-8-sig", errors="replace")) if PENDING.exists() else []
+    known = {x["url"] for x in unique_active}
+    known.update(x["url"] for x in pending)
+    for i, source_url in enumerate(source_urls, 1):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "CodigoMasterPlaylist/1.0"})
-            with urllib.request.urlopen(req, timeout=30) as response:
-                content = response.read(30 * 1024 * 1024).decode("utf-8-sig", errors="replace")
-            entries = parse_m3u(content)
-            if not entries:
-                print(f"ERROR: la fuente {index} no contiene entradas M3U válidas; se cancela para proteger la lista.")
-                return 3
-            print(f"Fuente {index}: {len(entries)} entradas.")
-            all_entries.extend(entries)
+            req = urllib.request.Request(source_url, headers={"User-Agent":UA})
+            with urllib.request.urlopen(req, timeout=40) as response:
+                raw = response.read(60 * 1024 * 1024).decode("utf-8-sig", errors="replace")
+            found = parse_m3u(raw)
+            if not found:
+                raise RuntimeError("fuente sin entradas M3U")
+            for item in found:
+                if item["url"] not in known:
+                    pending.append(item)
+                    known.add(item["url"])
+            print(f"Fuente {i}: {len(found)} entradas leídas; pendientes únicos acumulados: {len(pending)}.")
         except Exception as exc:
-            print(f"ERROR: no se pudo descargar la fuente {index} ({type(exc).__name__}); se cancela para proteger la lista.")
-            return 4
+            print(f"ERROR: no se pudo leer fuente {i} ({type(exc).__name__}); no se publica una cola incompleta.")
+            return 5
 
-    if len(all_entries) < 1:
-        print("ERROR: no hay entradas; no se modificará la lista.")
-        return 5
+    # One explicit workflow_dispatch adds up to 50 verified items per category.
+    capacity = max(0, CAP - len(unique_active))
+    selected = []
+    removed_dead = 0
+    checked_total = 0
+    remaining = []
+    # Preserve source order inside each category; process balanced batches.
+    buckets = {"live": [], "movies": [], "series": [], "other": []}
+    for item in pending:
+        if item["url"] not in {x["url"] for x in unique_active}:
+            buckets[category(item)].append(item)
 
-    # Check only a rotating batch each run; keep every source entry in the output.
-    urls = list(dict.fromkeys(item["url"] for item in all_entries))
-    try:
-        state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {}
-    except Exception:
-        state = {}
-    cursor = int(state.get("cursor", 0)) % len(urls)
-    batch = [urls[(cursor + offset) % len(urls)] for offset in range(min(BATCH_SIZE, len(urls)))]
-    next_cursor = (cursor + len(batch)) % len(urls)
-    checks = {}
-    print(f"Enlaces únicos: {len(urls)}. Lote de esta ejecución: {len(batch)} (posición {cursor + 1}).", flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        futures = {pool.submit(check_url, url): url for url in batch}
-        total = len(futures)
-        completed = 0
-        for future in concurrent.futures.as_completed(futures):
-            checks[futures[future]] = future.result()
-            completed += 1
-            if completed % 100 == 0 or completed == total:
-                print(f"Progreso del lote: {completed}/{total} ({completed * 100 // total}%).", flush=True)
-
-    STATE.write_text(json.dumps({
-        "cursor": next_cursor,
-        "total_urls": len(urls),
-        "batch_size": len(batch)
-    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-
-    # Prefer a verified reachable duplicate. If none was checked successfully,
-    # keep an unchecked copy where possible; never drop an unverified entry.
-    groups = {}
-    for item in all_entries:
-        groups.setdefault(item["key"], []).append(item)
-    selected, dead_names = [], []
-    for key, copies in groups.items():
-        reachable = [x for x in copies if checks.get(x["url"], (False, ""))[0]]
-        unchecked = [x for x in copies if x["url"] not in checks]
-        chosen = reachable[0] if reachable else (unchecked[0] if unchecked else copies[0])
-        selected.append(chosen)
-        if not reachable and not unchecked:
-            dead_names.append(chosen["name"])
-
-    # Dict insertion order preserves the first-seen order of each title/group.
-    # Avoid all_entries.index() here: its repeated linear scans become O(n^2).
-    output_lines = ["#EXTM3U"]
-    for item in selected:
-        output_lines.extend(item["block"])
-    new_content = "\n".join(output_lines) + "\n"
-
-    # Never overwrite a healthy existing playlist with a suspiciously small result.
-    if OUTPUT.exists():
-        old_count = len(parse_m3u(OUTPUT.read_text(encoding="utf-8", errors="replace")))
-        if old_count and len(selected) < max(1, int(old_count * 0.35)):
-            print(f"ERROR: resultado sospechosamente pequeño ({len(selected)} frente a {old_count}); no se reemplaza Completa.m3u.")
-            return 6
-
-    OUTPUT.write_text(new_content, encoding="utf-8")
-    counts = Counter((x["group"] or "SIN GRUPO") for x in selected)
-    report = [
-        "REPORTE AUTOMÁTICO — CÓDIGO MASTER",
-        f"Entradas descargadas: {len(all_entries)}",
-        f"Entradas finales (sin duplicados): {len(selected)}",
-        f"URLs únicas totales: {len(urls)}",
-        f"URLs comprobadas en este lote: {len(checks)}",
-        f"URLs pendientes de comprobación en esta vuelta: {len(urls) - len(checks)}",
-        f"Elementos confirmados sin respuesta en sus copias: {len(dead_names)}",
-        f"Siguiente posición de revisión: {next_cursor + 1}",
-        "",
-        "Entradas por grupo:",
-    ]
-    report.extend(f"- {name}: {count}" for name, count in sorted(counts.items()))
-    report += ["", "Posibles enlaces sin respuesta en copias ya comprobadas (no se eliminan):"]
-    report.extend(f"- {name}" for name in dead_names[:500])
-    REPORT.write_text("\n".join(report) + "\n", encoding="utf-8")
-    print(f"OK: Completa.m3u generada con {len(selected)} entradas. Enlaces sin respuesta: {len(dead_names)}.")
+        for cat in ("live", "movies", "series"):
+            if len(selected) >= capacity:
+                break
+            added = 0
+            attempts = 0
+            queue = buckets[cat]
+            while queue and added < min(PER_CATEGORY, capacity - len(selected)) and attempts < MAX_CHECKS_PER_CATEGORY:
+                candidate = queue.pop(0)
+                attempts += 1
+                status, detail = pool.submit(check_url, candidate["url"]).result()
+                checked_total += 1
+                if status == "alive":
+                    selected.append(candidate)
+                    added += 1
+                elif status == "dead":
+                    removed_dead += 1
+                else:
+                    remaining.append(candidate)
+            remaining.extend(queue)
+            print(f"{cat}: {added} añadidos válidos; {attempts} comprobados.")
+    # Unknown-category entries and candidates not visited remain safely queued.
+    for cat in ("live", "movies", "series"):
+        pass
+    remaining.extend(buckets["other"])
+    selected_urls = {x["url"] for x in selected}
+    remaining.extend(x for cat in ("live","movies","series") for x in buckets[cat] if x["url"] not in selected_urls and x not in remaining)
+    final_active = unique_active + selected
+    if len(final_active) > CAP:
+        raise RuntimeError("protección: el resultado superaría 100,000 entradas")
+    # Date descending within VOD category; keep live order stable.
+    live = [x for x in final_active if category(x) == "live"]
+    movies = sorted([x for x in final_active if category(x) == "movies"], key=release_year, reverse=True)
+    series = sorted([x for x in final_active if category(x) == "series"], key=release_year, reverse=True)
+    other = [x for x in final_active if category(x) == "other"]
+    write_m3u(ACTIVE, live + movies + series + other)
+    # Deduplicate pending URLs and persist all not-yet-activated entries.
+    final_pending, pending_seen = [], set()
+    active_urls = {x["url"] for x in final_active}
+    for item in remaining:
+        if item["url"] not in active_urls and item["url"] not in pending_seen:
+            final_pending.append(item)
+            pending_seen.add(item["url"])
+    write_m3u(PENDING, final_pending)
+    missing_logos = sum(1 for x in selected if not x["logo"])
+    REPORT.write_text(
+        "REPORTE DE INCORPORACIÓN — CÓDIGO MASTER\n"
+        f"Enlaces activos: {len(final_active)} / {CAP}\n"
+        f"Canales, películas y series nuevos verificados y añadidos: {len(selected)}\n"
+        f"Enlaces comprobados en esta ejecución: {checked_total}\n"
+        f"Enlaces 404/410 confirmados y omitidos: {removed_dead}\n"
+        f"Entradas conservadas en cola para futuras órdenes: {len(final_pending)}\n"
+        f"Elementos nuevos sin tvg-logo en las fuentes: {missing_logos}\n"
+        "Los logos existentes se conservan; no se inventan imágenes para entradas sin logo.\n"
+        "Orden VOD: años detectables de más reciente a más antiguo; sin año al final.\n",
+        encoding="utf-8"
+    )
+    print(f"OK: {len(final_active)} activos; {len(selected)} añadidos; {len(final_pending)} pendientes.")
     return 0
 
 if __name__ == "__main__":
