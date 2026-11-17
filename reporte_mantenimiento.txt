@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 100000
+Entradas antes: 99896
 Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 104
-Enlaces restringidos 401/403 conservados: 17
-Enlaces inciertos comprobados y conservados: 4197
-Enlaces aún pendientes de revisión: 95000
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 24
+Enlaces inciertos comprobados y conservados: 4976
+Enlaces aún pendientes de revisión: 94896
 Entradas finales: 99896
-Próxima posición de revisión: 28253
+Próxima posición de revisión: 33149
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,107 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- A Vigilante [Sin categoria]
-- Lo que el viento se llevó (1939) [PELICULAS CLASICAS]
-- Fantasía (1940) [PELICULAS CLASICAS]
-- El Príncipe de los Zorros (1949) [PELICULAS CLASICAS]
-- Rebeca (1940) [PELICULAS CLASICAS]
-- Saludos amigos (1942) [PELICULAS CLASICAS]
-- Canción del Sur (1946) [PELICULAS CLASICAS]
-- Las llaves del reino (1944) [PELICULAS CLASICAS]
-- La loba (1941) [PELICULAS CLASICAS]
-- El Príncipe de Bel-Air (1990) S01 E01 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E02 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E03 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E04 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E05 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E06 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E08 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E10 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E11 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E13 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E14 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E15 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E16 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E19 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E20 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E22 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E02 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E03 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E05 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E06 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E07 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E08 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E09 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E10 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E12 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E13 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E14 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E15 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E16 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E18 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E19 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E20 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E21 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E22 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E23 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S02 E24 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E02 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E03 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E05 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E06 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E07 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E08 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E09 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E10 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E11 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E12 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E16 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E17 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E18 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E19 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E20 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E22 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E24 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E02 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E04 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E05 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E06 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E08 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E09 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E10 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E11 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E12 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E13 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E15 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E16 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E17 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E18 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E19 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E20 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E21 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E22 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S05 E24 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E01 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E02 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E03 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E05 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E06 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E07 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E08 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E09 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E10 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E11 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E12 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E13 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E14 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E15 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E16 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E17 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E18 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E19 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E20 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E21 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E22 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E23 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S06 E24 [SERIES DE COMEDIAS]
