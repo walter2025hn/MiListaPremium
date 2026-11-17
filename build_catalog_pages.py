@@ -11,10 +11,10 @@ ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
 
 def clean_group(value):
     value = "".join(ch for ch in (value or "") if not (unicodedata.category(ch) in ("So", "Sk") or 0x1F000 <= ord(ch) <= 0x1FAFF))
-    return re.sub(r"\\s+", " ", value).strip(" -_|") or "Sin categoría"
+    return re.sub(r"\s+", " ", value).strip(" -_|") or "Sin categoría"
 
 def release_year(entry):
-    match = re.search(r"\\b(19[5-9]\\d|20[0-2]\\d)\\b", entry["name"])
+    match = re.search(r"\b(19[5-9]\d|20[0-2]\d)\b", entry["name"])
     return int(match.group(1)) if match else 0
 
 def parse():
