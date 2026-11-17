@@ -141,7 +141,8 @@ def main():
         print("ERROR: faltan las fuentes autorizadas M3U_SOURCE_1..3.")
         return 4
     pending = parse_m3u(PENDING.read_text(encoding="utf-8-sig", errors="replace")) if PENDING.exists() else []
-    known = {x["url"] for x in unique_active}
+    active_urls = {x["url"] for x in unique_active}
+    known = set(active_urls)
     known.update(x["url"] for x in pending)
     for i, source_url in enumerate(source_urls, 1):
         try:
@@ -169,7 +170,7 @@ def main():
     # Preserve source order inside each category; process balanced batches.
     buckets = {"live": [], "movies": [], "series": [], "other": []}
     for item in pending:
-        if item["url"] not in {x["url"] for x in unique_active}:
+        if item["url"] not in active_urls:
             buckets[category(item)].append(item)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -194,8 +195,6 @@ def main():
             remaining.extend(queue)
             print(f"{cat}: {added} añadidos válidos; {attempts} comprobados.")
     # Unknown-category entries and candidates not visited remain safely queued.
-    for cat in ("live", "movies", "series"):
-        pass
     remaining.extend(buckets["other"])
     selected_urls = {x["url"] for x in selected}
     remaining.extend(x for cat in ("live","movies","series") for x in buckets[cat] if x["url"] not in selected_urls and x not in remaining)
