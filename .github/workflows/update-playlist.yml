@@ -46,7 +46,7 @@ jobs:
         run: cp Completa.m3u /tmp/Completa.m3u.before
 
       - name: Incorporar tanda solicitada
-        if: github.event_name == 'workflow_dispatch' && inputs.add_batch == true
+        if: (github.event_name == 'push' && contains(github.event.head_commit.message, '[initial-migration]')) || (github.event_name == 'workflow_dispatch' && inputs.add_batch == true)
         env:
           M3U_SOURCE_1: ${{ secrets.M3U_SOURCE_1 }}
           M3U_SOURCE_2: ${{ secrets.M3U_SOURCE_2 }}
