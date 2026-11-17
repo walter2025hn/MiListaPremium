@@ -177,23 +177,27 @@ def main():
         for cat in ("live", "movies", "series"):
             if len(selected) >= capacity:
                 break
-            added = 0
-            attempts = 0
+            target = min(PER_CATEGORY, capacity - len(selected))
             queue = buckets[cat]
-            while queue and added < min(PER_CATEGORY, capacity - len(selected)) and attempts < MAX_CHECKS_PER_CATEGORY:
-                candidate = queue.pop(0)
-                attempts += 1
-                status, detail = pool.submit(check_url, candidate["url"]).result()
-                checked_total += 1
-                if status == "alive":
+            batch = queue[:MAX_CHECKS_PER_CATEGORY]
+            untouched = queue[len(batch):]
+            futures = {pool.submit(check_url, item["url"]): item for item in batch}
+            statuses = {}
+            for future in concurrent.futures.as_completed(futures):
+                statuses[futures[future]["url"]] = future.result()
+            checked_total += len(statuses)
+            added = 0
+            for candidate in batch:
+                status, detail = statuses[candidate["url"]]
+                if status == "alive" and added < target:
                     selected.append(candidate)
                     added += 1
                 elif status == "dead":
                     removed_dead += 1
                 else:
                     remaining.append(candidate)
-            remaining.extend(queue)
-            print(f"{cat}: {added} añadidos válidos; {attempts} comprobados.")
+            remaining.extend(untouched)
+            print(f"{cat}: {added} añadidos válidos; {len(batch)} comprobados.")
     # Unknown-category entries and candidates not visited remain safely queued.
     remaining.extend(buckets["other"])
     selected_urls = {x["url"] for x in selected}
