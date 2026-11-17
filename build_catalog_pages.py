@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build static JSON pages (50 entries each) for the MasterCode TV app."""
-import hashlib, json, re, shutil
+import hashlib, json, re, shutil, unicodedata
 from pathlib import Path
 
 SOURCE = Path("Completa.m3u")
@@ -8,6 +8,14 @@ OUT = Path("catalog_pages")
 PAGE_SIZE = 50  # 50 elementos por solicitud; las categorías se intercalan para llenar cada sección
 URL_RE = re.compile(r"^(https?|rtmp|rtsp|udp)://", re.I)
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
+
+def clean_group(value):
+    value = "".join(ch for ch in (value or "") if not (unicodedata.category(ch) in ("So", "Sk") or 0x1F000 <= ord(ch) <= 0x1FAFF))
+    return re.sub(r"\\s+", " ", value).strip(" -_|") or "Sin categoría"
+
+def release_year(entry):
+    match = re.search(r"\\b(19[5-9]\\d|20[0-2]\\d)\\b", entry["name"])
+    return int(match.group(1)) if match else 0
 
 def parse():
     entries, current = [], None
@@ -26,7 +34,7 @@ def parse():
             entries.append({
                 "name": title or "Sin título",
                 "url": line,
-                "group": attrs.get("group-title", "") or "Sin categoría",
+                "group": clean_group(attrs.get("group-title", "")),
                 "logo": attrs.get("tvg-logo", ""),
                 "tvgId": attrs.get("tvg-id", ""),
                 "attributes": info[:info.rfind(",")] if "," in info else info,
@@ -75,6 +83,11 @@ def main():
         else:
             bucket = "other"
         buckets[bucket].append(entry)
+
+    # Películas y series con año reconocible se ordenan de más recientes a antiguas.
+    # Los títulos sin año quedan al final y conservan su orden relativo.
+    buckets["movies"].sort(key=release_year, reverse=True)
+    buckets["series"].sort(key=release_year, reverse=True)
 
     # Intercalado round-robin: cada página contiene una mezcla de categorías,
     # en lugar de llenar las primeras páginas solo con canales.
