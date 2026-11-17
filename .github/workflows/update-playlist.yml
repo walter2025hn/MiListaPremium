@@ -39,6 +39,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Validar sintaxis de los scripts
+        run: python -m py_compile update_playlist.py maintain_links.py build_catalog_pages.py
+
       - name: Guardar copia de seguridad temporal
         run: cp Completa.m3u /tmp/Completa.m3u.before
 
