@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99896
+Entradas antes: 99890
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 5000
+Enlaces comprobados en este lote: 1748
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 6
-Enlaces restringidos 401/403 conservados: 51
-Enlaces inciertos comprobados y conservados: 2627
-Enlaces aún pendientes de revisión: 94896
-Entradas finales: 99890
-Próxima posición de revisión: 98149
+Enlaces confirmados 404/410 sin sustituto y retirados: 1
+Enlaces restringidos 401/403 conservados: 0
+Enlaces inciertos comprobados y conservados: 532
+Enlaces aún pendientes de revisión: 98142
+Entradas finales: 99889
+Próxima posición de revisión: 1
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -61,7 +61,7 @@ Entradas finales por grupo:
 - MUSICA: 36
 - NAVIDAD 2: 1
 - NBA VIP: 2
-- NETFLIX: 1143
+- NETFLIX: 1142
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 488
@@ -249,9 +249,4 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- El grito de las mariposas S01 E08 [DISNEY - Star+]
-- El grito de las mariposas S01 E09 [DISNEY - Star+]
-- MH370: El avión que desapareció S01 E03 [SERIE DE DOCUMENTALES]
-- Real Madrid: hasta el final S01 E03 [SERIE DE DOCUMENTALES]
-- Wu-Tang: An American Saga S03 E01 [DISNEY - Star+]
-- Wu-Tang: An American Saga S03 E06 [DISNEY - Star+]
+- Recursos Humanos S01 E09 [NETFLIX]
