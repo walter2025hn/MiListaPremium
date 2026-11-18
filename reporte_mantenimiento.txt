@@ -1,29 +1,29 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99842
-Duplicados exactos eliminados: 0
+Entradas antes: 99819
+Duplicados exactos eliminados: 3
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 3
-Enlaces confirmados 404/410 sin sustituto y retirados: 23
-Enlaces restringidos 401/403 conservados: 74
-Enlaces inciertos comprobados y conservados: 797
-Enlaces aún pendientes de revisión: 94842
-Entradas finales: 99819
-Próxima posición de revisión: 19954
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 17
+Enlaces restringidos 401/403 conservados: 186
+Enlaces inciertos comprobados y conservados: 1194
+Enlaces aún pendientes de revisión: 94816
+Entradas finales: 99799
+Próxima posición de revisión: 24928
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1562
+- ACCION Y AVENTURA: 1560
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
 - Adultos +18: 31
 - Adultos +18 Goldtv: 4
-- Amazon Prime Video: 624
+- Amazon Prime Video: 623
 - Apple TV+: 137
 - BELICO: 265
 - BRASIL: 61
@@ -64,9 +64,9 @@ Entradas finales por grupo:
 - NETFLIX: 1142
 - NOTICIA: 11
 - NUEVAS: 1095
-- PELICULAS CLASICAS: 484
+- PELICULAS CLASICAS: 476
 - PELICULAS DE COMEDIAS: 1142
-- PELICULAS DE DRAMA: 1085
+- PELICULAS DE DRAMA: 1084
 - PELICULAS DE TERROR: 767
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 640
@@ -83,14 +83,14 @@ Entradas finales por grupo:
 - SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 205
-- SERIES DE COMEDIAS: 331
+- SERIES DE COMEDIAS: 324
 - SERIES DE DRAMA: 367
 - SERIES DE SUSPENSO: 156
 - SERIES DE TERROR: 35
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3679
+- Sin categoria: 3678
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,26 +249,20 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Noche de marcha (2013) [PELICULAS DE COMEDIAS]
-- A Family Man (2012) [DOCUMENTAL]
-- Love. (2011) [Sin categoria]
-- Miss Marzo (2009) [PELICULAS DE COMEDIAS]
-- Asalto al tren Pelham 123 (2009) [Sin categoria]
-- Red de mentiras (2008) [ACCION Y AVENTURA]
-- El Sistema (2008) [DOCUMENTAL]
-- Zodiac (2007) [Sin categoria]
-- Sigo como Dios (2007) [PELICULAS DE COMEDIAS]
-- El nuevo mundo (2005) [PELICULAS DE DRAMA]
-- 21 gramos (2003) [Sin categoria]
-- A contrarreloj (2003) [Sin categoria]
-- Identidad (2003) [Sin categoria]
-- Desde el infierno (2001) [Sin categoria]
-- Nunca juegues con extraños (2001) [Sin categoria]
-- Los ríos de color púrpura (2000) [Sin categoria]
-- El hotel del millón de dólares (2000) [Sin categoria]
-- El arte de la guerra (2000) [PELICULAS CLASICAS]
-- Un pueblo llamado Dante's Peak (1997) [Sin categoria]
-- Contact (1997) [PELICULAS CLASICAS]
-- Pactar con el diablo (1997) [PELICULAS CLASICAS]
-- Hackers 95 (1995) [Sin categoria]
-- Forrest Gump (1994) [PELICULAS CLASICAS]
+- El gran halcón (1991) [PELICULAS CLASICAS]
+- 37 horas desesperadas (1990) [Sin categoria]
+- Eduardo Manostijeras (1990) [PELICULAS CLASICAS]
+- Condena brutal (Lock Up) (1989) [PELICULAS CLASICAS]
+- Superpolicia en apuros (1988) [PELICULAS CLASICAS]
+- Por encima de la ley (1988) [PELICULAS CLASICAS]
+- Best Seller (1987) [PELICULAS CLASICAS]
+- Vive y deja morir (1973) [PELICULAS CLASICAS]
+- Fu-Manchú y el beso de la muerte (1968) [PELICULAS CLASICAS]
+- Manes (2023) S01 E03 [Amazon Prime Video]
+- El Príncipe de Bel-Air (1990) S01 E09 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S02 E11 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S03 E04 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S03 E15 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S03 E23 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S05 E03 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S05 E23 [SERIES DE COMEDIAS]
