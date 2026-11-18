@@ -6,12 +6,12 @@ Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 0
-Enlaces inciertos comprobados y conservados: 4984
+Enlaces confirmados 404/410 sin sustituto y retirados: 6
+Enlaces restringidos 401/403 conservados: 51
+Enlaces inciertos comprobados y conservados: 2627
 Enlaces aún pendientes de revisión: 94896
-Entradas finales: 99896
-Próxima posición de revisión: 93149
+Entradas finales: 99890
+Próxima posición de revisión: 98149
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -41,7 +41,7 @@ Entradas finales por grupo:
 - DEPORTES ARGENTINA HD: 18
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
-- DISNEY - Star+: 424
+- DISNEY - Star+: 420
 - DOCUMENTAL: 138
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
@@ -80,7 +80,7 @@ Entradas finales por grupo:
 - RELIGIOSO: 6
 - RELIGIÓN: 21
 - ROMANCE: 224
-- SERIE DE DOCUMENTALES: 141
+- SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 205
 - SERIES DE COMEDIAS: 331
@@ -249,3 +249,9 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- El grito de las mariposas S01 E08 [DISNEY - Star+]
+- El grito de las mariposas S01 E09 [DISNEY - Star+]
+- MH370: El avión que desapareció S01 E03 [SERIE DE DOCUMENTALES]
+- Real Madrid: hasta el final S01 E03 [SERIE DE DOCUMENTALES]
+- Wu-Tang: An American Saga S03 E01 [DISNEY - Star+]
+- Wu-Tang: An American Saga S03 E06 [DISNEY - Star+]
