@@ -1,7 +1,7 @@
 {
-  "cursor": 94910,
-  "next_url": "http://planettvweb.com:8091/series/MariaFontes/DLun4967d/44294.mkv",
+  "cursor": 0,
+  "next_url": "",
   "total_entries": 99799,
-  "batch_size": 5000,
-  "checked_in_batch": 5000
+  "batch_size": 4889,
+  "checked_in_batch": 4889
 }
