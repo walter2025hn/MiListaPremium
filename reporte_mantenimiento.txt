@@ -1,23 +1,23 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99558
-Duplicados exactos eliminados: 0
+Entradas antes: 99541
+Duplicados exactos eliminados: 1
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 1
-Enlaces confirmados 404/410 sin sustituto y retirados: 17
-Enlaces restringidos 401/403 conservados: 51
-Enlaces inciertos comprobados y conservados: 2690
-Enlaces aún pendientes de revisión: 94558
-Entradas finales: 99541
-Próxima posición de revisión: 10001
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 34
+Enlaces restringidos 401/403 conservados: 52
+Enlaces inciertos comprobados y conservados: 3070
+Enlaces aún pendientes de revisión: 94540
+Entradas finales: 99506
+Próxima posición de revisión: 14983
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1553
+- ACCION Y AVENTURA: 1552
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -29,7 +29,7 @@ Entradas finales por grupo:
 - BRASIL: 61
 - CANALES DE SERIE: 18
 - CHILE: 10
-- CIENCIA FICCION: 469
+- CIENCIA FICCION: 468
 - CINE: 103
 - CINE ARGENTINO/URUGUAYO: 273
 - CINE CANTINFLAS: 26
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 418
-- DOCUMENTAL: 92
+- DOCUMENTAL: 83
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -67,7 +67,7 @@ Entradas finales por grupo:
 - PELICULAS CLASICAS: 406
 - PELICULAS DE COMEDIAS: 1127
 - PELICULAS DE DRAMA: 1068
-- PELICULAS DE TERROR: 767
+- PELICULAS DE TERROR: 766
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 637
 - PELICULAS PARA ADULTOS: 414
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 218
+- ROMANCE: 216
 - SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 204
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3590
+- Sin categoria: 3569
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,20 +249,37 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Caída en picado: El caso contra Boeing (2022) [DOCUMENTAL]
-- El asesino de mi hija (2022) [DOCUMENTAL]
-- El rescate de Ruby (2022) [PELICULAS DE DRAMA]
-- Fin de semana en Croacia (2022) [Sin categoria]
-- Jackass 4.5 (2022) [PELICULAS DE COMEDIAS]
-- Con su propia justicia (2021) [Sin categoria]
-- En tierras peligrosas (2021) [Sin categoria]
-- Santos criminales (2021) [Sin categoria]
-- Campo secreto: Nazis en EE. UU. (2021) [DOCUMENTAL]
-- Fake Famous (2021) [DOCUMENTAL]
-- Heroes Silence and Rock Roll (2021) 720-1 [DOCUMENTAL]
-- Our Towns (2021) [DOCUMENTAL]
-- Pelé (2021) [DOCUMENTAL]
-- Schumacher (2021) [DOCUMENTAL]
-- Tina (2021) [DOCUMENTAL]
-- Hilda y el Rey de la montaña (2021) [ACCION Y AVENTURA]
-- La magia de la Isla (2021) [ROMANCE]
+- A traición (2020) [Sin categoria]
+- Un desliz fatal (2020) [Sin categoria]
+- El hombre invisible (2020) [CIENCIA FICCION]
+- Inheritance (2020) [Sin categoria]
+- Su último deseo (2020) [Sin categoria]
+- Los elefantes (2020) [DOCUMENTAL]
+- Fernando Torres The Last Symbol (2020) [DOCUMENTAL]
+- The Speed Cubers (2020) [DOCUMENTAL]
+- The Swamp (2020) [DOCUMENTAL]
+- Aversión (2019) [Sin categoria]
+- Burn (2019) [Sin categoria]
+- Dead Kids (2019) [Sin categoria]
+- Deadly Excursion (2019) [Sin categoria]
+- Obsesión secreta (2019) [Sin categoria]
+- Feedback (2019) [Sin categoria]
+- Fire in Paradise (2019) [DOCUMENTAL]
+- Guatemala: Corazón del Mundo Maya (2019) [DOCUMENTAL]
+- Hielo en llamas (2019) [DOCUMENTAL]
+- La vida me supera (2019) [DOCUMENTAL]
+- El Más Grande Siempre (2019) [Sin categoria]
+- Reina de elefantes (2019) [DOCUMENTAL]
+- A dos metros de ti (2019) [ROMANCE]
+- Ride (2018) [Sin categoria]
+- 7 días en Entebbe (2018) [Sin categoria]
+- Winter Ridge (2018) [Sin categoria]
+- Django: Sangre de mi sangre (2018) [Sin categoria]
+- El juego del ahorcado (2017) [Sin categoria]
+- Juego de manos (2016) [Sin categoria]
+- Level Up (2016) [Sin categoria]
+- El secreto del hielo (2016) [ROMANCE]
+- Cautivo (2015) [Sin categoria]
+- La noche de los desaparecidos (2015) [Sin categoria]
+- Synchronicity (2015) [Sin categoria]
+- En el corazón del mar (2015) [ACCION Y AVENTURA]
