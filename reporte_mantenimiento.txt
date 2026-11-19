@@ -5,19 +5,19 @@ Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 357
-Enlaces inciertos comprobados y conservados: 3322
+Enlaces sustituidos con una alternativa válida: 1
+Enlaces confirmados 404/410 sin sustituto y retirados: 17
+Enlaces restringidos 401/403 conservados: 51
+Enlaces inciertos comprobados y conservados: 2690
 Enlaces aún pendientes de revisión: 94558
-Entradas finales: 99558
-Próxima posición de revisión: 5001
+Entradas finales: 99541
+Próxima posición de revisión: 10001
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1554
+- ACCION Y AVENTURA: 1553
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 418
-- DOCUMENTAL: 101
+- DOCUMENTAL: 92
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -65,8 +65,8 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 406
-- PELICULAS DE COMEDIAS: 1128
-- PELICULAS DE DRAMA: 1069
+- PELICULAS DE COMEDIAS: 1127
+- PELICULAS DE DRAMA: 1068
 - PELICULAS DE TERROR: 767
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 637
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 219
+- ROMANCE: 218
 - SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 204
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3594
+- Sin categoria: 3590
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,3 +249,20 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- Caída en picado: El caso contra Boeing (2022) [DOCUMENTAL]
+- El asesino de mi hija (2022) [DOCUMENTAL]
+- El rescate de Ruby (2022) [PELICULAS DE DRAMA]
+- Fin de semana en Croacia (2022) [Sin categoria]
+- Jackass 4.5 (2022) [PELICULAS DE COMEDIAS]
+- Con su propia justicia (2021) [Sin categoria]
+- En tierras peligrosas (2021) [Sin categoria]
+- Santos criminales (2021) [Sin categoria]
+- Campo secreto: Nazis en EE. UU. (2021) [DOCUMENTAL]
+- Fake Famous (2021) [DOCUMENTAL]
+- Heroes Silence and Rock Roll (2021) 720-1 [DOCUMENTAL]
+- Our Towns (2021) [DOCUMENTAL]
+- Pelé (2021) [DOCUMENTAL]
+- Schumacher (2021) [DOCUMENTAL]
+- Tina (2021) [DOCUMENTAL]
+- Hilda y el Rey de la montaña (2021) [ACCION Y AVENTURA]
+- La magia de la Isla (2021) [ROMANCE]
