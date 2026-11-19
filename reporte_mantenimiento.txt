@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99565
+Entradas antes: 99558
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 4799
+Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 7
-Enlaces restringidos 401/403 conservados: 0
-Enlaces inciertos comprobados y conservados: 901
-Enlaces aún pendientes de revisión: 94766
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 357
+Enlaces inciertos comprobados y conservados: 3322
+Enlaces aún pendientes de revisión: 94558
 Entradas finales: 99558
-Próxima posición de revisión: 1
+Próxima posición de revisión: 5001
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,10 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- El grito de las mariposas S01 E05 [DISNEY - Star+]
-- Star Wars: La remesa mala S02 E16 [SERIES DE ACCIÓN]
-- Wu-Tang: An American Saga S03 E07 [DISNEY - Star+]
-- Recursos Humanos S01 E01 [NETFLIX]
-- Recursos Humanos S01 E03 [NETFLIX]
-- Recursos Humanos S01 E06 [NETFLIX]
-- Recursos Humanos S01 E07 [NETFLIX]
