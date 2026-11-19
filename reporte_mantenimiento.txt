@@ -5,13 +5,13 @@ Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 369
-Enlaces inciertos comprobados y conservados: 3284
+Enlaces sustituidos con una alternativa válida: 3
+Enlaces confirmados 404/410 sin sustituto y retirados: 37
+Enlaces restringidos 401/403 conservados: 49
+Enlaces inciertos comprobados y conservados: 2819
 Enlaces aún pendientes de revisión: 94799
-Entradas finales: 99799
-Próxima posición de revisión: 5001
+Entradas finales: 99762
+Próxima posición de revisión: 10001
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -42,12 +42,12 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 420
-- DOCUMENTAL: 122
+- DOCUMENTAL: 110
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
 - ESPAÑA: 26
-- ESPECIAL DE NAVIDAD: 105
+- ESPECIAL DE NAVIDAD: 104
 - EVENTOS DEL DIA: 12
 - El SALVADOR: 8
 - FÚTBOL CHILE: 6
@@ -65,8 +65,8 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 476
-- PELICULAS DE COMEDIAS: 1142
-- PELICULAS DE DRAMA: 1084
+- PELICULAS DE COMEDIAS: 1137
+- PELICULAS DE DRAMA: 1078
 - PELICULAS DE TERROR: 767
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 640
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 224
+- ROMANCE: 222
 - SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 205
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3678
+- Sin categoria: 3667
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,3 +249,40 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- La Apuesta (2023) [Sin categoria]
+- Togo (2022) [Sin categoria]
+- Bob's Burgers: La película (2022) [PELICULAS DE COMEDIAS]
+- El extra navideño del Bebé Jefazo (2022) [ESPECIAL DE NAVIDAD]
+- Topside (2022) [PELICULAS DE DRAMA]
+- el misterio y la tragedia (2022) [Sin categoria]
+- El violín de mi padre (2022) [PELICULAS DE DRAMA]
+- Atenea (2022) [PELICULAS DE DRAMA]
+- Batalla: Freestyle (2022) [ROMANCE]
+- Ciberinfierno: La investigación que destapó el horror (2022) [DOCUMENTAL]
+- La chica de la foto (2022) [DOCUMENTAL]
+- Malnazidos (2022) [PELICULAS DE COMEDIAS]
+- El Día del Sí (2021) [PELICULAS DE COMEDIAS]
+- La Fortaleza (2021) [Sin categoria]
+- Tras la pista del asesino (2021) [Sin categoria]
+- El callejón de las almas perdidas (2021) [Sin categoria]
+- Acción Jacinto (2021) [Sin categoria]
+- Bordertown: Murales de sangre (2021) [Sin categoria]
+- The Birthday Cake (2021) [Sin categoria]
+- Yara (2021) [Sin categoria]
+- la Divina Coleta (2021) [Sin categoria]
+- La Novata (2021) [PELICULAS DE DRAMA]
+- Los 14 ochomiles: No hay nada imposible (2021) [DOCUMENTAL]
+- Una película de policías (2021) [DOCUMENTAL]
+- Arte negro: en ausencia de luz (2021) [DOCUMENTAL]
+- Bob Ross Happy Accidents Betrayal And Greed (2021) [DOCUMENTAL]
+- Chadwick Boseman: Portrait of an Artist (2021) [DOCUMENTAL]
+- Confluencia: Valor en tiempos de crisis (2021) [DOCUMENTAL]
+- Hermanas en la pista (2021) [DOCUMENTAL]
+- El Día Que El Deporte Se Detuvo (2021) [DOCUMENTAL]
+- Minimalismo: Menos es más (2021) [DOCUMENTAL]
+- No mires arriba (2021) [PELICULAS DE COMEDIAS]
+- Quiéreme igualmente (2021) [PELICULAS DE DRAMA]
+- Tres canciones para Benazir (2021) [DOCUMENTAL]
+- A todos los chicos: Para siempre (2021) [ROMANCE]
+- Confesiones de una chica invisible (2021) [PELICULAS DE COMEDIAS]
+- Punto de inflexión (2021) [PELICULAS DE DRAMA]
