@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
 Entradas antes: 99565
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 5000
+Enlaces comprobados en este lote: 4799
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 55
-Enlaces inciertos comprobados y conservados: 4706
-Enlaces aún pendientes de revisión: 94565
-Entradas finales: 99565
-Próxima posición de revisión: 94767
+Enlaces confirmados 404/410 sin sustituto y retirados: 7
+Enlaces restringidos 401/403 conservados: 0
+Enlaces inciertos comprobados y conservados: 901
+Enlaces aún pendientes de revisión: 94766
+Entradas finales: 99558
+Próxima posición de revisión: 1
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -41,7 +41,7 @@ Entradas finales por grupo:
 - DEPORTES ARGENTINA HD: 18
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
-- DISNEY - Star+: 420
+- DISNEY - Star+: 418
 - DOCUMENTAL: 101
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
@@ -61,7 +61,7 @@ Entradas finales por grupo:
 - MUSICA: 36
 - NAVIDAD 2: 1
 - NBA VIP: 2
-- NETFLIX: 1142
+- NETFLIX: 1138
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 406
@@ -82,7 +82,7 @@ Entradas finales por grupo:
 - ROMANCE: 219
 - SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
-- SERIES DE ACCIÓN: 205
+- SERIES DE ACCIÓN: 204
 - SERIES DE COMEDIAS: 312
 - SERIES DE DRAMA: 367
 - SERIES DE SUSPENSO: 156
@@ -249,3 +249,10 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- El grito de las mariposas S01 E05 [DISNEY - Star+]
+- Star Wars: La remesa mala S02 E16 [SERIES DE ACCIÓN]
+- Wu-Tang: An American Saga S03 E07 [DISNEY - Star+]
+- Recursos Humanos S01 E01 [NETFLIX]
+- Recursos Humanos S01 E03 [NETFLIX]
+- Recursos Humanos S01 E06 [NETFLIX]
+- Recursos Humanos S01 E07 [NETFLIX]
