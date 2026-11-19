@@ -1,23 +1,23 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99541
-Duplicados exactos eliminados: 1
+Entradas antes: 99506
+Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 34
-Enlaces restringidos 401/403 conservados: 52
-Enlaces inciertos comprobados y conservados: 3070
-Enlaces aún pendientes de revisión: 94540
-Entradas finales: 99506
-Próxima posición de revisión: 14983
+Enlaces confirmados 404/410 sin sustituto y retirados: 6
+Enlaces restringidos 401/403 conservados: 83
+Enlaces inciertos comprobados y conservados: 2475
+Enlaces aún pendientes de revisión: 94506
+Entradas finales: 99500
+Próxima posición de revisión: 19949
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1552
+- ACCION Y AVENTURA: 1551
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3569
+- Sin categoria: 3564
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,37 +249,9 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- A traición (2020) [Sin categoria]
-- Un desliz fatal (2020) [Sin categoria]
-- El hombre invisible (2020) [CIENCIA FICCION]
-- Inheritance (2020) [Sin categoria]
-- Su último deseo (2020) [Sin categoria]
-- Los elefantes (2020) [DOCUMENTAL]
-- Fernando Torres The Last Symbol (2020) [DOCUMENTAL]
-- The Speed Cubers (2020) [DOCUMENTAL]
-- The Swamp (2020) [DOCUMENTAL]
-- Aversión (2019) [Sin categoria]
-- Burn (2019) [Sin categoria]
-- Dead Kids (2019) [Sin categoria]
-- Deadly Excursion (2019) [Sin categoria]
-- Obsesión secreta (2019) [Sin categoria]
-- Feedback (2019) [Sin categoria]
-- Fire in Paradise (2019) [DOCUMENTAL]
-- Guatemala: Corazón del Mundo Maya (2019) [DOCUMENTAL]
-- Hielo en llamas (2019) [DOCUMENTAL]
-- La vida me supera (2019) [DOCUMENTAL]
-- El Más Grande Siempre (2019) [Sin categoria]
-- Reina de elefantes (2019) [DOCUMENTAL]
-- A dos metros de ti (2019) [ROMANCE]
-- Ride (2018) [Sin categoria]
-- 7 días en Entebbe (2018) [Sin categoria]
-- Winter Ridge (2018) [Sin categoria]
-- Django: Sangre de mi sangre (2018) [Sin categoria]
-- El juego del ahorcado (2017) [Sin categoria]
-- Juego de manos (2016) [Sin categoria]
-- Level Up (2016) [Sin categoria]
-- El secreto del hielo (2016) [ROMANCE]
-- Cautivo (2015) [Sin categoria]
-- La noche de los desaparecidos (2015) [Sin categoria]
-- Synchronicity (2015) [Sin categoria]
-- En el corazón del mar (2015) [ACCION Y AVENTURA]
+- Enemy (2013) [Sin categoria]
+- El poder del Tai Chi (2013) [ACCION Y AVENTURA]
+- El experimento (2010) [Sin categoria]
+- Camino a la perdición (2002) [Sin categoria]
+- El coleccionista de amantes (1997) [Sin categoria]
+- Giro al infierno (1997) [Sin categoria]
