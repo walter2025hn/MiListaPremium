@@ -1,23 +1,23 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99762
-Duplicados exactos eliminados: 3
+Entradas antes: 99705
+Duplicados exactos eliminados: 2
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 2
-Enlaces confirmados 404/410 sin sustituto y retirados: 54
-Enlaces restringidos 401/403 conservados: 50
-Enlaces inciertos comprobados y conservados: 3060
-Enlaces aún pendientes de revisión: 94759
-Entradas finales: 99705
-Próxima posición de revisión: 14961
+Enlaces sustituidos con una alternativa válida: 3
+Enlaces confirmados 404/410 sin sustituto y retirados: 60
+Enlaces restringidos 401/403 conservados: 76
+Enlaces inciertos comprobados y conservados: 2505
+Enlaces aún pendientes de revisión: 94703
+Entradas finales: 99643
+Próxima posición de revisión: 19905
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1557
+- ACCION Y AVENTURA: 1556
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -31,7 +31,7 @@ Entradas finales por grupo:
 - CHILE: 10
 - CIENCIA FICCION: 469
 - CINE: 103
-- CINE ARGENTINO/URUGUAYO: 274
+- CINE ARGENTINO/URUGUAYO: 273
 - CINE CANTINFLAS: 26
 - CLASICAS 2: 101
 - COLOMBIA: 16
@@ -64,12 +64,12 @@ Entradas finales por grupo:
 - NETFLIX: 1142
 - NOTICIA: 11
 - NUEVAS: 1095
-- PELICULAS CLASICAS: 476
-- PELICULAS DE COMEDIAS: 1135
-- PELICULAS DE DRAMA: 1075
+- PELICULAS CLASICAS: 461
+- PELICULAS DE COMEDIAS: 1129
+- PELICULAS DE DRAMA: 1070
 - PELICULAS DE TERROR: 767
 - PELICULAS EROTICAS: 6
-- PELICULAS INFANTILES: 640
+- PELICULAS INFANTILES: 637
 - PELICULAS PARA ADULTOS: 414
 - PERU: 8
 - PPV FHD: 35
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3631
+- Sin categoria: 3600
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,57 +249,63 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Las furias (2020) [Sin categoria]
-- La tierra y la sangre (2020) [Sin categoria]
-- La red Avispa (2020) [Sin categoria]
-- Andrés Iniesta: el héroe inesperado (2020) [DOCUMENTAL]
-- Anelka : El incomprendido (2020) [DOCUMENTAL]
-- La Casa de Papel: el fenómeno (2020) [DOCUMENTAL]
-- Crimen y perdón: La historia de Cyntoia Brown (2020) [DOCUMENTAL]
-- Lo que el pulpo me enseñó (2020) [DOCUMENTAL]
-- Ps5 el futuro del juego (2020) [DOCUMENTAL]
-- Ride Your Dream (2020) [DOCUMENTAL]
-- Isi & Ossi (2020) [ROMANCE]
-- Deadly Influencer (2019) [Sin categoria]
-- Crimen a contrarreloj (2019) [Sin categoria]
-- Nosotros (2019) [Sin categoria]
-- La locura de una madre (2019) [Sin categoria]
-- El ocupante (2019) [Sin categoria]
-- Infiltrada (2019) [Sin categoria]
-- Diamantes en bruto (2019) [Sin categoria]
-- La ley de la calle (2019) [Sin categoria]
-- Bailando con los pájaros (2019) [DOCUMENTAL]
-- Chelsea (2019) [Sin categoria]
-- I Am Durán (2019) [DOCUMENTAL]
-- La trinchera infinita (2019) [PELICULAS DE DRAMA]
-- A pesar de todo (2019) [PELICULAS DE COMEDIAS]
-- El irlandés (2019) [Sin categoria]
-- La cita perfecta (2019) [ROMANCE]
-- Malos tiempos en El Royale (2018) [Sin categoria]
-- Falsa evidencia (2018) [Sin categoria]
-- El aviso (2018) [Sin categoria]
-- La Dama Gris (2017) [Sin categoria]
-- No dejes de mirar (2017) [Sin categoria]
-- Inmersión (2017) [Sin categoria]
-- Beat Bugs: All Together Now (2017) [ACCION Y AVENTURA]
-- Amor.com (2017) [ROMANCE]
-- Atrapados (2016) [Sin categoria]
-- La chica del tren (2016) [Sin categoria]
-- Policías corruptos (2016) [Sin categoria]
-- Allanamiento de morada (2016) [Sin categoria]
-- hUSh (2016) [Sin categoria]
-- I am not a serial killer (2016) [Sin categoria]
-- Vivir de noche (2016) [Sin categoria]
-- Money Monster (2016) [Sin categoria]
-- Toda la verdad (2016) [Sin categoria]
-- Batman: Mala sangre (2016) [CIENCIA FICCION]
-- Lída Baarová (2016) [PELICULAS DE DRAMA]
-- Lugares oscuros (2015) [Sin categoria]
-- El hombre más buscado (2014) [Sin categoria]
-- Escobar: Paraíso perdido (2014) [Sin categoria]
-- Perdida (2014) [Sin categoria]
-- Una decisión peligrosa (2014) [Sin categoria]
-- En el ojo de la tormenta (2014) [Sin categoria]
-- Asylum: El experimento (2014) [Sin categoria]
-- El jugador (2014) [Sin categoria]
-- Amor Eterno (2014) [PELICULAS DE DRAMA]
+- Horns (2013) [Sin categoria]
+- Bajo un sol abrasador (2013) [Sin categoria]
+- Argo (2012) [Sin categoria]
+- Marea letal (2012) [Sin categoria]
+- Cómo acabar con tu jefe (2011) [PELICULAS DE COMEDIAS]
+- Dime con cuántos (2011) [PELICULAS DE COMEDIAS]
+- Prácticamente muerto (2010) [ACCION Y AVENTURA]
+- Die Spätzünder (2010) [PELICULAS DE COMEDIAS]
+- Más allá de la muerte (2009) [Sin categoria]
+- El secreto de sus ojos (2009) [Sin categoria]
+- Bajo el mismo cielo (2009) [PELICULAS DE DRAMA]
+- Nunca juegues con extraños 2 (2008) [Sin categoria]
+- Colegas en el bosque 2 (2008) [PELICULAS INFANTILES]
+- Al otro lado del mundo (2008) [PELICULAS DE DRAMA]
+- Fumada y peligrosa (2007) [PELICULAS DE COMEDIAS]
+- Instinto básico 2: Adicción al riesgo (2006) [Sin categoria]
+- A Dirty Carnival (2006) [Sin categoria]
+- Cuatro minutos (2006) [PELICULAS DE DRAMA]
+- Colegas en el bosque (2006) [PELICULAS INFANTILES]
+- Bombón el perro (2004) [PELICULAS DE DRAMA]
+- La vida de David Gale (2003) [Sin categoria]
+- Adaptation: El ladrón de orquídeas (2002) [PELICULAS DE COMEDIAS]
+- RoboCop: Prime Directives (2001) [PELICULAS CLASICAS]
+- Memento (2000) [Sin categoria]
+- The Skulls: Sociedad secreta (2000) [Sin categoria]
+- El pequeño vampiro (2000) [PELICULAS INFANTILES]
+- Eyes wide shut (1999) [Sin categoria]
+- La novena puerta (1999) [Sin categoria]
+- Asesinato en 8mm (1999) [Sin categoria]
+- Stigmata (1999) [Sin categoria]
+- El coleccionista de huesos (1999) [Sin categoria]
+- El dilema (1999) [Sin categoria]
+- La novena puerta (1999) [Sin categoria]
+- El secreto de Thomas Crown (1999) [Sin categoria]
+- Armageddon (1998) [PELICULAS CLASICAS]
+- Acusado sin razon (1998) [PELICULAS DE COMEDIAS]
+- El laberinto rojo (1997) [Sin categoria]
+- Jackie Brown (1997) [Sin categoria]
+- Impacto inminente (1996) [PELICULAS CLASICAS]
+- Rescate (1996) [PELICULAS CLASICAS]
+- Seven (1995) [PELICULAS CLASICAS]
+- Operación trueno (1995) [PELICULAS CLASICAS]
+- Pulp Fiction (1994) [Sin categoria]
+- Cuatro bodas y un funeral (1994) [PELICULAS CLASICAS]
+- Street Fighter: La última batalla (1994) [PELICULAS CLASICAS]
+- Atrapado por su pasado (1993) [Sin categoria]
+- Un día de furia (1993) [Sin categoria]
+- Philadelphia (1993) [PELICULAS CLASICAS]
+- Fachada (1993) [PELICULAS CLASICAS]
+- El buen hijo (1993) [Sin categoria]
+- El último gran héroe (1993) [PELICULAS CLASICAS]
+- RoboCop 3 (1993) [PELICULAS CLASICAS]
+- Lunas de hiel (1992) [Sin categoria]
+- Dobles parejas (1992) [Sin categoria]
+- un pulso al poder (1992) [Sin categoria]
+- Reservoir Dogs (1992) [Sin categoria]
+- Esencia de mujer (1992) [PELICULAS CLASICAS]
+- Corazón trueno (1992) [Sin categoria]
+- Corazón de hierro (1992) [PELICULAS CLASICAS]
+- Pasajero 57 (1992) [PELICULAS CLASICAS]
