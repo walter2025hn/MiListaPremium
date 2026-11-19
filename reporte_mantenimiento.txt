@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99500
+Entradas antes: 99492
 Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 8
-Enlaces restringidos 401/403 conservados: 30
-Enlaces inciertos comprobados y conservados: 3139
-Enlaces aún pendientes de revisión: 94500
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 0
+Enlaces inciertos comprobados y conservados: 4982
+Enlaces aún pendientes de revisión: 94492
 Entradas finales: 99492
-Próxima posición de revisión: 24943
+Próxima posición de revisión: 29935
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,11 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Alta tensión (1987) [PELICULAS CLASICAS]
-- Delta Force (1986) [PELICULAS CLASICAS]
-- Manes (2023) S01 E04 [Amazon Prime Video]
-- Manes (2023) S01 E05 [Amazon Prime Video]
-- El Príncipe de Bel-Air (1990) S01 E07 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S01 E23 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E01 [SERIES DE COMEDIAS]
-- El Príncipe de Bel-Air (1990) S03 E21 [SERIES DE COMEDIAS]
