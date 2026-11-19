@@ -1,29 +1,29 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99705
-Duplicados exactos eliminados: 2
+Entradas antes: 99643
+Duplicados exactos eliminados: 3
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 3
-Enlaces confirmados 404/410 sin sustituto y retirados: 60
-Enlaces restringidos 401/403 conservados: 76
-Enlaces inciertos comprobados y conservados: 2505
-Enlaces aún pendientes de revisión: 94703
-Entradas finales: 99643
-Próxima posición de revisión: 19905
+Enlaces sustituidos con una alternativa válida: 8
+Enlaces confirmados 404/410 sin sustituto y retirados: 67
+Enlaces restringidos 401/403 conservados: 32
+Enlaces inciertos comprobados y conservados: 2979
+Enlaces aún pendientes de revisión: 94640
+Entradas finales: 99573
+Próxima posición de revisión: 24842
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1556
+- ACCION Y AVENTURA: 1554
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
 - Adultos +18: 31
 - Adultos +18 Goldtv: 4
-- Amazon Prime Video: 623
+- Amazon Prime Video: 622
 - Apple TV+: 137
 - BELICO: 265
 - BRASIL: 61
@@ -64,9 +64,9 @@ Entradas finales por grupo:
 - NETFLIX: 1142
 - NOTICIA: 11
 - NUEVAS: 1095
-- PELICULAS CLASICAS: 461
-- PELICULAS DE COMEDIAS: 1129
-- PELICULAS DE DRAMA: 1070
+- PELICULAS CLASICAS: 414
+- PELICULAS DE COMEDIAS: 1128
+- PELICULAS DE DRAMA: 1069
 - PELICULAS DE TERROR: 767
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 637
@@ -83,14 +83,14 @@ Entradas finales por grupo:
 - SERIE DE DOCUMENTALES: 139
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 205
-- SERIES DE COMEDIAS: 324
+- SERIES DE COMEDIAS: 312
 - SERIES DE DRAMA: 367
 - SERIES DE SUSPENSO: 156
 - SERIES DE TERROR: 35
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3600
+- Sin categoria: 3594
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,63 +249,70 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Horns (2013) [Sin categoria]
-- Bajo un sol abrasador (2013) [Sin categoria]
-- Argo (2012) [Sin categoria]
-- Marea letal (2012) [Sin categoria]
-- Cómo acabar con tu jefe (2011) [PELICULAS DE COMEDIAS]
-- Dime con cuántos (2011) [PELICULAS DE COMEDIAS]
-- Prácticamente muerto (2010) [ACCION Y AVENTURA]
-- Die Spätzünder (2010) [PELICULAS DE COMEDIAS]
-- Más allá de la muerte (2009) [Sin categoria]
-- El secreto de sus ojos (2009) [Sin categoria]
-- Bajo el mismo cielo (2009) [PELICULAS DE DRAMA]
-- Nunca juegues con extraños 2 (2008) [Sin categoria]
-- Colegas en el bosque 2 (2008) [PELICULAS INFANTILES]
-- Al otro lado del mundo (2008) [PELICULAS DE DRAMA]
-- Fumada y peligrosa (2007) [PELICULAS DE COMEDIAS]
-- Instinto básico 2: Adicción al riesgo (2006) [Sin categoria]
-- A Dirty Carnival (2006) [Sin categoria]
-- Cuatro minutos (2006) [PELICULAS DE DRAMA]
-- Colegas en el bosque (2006) [PELICULAS INFANTILES]
-- Bombón el perro (2004) [PELICULAS DE DRAMA]
-- La vida de David Gale (2003) [Sin categoria]
-- Adaptation: El ladrón de orquídeas (2002) [PELICULAS DE COMEDIAS]
-- RoboCop: Prime Directives (2001) [PELICULAS CLASICAS]
-- Memento (2000) [Sin categoria]
-- The Skulls: Sociedad secreta (2000) [Sin categoria]
-- El pequeño vampiro (2000) [PELICULAS INFANTILES]
-- Eyes wide shut (1999) [Sin categoria]
-- La novena puerta (1999) [Sin categoria]
-- Asesinato en 8mm (1999) [Sin categoria]
-- Stigmata (1999) [Sin categoria]
-- El coleccionista de huesos (1999) [Sin categoria]
-- El dilema (1999) [Sin categoria]
-- La novena puerta (1999) [Sin categoria]
-- El secreto de Thomas Crown (1999) [Sin categoria]
-- Armageddon (1998) [PELICULAS CLASICAS]
-- Acusado sin razon (1998) [PELICULAS DE COMEDIAS]
-- El laberinto rojo (1997) [Sin categoria]
-- Jackie Brown (1997) [Sin categoria]
-- Impacto inminente (1996) [PELICULAS CLASICAS]
-- Rescate (1996) [PELICULAS CLASICAS]
-- Seven (1995) [PELICULAS CLASICAS]
-- Operación trueno (1995) [PELICULAS CLASICAS]
-- Pulp Fiction (1994) [Sin categoria]
-- Cuatro bodas y un funeral (1994) [PELICULAS CLASICAS]
-- Street Fighter: La última batalla (1994) [PELICULAS CLASICAS]
-- Atrapado por su pasado (1993) [Sin categoria]
-- Un día de furia (1993) [Sin categoria]
-- Philadelphia (1993) [PELICULAS CLASICAS]
-- Fachada (1993) [PELICULAS CLASICAS]
-- El buen hijo (1993) [Sin categoria]
-- El último gran héroe (1993) [PELICULAS CLASICAS]
-- RoboCop 3 (1993) [PELICULAS CLASICAS]
-- Lunas de hiel (1992) [Sin categoria]
-- Dobles parejas (1992) [Sin categoria]
-- un pulso al poder (1992) [Sin categoria]
-- Reservoir Dogs (1992) [Sin categoria]
-- Esencia de mujer (1992) [PELICULAS CLASICAS]
-- Corazón trueno (1992) [Sin categoria]
-- Corazón de hierro (1992) [PELICULAS CLASICAS]
-- Pasajero 57 (1992) [PELICULAS CLASICAS]
+- A propósito de Henry (1991) [Sin categoria]
+- Le llaman Bodhi (1991) [PELICULAS CLASICAS]
+- Los timadores (1990) [Sin categoria]
+- RoboCop 2 (1990) [PELICULAS CLASICAS]
+- Campo de sueños (1989) [PELICULAS CLASICAS]
+- Licencia para matar (1989) [PELICULAS CLASICAS]
+- Los dioses deben estar locos 2 (1989) [PELICULAS CLASICAS]
+- La Bamba (1987) [PELICULAS CLASICAS]
+- Los tesoros del mar de China (1987) [PELICULAS CLASICAS]
+- el halcón (1987) [Sin categoria]
+- Armas invencibles (Police Story) (1985) [PELICULAS CLASICAS]
+- Panorama para matar (1985) [PELICULAS CLASICAS]
+- Amadeus (1984) [PELICULAS CLASICAS]
+- Los supercamorristas (1984) [PELICULAS CLASICAS]
+- Flashdance (1983) [PELICULAS CLASICAS]
+- Los piratas del mar de China (1983) [PELICULAS CLASICAS]
+- lobo solitario (1983) [Sin categoria]
+- Nunca digas nunca jamás (1983) [PELICULAS CLASICAS]
+- Halcones de la noche (1981) [PELICULAS CLASICAS]
+- Granujas a todo ritmo (The Blues Brothers) (1980) [PELICULAS CLASICAS]
+- Los dioses deben estar locos (1980) [PELICULAS CLASICAS]
+- Confianza (1980) [PELICULAS DE DRAMA]
+- Moonraker (1979) [PELICULAS CLASICAS]
+- Taxi Driver (1976) [Sin categoria]
+- La última esperanza (1976) [PELICULAS CLASICAS]
+- El viento y el león (1975) [PELICULAS CLASICAS]
+- El hombre de la pistola de oro (1974) [PELICULAS CLASICAS]
+- El esqueleto prehistórico (1973) [PELICULAS CLASICAS]
+- El viaje fantástico de Simbad (1973) [PELICULAS CLASICAS]
+- Drácula 73 (1972) [PELICULAS CLASICAS]
+- La naranja mecánica (1971) [PELICULAS CLASICAS]
+- Al servicio secreto de su Majestad (1969) [PELICULAS CLASICAS]
+- ¿Qué sucedió entonces? (1967) [PELICULAS CLASICAS]
+- El extravagante doctor Dolittle (1967) [PELICULAS CLASICAS]
+- El hijo de Godzilla (1967) [PELICULAS CLASICAS]
+- La gran sorpresa (1964) [PELICULAS CLASICAS]
+- el dragón de tres cabezas (1964) [Sin categoria]
+- Desde Rusia con amor (1963) [PELICULAS CLASICAS]
+- La patrulla fantasma (Captain Clegg) (1962) [PELICULAS CLASICAS]
+- Viridiana (1961) [PELICULAS CLASICAS]
+- Circo de los horrores (1960) [PELICULAS CLASICAS]
+- El apartamento (1960) [PELICULAS CLASICAS]
+- Pollyanna (1960) [PELICULAS CLASICAS]
+- El hombre de la cuarta dimensión (1959) [PELICULAS CLASICAS]
+- El regreso de la mosca (1959) [PELICULAS CLASICAS]
+- El extraño caso de Wilby (1959) [PELICULAS CLASICAS]
+- El séptimo sello (1957) [PELICULAS CLASICAS]
+- Bus Stop (1956) [PELICULAS CLASICAS]
+- Moby Dick (1956) [PELICULAS CLASICAS]
+- Ordet (La palabra) (1955) [PELICULAS CLASICAS]
+- Raíces profundas (1953) [PELICULAS CLASICAS]
+- Ciudadano Kane (1941) [PELICULAS CLASICAS]
+- Danny (So Dear To my Heart) (1948) [PELICULAS CLASICAS]
+- El signo de la cruz (1932) [PELICULAS CLASICAS]
+- Manes (2023) S01 E06 [Amazon Prime Video]
+- El Príncipe de Bel-Air (1990) S01 E12 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S01 E18 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S01 E21 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S02 E01 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S02 E04 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S02 E17 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S03 E13 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S03 E14 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S05 E01 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S05 E07 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S05 E14 [SERIES DE COMEDIAS]
+- El Príncipe de Bel-Air (1990) S06 E04 [SERIES DE COMEDIAS]
