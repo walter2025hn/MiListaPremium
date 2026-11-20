@@ -5,19 +5,19 @@ Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 359
-Enlaces inciertos comprobados y conservados: 3291
+Enlaces sustituidos con una alternativa válida: 3
+Enlaces confirmados 404/410 sin sustituto y retirados: 19
+Enlaces restringidos 401/403 conservados: 52
+Enlaces inciertos comprobados y conservados: 2798
 Enlaces aún pendientes de revisión: 94484
-Entradas finales: 99484
-Próxima posición de revisión: 5001
+Entradas finales: 99465
+Próxima posición de revisión: 10001
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1551
+- ACCION Y AVENTURA: 1550
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 413
-- DOCUMENTAL: 83
+- DOCUMENTAL: 77
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -65,11 +65,11 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 404
-- PELICULAS DE COMEDIAS: 1127
-- PELICULAS DE DRAMA: 1068
+- PELICULAS DE COMEDIAS: 1126
+- PELICULAS DE DRAMA: 1066
 - PELICULAS DE TERROR: 766
 - PELICULAS EROTICAS: 6
-- PELICULAS INFANTILES: 637
+- PELICULAS INFANTILES: 636
 - PELICULAS PARA ADULTOS: 414
 - PERU: 8
 - PPV FHD: 35
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 216
+- ROMANCE: 212
 - SERIE DE DOCUMENTALES: 138
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 204
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3564
+- Sin categoria: 3560
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,3 +249,22 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- Pinocho de Guillermo del Toro (2022) [PELICULAS DE COMEDIAS]
+- El ascenso de las Tortugas Ninja: La película (2022) [PELICULAS INFANTILES]
+- Cangrejo negro (2022) [Sin categoria]
+- Clean (2022) [Sin categoria]
+- Corazones malheridos (2022) [ROMANCE]
+- En el blanco: El ascenso y la caída de Abercrombie & Fitch (2022) [DOCUMENTAL]
+- Rencor (2021) [Sin categoria]
+- Silk Road: Atrapado en la Dark Web (2021) [Sin categoria]
+- Globo y las maravillas del arrecife (2021) [DOCUMENTAL]
+- Headspace Unwind Your Mind (2021) [DOCUMENTAL]
+- Operación Varsity Blues: Fraude universitario en EE.UU. (2021) [DOCUMENTAL]
+- Legend of the Underground (2021) [DOCUMENTAL]
+- Secretos del deporte - Delitos y penaltis (2021) [DOCUMENTAL]
+- Milagro azul (2021) [ACCION Y AVENTURA]
+- Skipping Stones (2021) [PELICULAS DE DRAMA]
+- Loco por ella (2021) [ROMANCE]
+- La infeliz (2021) [ROMANCE]
+- Madres paralelas (2021) [PELICULAS DE DRAMA]
+- Mi maravillosa vida (2021) [ROMANCE]
