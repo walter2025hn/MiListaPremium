@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99446
-Duplicados exactos eliminados: 0
+Entradas antes: 99445
+Duplicados exactos eliminados: 1
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 1
-Enlaces confirmados 404/410 sin sustituto y retirados: 1
-Enlaces restringidos 401/403 conservados: 79
-Enlaces inciertos comprobados y conservados: 2604
-Enlaces aún pendientes de revisión: 94446
-Entradas finales: 99445
-Próxima posición de revisión: 19963
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 2
+Enlaces restringidos 401/403 conservados: 29
+Enlaces inciertos comprobados y conservados: 3183
+Enlaces aún pendientes de revisión: 94444
+Entradas finales: 99442
+Próxima posición de revisión: 24961
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -64,8 +64,8 @@ Entradas finales por grupo:
 - NETFLIX: 1136
 - NOTICIA: 11
 - NUEVAS: 1095
-- PELICULAS CLASICAS: 404
-- PELICULAS DE COMEDIAS: 1126
+- PELICULAS CLASICAS: 403
+- PELICULAS DE COMEDIAS: 1125
 - PELICULAS DE DRAMA: 1065
 - PELICULAS DE TERROR: 765
 - PELICULAS EROTICAS: 6
@@ -83,7 +83,7 @@ Entradas finales por grupo:
 - SERIE DE DOCUMENTALES: 138
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 204
-- SERIES DE COMEDIAS: 308
+- SERIES DE COMEDIAS: 307
 - SERIES DE DRAMA: 367
 - SERIES DE SUSPENSO: 156
 - SERIES DE TERROR: 35
@@ -249,4 +249,5 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Wicker Man (2006) [Sin categoria]
+- La canción de Bernadette (1943) [PELICULAS CLASICAS]
+- El Príncipe de Bel-Air (1990) S01 E17 [SERIES DE COMEDIAS]
