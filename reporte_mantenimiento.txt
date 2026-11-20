@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99465
-Duplicados exactos eliminados: 3
+Entradas antes: 99446
+Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 16
-Enlaces restringidos 401/403 conservados: 50
-Enlaces inciertos comprobados y conservados: 3137
-Enlaces aún pendientes de revisión: 94462
-Entradas finales: 99446
-Próxima posición de revisión: 14979
+Enlaces sustituidos con una alternativa válida: 1
+Enlaces confirmados 404/410 sin sustituto y retirados: 1
+Enlaces restringidos 401/403 conservados: 79
+Enlaces inciertos comprobados y conservados: 2604
+Enlaces aún pendientes de revisión: 94446
+Entradas finales: 99445
+Próxima posición de revisión: 19963
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3551
+- Sin categoria: 3550
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,19 +249,4 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- El declive (2020) [Sin categoria]
-- My Nightmare Landlord (2020) [Sin categoria]
-- El poder de la ambición (2020) [Sin categoria]
-- A Secret Love (2020) [DOCUMENTAL]
-- Becoming (2020) [DOCUMENTAL]
-- hijo (2020) [Sin categoria]
-- Have a Good Trip Adventures in Psychedelics (2020) [DOCUMENTAL]
-- Coronavirus: El origen (2020) [DOCUMENTAL]
-- A todos los chicos: P.D. Todavía te quiero (2020) [ROMANCE]
-- A Violent Separation (2019) [Sin categoria]
-- Rescate en el mar Rojo (2019) [Sin categoria]
-- El túnel (2019) [Sin categoria]
-- Diego Maradona (2019) [DOCUMENTAL]
-- Persecución al límite (2016) [Sin categoria]
-- Coche policial (2015) [Sin categoria]
-- Beasts of No Nation (2015) [PELICULAS DE DRAMA]
+- Wicker Man (2006) [Sin categoria]
