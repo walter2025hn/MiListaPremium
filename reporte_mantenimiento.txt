@@ -11,7 +11,7 @@ Enlaces restringidos 401/403 conservados: 0
 Enlaces inciertos comprobados y conservados: 4991
 Enlaces aún pendientes de revisión: 94492
 Entradas finales: 99492
-Próxima posición de revisión: 64935
+Próxima posición de revisión: 69935
 
 Entradas finales por grupo:
 - 24/7: 117
