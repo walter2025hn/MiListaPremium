@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99437
-Duplicados exactos eliminados: 0
+Entradas antes: 99432
+Duplicados exactos eliminados: 1
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 1
-Enlaces confirmados 404/410 sin sustituto y retirados: 5
-Enlaces restringidos 401/403 conservados: 52
-Enlaces inciertos comprobados y conservados: 2778
-Enlaces aún pendientes de revisión: 94437
-Entradas finales: 99432
-Próxima posición de revisión: 10001
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 7
+Enlaces restringidos 401/403 conservados: 54
+Enlaces inciertos comprobados y conservados: 2967
+Enlaces aún pendientes de revisión: 94431
+Entradas finales: 99424
+Próxima posición de revisión: 14995
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 412
-- DOCUMENTAL: 71
+- DOCUMENTAL: 70
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -66,7 +66,7 @@ Entradas finales por grupo:
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
 - PELICULAS DE COMEDIAS: 1124
-- PELICULAS DE DRAMA: 1065
+- PELICULAS DE DRAMA: 1064
 - PELICULAS DE TERROR: 764
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 634
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3550
+- Sin categoria: 3544
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,8 +249,10 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Terror en el Estudio 666 (2022) [PELICULAS DE TERROR]
-- Corre y dispara (2022) [ACCION Y AVENTURA]
-- Erax (2022) [PELICULAS INFANTILES]
-- Rumspringa (2022) [PELICULAS DE COMEDIAS]
-- Tony Parker: La última canasta (2021) [DOCUMENTAL]
+- Ofrenda a la tormenta (2020) [Sin categoria]
+- Una Noche En Bangkok (2020) [Sin categoria]
+- Monstruo (2019) [Sin categoria]
+- El secuestro de Stella (2019) [Sin categoria]
+- ¿Qué pasó el 11 de Septiembre? (2019) [DOCUMENTAL]
+- Braven (El Leñador) (2018) [Sin categoria]
+- Devolver al remitente (2015) [Sin categoria]
