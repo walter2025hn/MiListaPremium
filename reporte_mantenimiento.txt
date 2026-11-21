@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
 Entradas antes: 99442
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 5000
+Enlaces comprobados en este lote: 4484
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 55
-Enlaces inciertos comprobados y conservados: 4479
-Enlaces aún pendientes de revisión: 94442
-Entradas finales: 99442
-Próxima posición de revisión: 94959
+Enlaces confirmados 404/410 sin sustituto y retirados: 5
+Enlaces restringidos 401/403 conservados: 0
+Enlaces inciertos comprobados y conservados: 1258
+Enlaces aún pendientes de revisión: 94958
+Entradas finales: 99437
+Próxima posición de revisión: 1
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -41,7 +41,7 @@ Entradas finales por grupo:
 - DEPORTES ARGENTINA HD: 18
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
-- DISNEY - Star+: 413
+- DISNEY - Star+: 412
 - DOCUMENTAL: 72
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
@@ -61,7 +61,7 @@ Entradas finales por grupo:
 - MUSICA: 36
 - NAVIDAD 2: 1
 - NBA VIP: 2
-- NETFLIX: 1136
+- NETFLIX: 1135
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
@@ -80,9 +80,9 @@ Entradas finales por grupo:
 - RELIGIOSO: 6
 - RELIGIÓN: 21
 - ROMANCE: 211
-- SERIE DE DOCUMENTALES: 138
+- SERIE DE DOCUMENTALES: 136
 - SERIES CLÁSICAS: 411
-- SERIES DE ACCIÓN: 204
+- SERIES DE ACCIÓN: 203
 - SERIES DE COMEDIAS: 307
 - SERIES DE DRAMA: 367
 - SERIES DE SUSPENSO: 156
@@ -249,3 +249,8 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- El grito de las mariposas S01 E01 [DISNEY - Star+]
+- MH370: El avión que desapareció S01 E01 [SERIE DE DOCUMENTALES]
+- Real Madrid: hasta el final S01 E01 [SERIE DE DOCUMENTALES]
+- Star Wars: La remesa mala S02 E15 [SERIES DE ACCIÓN]
+- Recursos Humanos S01 E05 [NETFLIX]
