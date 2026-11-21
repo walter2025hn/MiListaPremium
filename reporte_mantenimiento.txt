@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99442
+Entradas antes: 99437
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 4484
+Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 5
-Enlaces restringidos 401/403 conservados: 0
-Enlaces inciertos comprobados y conservados: 1258
-Enlaces aún pendientes de revisión: 94958
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 377
+Enlaces inciertos comprobados y conservados: 3248
+Enlaces aún pendientes de revisión: 94437
 Entradas finales: 99437
-Próxima posición de revisión: 1
+Próxima posición de revisión: 5001
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,8 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- El grito de las mariposas S01 E01 [DISNEY - Star+]
-- MH370: El avión que desapareció S01 E01 [SERIE DE DOCUMENTALES]
-- Real Madrid: hasta el final S01 E01 [SERIE DE DOCUMENTALES]
-- Star Wars: La remesa mala S02 E15 [SERIES DE ACCIÓN]
-- Recursos Humanos S01 E05 [NETFLIX]
