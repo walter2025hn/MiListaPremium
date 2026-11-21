@@ -5,19 +5,19 @@ Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 377
-Enlaces inciertos comprobados y conservados: 3248
+Enlaces sustituidos con una alternativa válida: 1
+Enlaces confirmados 404/410 sin sustituto y retirados: 5
+Enlaces restringidos 401/403 conservados: 52
+Enlaces inciertos comprobados y conservados: 2778
 Enlaces aún pendientes de revisión: 94437
-Entradas finales: 99437
-Próxima posición de revisión: 5001
+Entradas finales: 99432
+Próxima posición de revisión: 10001
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1549
+- ACCION Y AVENTURA: 1548
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 412
-- DOCUMENTAL: 72
+- DOCUMENTAL: 71
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -65,11 +65,11 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
-- PELICULAS DE COMEDIAS: 1125
+- PELICULAS DE COMEDIAS: 1124
 - PELICULAS DE DRAMA: 1065
-- PELICULAS DE TERROR: 765
+- PELICULAS DE TERROR: 764
 - PELICULAS EROTICAS: 6
-- PELICULAS INFANTILES: 635
+- PELICULAS INFANTILES: 634
 - PELICULAS PARA ADULTOS: 414
 - PERU: 8
 - PPV FHD: 35
@@ -249,3 +249,8 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- Terror en el Estudio 666 (2022) [PELICULAS DE TERROR]
+- Corre y dispara (2022) [ACCION Y AVENTURA]
+- Erax (2022) [PELICULAS INFANTILES]
+- Rumspringa (2022) [PELICULAS DE COMEDIAS]
+- Tony Parker: La última canasta (2021) [DOCUMENTAL]
