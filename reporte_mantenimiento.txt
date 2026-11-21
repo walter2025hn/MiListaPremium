@@ -5,19 +5,19 @@ Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 402
-Enlaces inciertos comprobados y conservados: 3442
+Enlaces sustituidos con una alternativa válida: 1
+Enlaces confirmados 404/410 sin sustituto y retirados: 16
+Enlaces restringidos 401/403 conservados: 48
+Enlaces inciertos comprobados y conservados: 2909
 Enlaces aún pendientes de revisión: 94418
-Entradas finales: 99418
-Próxima posición de revisión: 5001
+Entradas finales: 99402
+Próxima posición de revisión: 10001
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1548
+- ACCION Y AVENTURA: 1547
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -29,7 +29,7 @@ Entradas finales por grupo:
 - BRASIL: 61
 - CANALES DE SERIE: 18
 - CHILE: 10
-- CIENCIA FICCION: 468
+- CIENCIA FICCION: 467
 - CINE: 103
 - CINE ARGENTINO/URUGUAYO: 273
 - CINE CANTINFLAS: 26
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 411
-- DOCUMENTAL: 70
+- DOCUMENTAL: 67
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -65,7 +65,7 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
-- PELICULAS DE COMEDIAS: 1122
+- PELICULAS DE COMEDIAS: 1120
 - PELICULAS DE DRAMA: 1063
 - PELICULAS DE TERROR: 764
 - PELICULAS EROTICAS: 6
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 211
+- ROMANCE: 208
 - SERIE DE DOCUMENTALES: 136
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 203
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3544
+- Sin categoria: 3538
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,3 +249,19 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- espejo (2022) [Sin categoria]
+- Viviendo juntos (2022) [PELICULAS DE COMEDIAS]
+- Abandonada (2022) [Sin categoria]
+- Amandla (2022) [Sin categoria]
+- Bigbug (2022) [CIENCIA FICCION]
+- Amor y helado (2022) [ROMANCE]
+- Aguanta la respiración: Inmersión bajo el hielo (2022) [DOCUMENTAL]
+- Dos más dos (2022) [PELICULAS DE COMEDIAS]
+- Efímera como la flor del cerezo (2022) [ROMANCE]
+- Nuestro padre (2022) [DOCUMENTAL]
+- Sin miedo a las estrellas (2022) [ROMANCE]
+- La casa Gucci (2021) [Sin categoria]
+- Crack Cocaine Corruption And Conspiracy (2021) [DOCUMENTAL]
+- The Witcher: La pesadilla del lobo (2021) [ACCION Y AVENTURA]
+- Cielo rojo sangre (2021) [Sin categoria]
+- La fotocopiadora (2021) [Sin categoria]
