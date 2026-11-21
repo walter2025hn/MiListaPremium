@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99418
-Duplicados exactos eliminados: 0
+Entradas antes: 99402
+Duplicados exactos eliminados: 1
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 1
-Enlaces confirmados 404/410 sin sustituto y retirados: 16
-Enlaces restringidos 401/403 conservados: 48
-Enlaces inciertos comprobados y conservados: 2909
-Enlaces aún pendientes de revisión: 94418
-Entradas finales: 99402
-Próxima posición de revisión: 10001
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 6
+Enlaces restringidos 401/403 conservados: 56
+Enlaces inciertos comprobados y conservados: 3037
+Enlaces aún pendientes de revisión: 94401
+Entradas finales: 99395
+Próxima posición de revisión: 14984
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 411
-- DOCUMENTAL: 67
+- DOCUMENTAL: 65
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -66,7 +66,7 @@ Entradas finales por grupo:
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
 - PELICULAS DE COMEDIAS: 1120
-- PELICULAS DE DRAMA: 1063
+- PELICULAS DE DRAMA: 1062
 - PELICULAS DE TERROR: 764
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 634
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 208
+- ROMANCE: 207
 - SERIE DE DOCUMENTALES: 136
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 203
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3538
+- Sin categoria: 3535
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,19 +249,9 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- espejo (2022) [Sin categoria]
-- Viviendo juntos (2022) [PELICULAS DE COMEDIAS]
-- Abandonada (2022) [Sin categoria]
-- Amandla (2022) [Sin categoria]
-- Bigbug (2022) [CIENCIA FICCION]
-- Amor y helado (2022) [ROMANCE]
-- Aguanta la respiración: Inmersión bajo el hielo (2022) [DOCUMENTAL]
-- Dos más dos (2022) [PELICULAS DE COMEDIAS]
-- Efímera como la flor del cerezo (2022) [ROMANCE]
-- Nuestro padre (2022) [DOCUMENTAL]
-- Sin miedo a las estrellas (2022) [ROMANCE]
-- La casa Gucci (2021) [Sin categoria]
-- Crack Cocaine Corruption And Conspiracy (2021) [DOCUMENTAL]
-- The Witcher: La pesadilla del lobo (2021) [ACCION Y AVENTURA]
-- Cielo rojo sangre (2021) [Sin categoria]
-- La fotocopiadora (2021) [Sin categoria]
+- Orígenes secretos (2020) [Sin categoria]
+- Hogar (2020) [Sin categoria]
+- La cantera (2020) [Sin categoria]
+- El caso Watts: El padre homicida (2020) [DOCUMENTAL]
+- El niño de Medellín (2020) [DOCUMENTAL]
+- Been so long: Y todo cambió (2018) [PELICULAS DE DRAMA]
