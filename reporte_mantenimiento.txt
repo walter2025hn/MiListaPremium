@@ -8,10 +8,10 @@ Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
 Enlaces confirmados 404/410 sin sustituto y retirados: 0
 Enlaces restringidos 401/403 conservados: 0
-Enlaces inciertos comprobados y conservados: 4991
+Enlaces inciertos comprobados y conservados: 4971
 Enlaces aún pendientes de revisión: 94419
 Entradas finales: 99419
-Próxima posición de revisión: 59983
+Próxima posición de revisión: 64983
 
 Entradas finales por grupo:
 - 24/7: 117
