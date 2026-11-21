@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99424
-Duplicados exactos eliminados: 0
+Entradas antes: 99422
+Duplicados exactos eliminados: 1
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 1
+Enlaces sustituidos con una alternativa válida: 0
 Enlaces confirmados 404/410 sin sustituto y retirados: 2
-Enlaces restringidos 401/403 conservados: 77
-Enlaces inciertos comprobados y conservados: 2498
-Enlaces aún pendientes de revisión: 94424
-Entradas finales: 99422
-Próxima posición de revisión: 19988
+Enlaces restringidos 401/403 conservados: 29
+Enlaces inciertos comprobados y conservados: 3173
+Enlaces aún pendientes de revisión: 94421
+Entradas finales: 99419
+Próxima posición de revisión: 24985
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -23,7 +23,7 @@ Entradas finales por grupo:
 - Adultos: 345
 - Adultos +18: 31
 - Adultos +18 Goldtv: 4
-- Amazon Prime Video: 620
+- Amazon Prime Video: 618
 - Apple TV+: 137
 - BELICO: 265
 - BRASIL: 61
@@ -65,7 +65,7 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
-- PELICULAS DE COMEDIAS: 1123
+- PELICULAS DE COMEDIAS: 1122
 - PELICULAS DE DRAMA: 1063
 - PELICULAS DE TERROR: 764
 - PELICULAS EROTICAS: 6
@@ -249,5 +249,5 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- El baño del Papa (2007) [PELICULAS DE DRAMA]
-- Viaje a Darjeeling (2007) [PELICULAS DE COMEDIAS]
+- Manes (2023) S01 E01 [Amazon Prime Video]
+- Manes (2023) S01 E02 [Amazon Prime Video]
