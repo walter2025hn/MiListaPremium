@@ -6,12 +6,12 @@ Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 39
-Enlaces inciertos comprobados y conservados: 1757
+Enlaces confirmados 404/410 sin sustituto y retirados: 2
+Enlaces restringidos 401/403 conservados: 425
+Enlaces inciertos comprobados y conservados: 1224
 Enlaces aún pendientes de revisión: 94379
-Entradas finales: 99379
-Próxima posición de revisión: 9999
+Entradas finales: 99377
+Próxima posición de revisión: 14999
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3534
+- Sin categoria: 3532
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,3 +249,5 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- Mrs. Serial Killer (2020) [Sin categoria]
+- La sombra de la ley (2018) [Sin categoria]
