@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99402
-Duplicados exactos eliminados: 1
+Entradas antes: 99395
+Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 6
-Enlaces restringidos 401/403 conservados: 56
-Enlaces inciertos comprobados y conservados: 3037
-Enlaces aún pendientes de revisión: 94401
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 81
+Enlaces inciertos comprobados y conservados: 2493
+Enlaces aún pendientes de revisión: 94395
 Entradas finales: 99395
-Próxima posición de revisión: 14984
+Próxima posición de revisión: 19978
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,9 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Orígenes secretos (2020) [Sin categoria]
-- Hogar (2020) [Sin categoria]
-- La cantera (2020) [Sin categoria]
-- El caso Watts: El padre homicida (2020) [DOCUMENTAL]
-- El niño de Medellín (2020) [DOCUMENTAL]
-- Been so long: Y todo cambió (2018) [PELICULAS DE DRAMA]
