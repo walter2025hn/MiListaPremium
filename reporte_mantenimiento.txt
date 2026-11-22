@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
 Entradas antes: 99382
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 5000
+Enlaces comprobados en este lote: 4394
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 48
-Enlaces inciertos comprobados y conservados: 1314
-Enlaces aún pendientes de revisión: 94382
-Entradas finales: 99382
-Próxima posición de revisión: 94989
+Enlaces confirmados 404/410 sin sustituto y retirados: 1
+Enlaces restringidos 401/403 conservados: 6
+Enlaces inciertos comprobados y conservados: 1223
+Enlaces aún pendientes de revisión: 94988
+Entradas finales: 99381
+Próxima posición de revisión: 1
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -41,7 +41,7 @@ Entradas finales por grupo:
 - DEPORTES ARGENTINA HD: 18
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
-- DISNEY - Star+: 410
+- DISNEY - Star+: 409
 - DOCUMENTAL: 62
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
@@ -249,3 +249,4 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
+- El grito de las mariposas S01 E03 [DISNEY - Star+]
