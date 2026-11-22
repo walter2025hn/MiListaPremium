@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99381
+Entradas antes: 99379
 Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 2
-Enlaces restringidos 401/403 conservados: 1263
-Enlaces inciertos comprobados y conservados: 1514
-Enlaces aún pendientes de revisión: 94381
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 39
+Enlaces inciertos comprobados y conservados: 1757
+Enlaces aún pendientes de revisión: 94379
 Entradas finales: 99379
-Próxima posición de revisión: 5001
+Próxima posición de revisión: 9999
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,5 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Canal 36 FHD (Costa Rica) [️ Canales]
-- Canal Misiones 4 - Misiones [️ Argentina Regionales]
