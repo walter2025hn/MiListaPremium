@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
 Entradas antes: 99377
 Duplicados exactos eliminados: 0
-Enlaces comprobados en este lote: 4381
+Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 0
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
 Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 110
-Enlaces inciertos comprobados y conservados: 3508
-Enlaces aún pendientes de revisión: 94996
+Enlaces restringidos 401/403 conservados: 360
+Enlaces inciertos comprobados y conservados: 3618
+Enlaces aún pendientes de revisión: 94377
 Entradas finales: 99377
-Próxima posición de revisión: 1
+Próxima posición de revisión: 5001
 
 Entradas finales por grupo:
 - 24/7: 117
