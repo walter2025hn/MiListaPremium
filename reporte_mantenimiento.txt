@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99376
-Duplicados exactos eliminados: 0
+Entradas antes: 99367
+Duplicados exactos eliminados: 1
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 1
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 1
-Enlaces confirmados 404/410 sin sustituto y retirados: 9
-Enlaces restringidos 401/403 conservados: 47
-Enlaces inciertos comprobados y conservados: 2907
-Enlaces aún pendientes de revisión: 94376
-Entradas finales: 99367
-Próxima posición de revisión: 10001
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 7
+Enlaces restringidos 401/403 conservados: 51
+Enlaces inciertos comprobados y conservados: 3033
+Enlaces aún pendientes de revisión: 94366
+Entradas finales: 99359
+Próxima posición de revisión: 14991
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 408
-- DOCUMENTAL: 58
+- DOCUMENTAL: 57
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -65,7 +65,7 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
-- PELICULAS DE COMEDIAS: 1115
+- PELICULAS DE COMEDIAS: 1114
 - PELICULAS DE DRAMA: 1058
 - PELICULAS DE TERROR: 764
 - PELICULAS EROTICAS: 6
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3531
+- Sin categoria: 3525
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,12 +249,10 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Mundo extraño (2022) [PELICULAS DE COMEDIAS]
-- El equipo redentor (2022) [DOCUMENTAL]
-- El fotógrafo y el cartero: El crimen de Cabezas (2022) [DOCUMENTAL]
-- La fierecilla indomable (2022) [PELICULAS DE COMEDIAS]
-- Las niñas de cristal (2022) [PELICULAS DE DRAMA]
-- Ladrones de élite (2021) [Sin categoria]
-- En busca de Sheela (2021) [DOCUMENTAL]
-- Una casa de locos: La película (2021) [PELICULAS DE COMEDIAS]
-- El Sabotaje (2021) [DOCUMENTAL]
+- Arkansas: Un lugar peligroso (2020) [Sin categoria]
+- Mommy? (2020) [Sin categoria]
+- Parásitos (2019) [Sin categoria]
+- Quien a hierro mata (2019) [Sin categoria]
+- Seberg: Más allá del cine (2019) [Sin categoria]
+- malvado y perverso (2019) [Sin categoria]
+- La democracia en peligro (2019) [DOCUMENTAL]
