@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99349
-Duplicados exactos eliminados: 2
+Entradas antes: 99341
+Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 1
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 6
-Enlaces restringidos 401/403 conservados: 54
-Enlaces inciertos comprobados y conservados: 3052
-Enlaces aún pendientes de revisión: 94347
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 202
+Enlaces inciertos comprobados y conservados: 2519
+Enlaces aún pendientes de revisión: 94341
 Entradas finales: 99341
-Próxima posición de revisión: 14991
+Próxima posición de revisión: 19985
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,9 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- El dilema de las redes sociales (2020) [DOCUMENTAL]
-- Jungle Beat: la película (2020) [PELICULAS DE COMEDIAS]
-- Amor garantizado (2020) [ROMANCE]
-- Lo Que Seré (2019) [Sin categoria]
-- Nuestro planeta: Tras las cámaras (2019) [DOCUMENTAL]
-- Un paseo por el bosque (2015) [ACCION Y AVENTURA]
