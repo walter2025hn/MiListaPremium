@@ -1,17 +1,17 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99367
-Duplicados exactos eliminados: 1
+Entradas antes: 99359
+Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 1
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
-Enlaces confirmados 404/410 sin sustituto y retirados: 7
-Enlaces restringidos 401/403 conservados: 51
-Enlaces inciertos comprobados y conservados: 3033
-Enlaces aún pendientes de revisión: 94366
+Enlaces confirmados 404/410 sin sustituto y retirados: 0
+Enlaces restringidos 401/403 conservados: 80
+Enlaces inciertos comprobados y conservados: 2599
+Enlaces aún pendientes de revisión: 94359
 Entradas finales: 99359
-Próxima posición de revisión: 14991
+Próxima posición de revisión: 19984
 
 Entradas finales por grupo:
 - 24/7: 117
@@ -249,10 +249,3 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Arkansas: Un lugar peligroso (2020) [Sin categoria]
-- Mommy? (2020) [Sin categoria]
-- Parásitos (2019) [Sin categoria]
-- Quien a hierro mata (2019) [Sin categoria]
-- Seberg: Más allá del cine (2019) [Sin categoria]
-- malvado y perverso (2019) [Sin categoria]
-- La democracia en peligro (2019) [DOCUMENTAL]
