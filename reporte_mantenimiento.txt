@@ -1,23 +1,23 @@
 REPORTE DE MANTENIMIENTO — CÓDIGO MASTER
-Entradas antes: 99353
-Duplicados exactos eliminados: 0
+Entradas antes: 99349
+Duplicados exactos eliminados: 2
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
 Fuentes de reemplazo no disponibles: 1
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
-Enlaces sustituidos con una alternativa válida: 2
-Enlaces confirmados 404/410 sin sustituto y retirados: 4
-Enlaces restringidos 401/403 conservados: 51
-Enlaces inciertos comprobados y conservados: 2763
-Enlaces aún pendientes de revisión: 94353
-Entradas finales: 99349
-Próxima posición de revisión: 9997
+Enlaces sustituidos con una alternativa válida: 0
+Enlaces confirmados 404/410 sin sustituto y retirados: 6
+Enlaces restringidos 401/403 conservados: 54
+Enlaces inciertos comprobados y conservados: 3052
+Enlaces aún pendientes de revisión: 94347
+Entradas finales: 99341
+Próxima posición de revisión: 14991
 
 Entradas finales por grupo:
 - 24/7: 117
 - 24/7 VIP: 250
 - 4 K: 262
-- ACCION Y AVENTURA: 1546
+- ACCION Y AVENTURA: 1544
 - ANIME 2: 1
 - ARGENTINA: 28
 - Adultos: 345
@@ -42,7 +42,7 @@ Entradas finales por grupo:
 - DEPORTES ESPAÑA: 19
 - DEPORTES MEXICO: 19
 - DISNEY - Star+: 406
-- DOCUMENTAL: 56
+- DOCUMENTAL: 54
 - DOCUMENTAL 2: 31
 - DOCUMENTALES: 40
 - ENTRETENIMIENTOS: 33
@@ -65,9 +65,9 @@ Entradas finales por grupo:
 - NOTICIA: 11
 - NUEVAS: 1095
 - PELICULAS CLASICAS: 403
-- PELICULAS DE COMEDIAS: 1114
+- PELICULAS DE COMEDIAS: 1113
 - PELICULAS DE DRAMA: 1058
-- PELICULAS DE TERROR: 764
+- PELICULAS DE TERROR: 763
 - PELICULAS EROTICAS: 6
 - PELICULAS INFANTILES: 633
 - PELICULAS PARA ADULTOS: 414
@@ -79,7 +79,7 @@ Entradas finales por grupo:
 - REALITY SHOW: 6
 - RELIGIOSO: 6
 - RELIGIÓN: 21
-- ROMANCE: 205
+- ROMANCE: 204
 - SERIE DE DOCUMENTALES: 136
 - SERIES CLÁSICAS: 411
 - SERIES DE ACCIÓN: 203
@@ -90,7 +90,7 @@ Entradas finales por grupo:
 - SERIES EN EMISION: 159
 - SERIES FICCION: 71
 - SERIES INFANTILES: 535
-- Sin categoria: 3524
+- Sin categoria: 3523
 - TELENOVELAS: 14
 - TERROR 2: 1
 - URUGUAY: 28
@@ -249,7 +249,9 @@ Entradas finales por grupo:
 - ️Western: 105
 
 Elementos retirados sin sustituto (solo nombres; no se publican URLs):
-- Reviviendo la Navidad (2022) [ESPECIAL DE NAVIDAD]
-- Centauro (2022) [Sin categoria]
-- No puedes fiarte de nadie: A la caza del rey de la criptomoneda (2022) [DOCUMENTAL]
-- BAC Nord: Brigada de Investigación Criminal (2021) [ACCION Y AVENTURA]
+- El dilema de las redes sociales (2020) [DOCUMENTAL]
+- Jungle Beat: la película (2020) [PELICULAS DE COMEDIAS]
+- Amor garantizado (2020) [ROMANCE]
+- Lo Que Seré (2019) [Sin categoria]
+- Nuestro planeta: Tras las cámaras (2019) [DOCUMENTAL]
+- Un paseo por el bosque (2015) [ACCION Y AVENTURA]
