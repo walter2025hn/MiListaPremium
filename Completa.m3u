@@ -331,8 +331,6 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/300291.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/308075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMAG TV CL" tvg-logo="http://goldfull.pro:8880/images/b11fed8781bcba64d530b77b299cfabe.png" group-title="️ CHILE REGIONALES",UMAG TV CL
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/308131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UMAG TV 2 CL" tvg-logo="http://goldfull.pro:8880/images/b11fed8781bcba64d530b77b299cfabe.png" group-title="️ CHILE REGIONALES",UMAG TV 2 CL
-http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/308132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITV PATAGONIA" tvg-logo="http://redworld.pro:8880/images/3466f9a8b58424cce933a7831df1a65e.png" group-title="️ CHILE REGIONALES",ITV PATAGONIA
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/308133.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pingüino tv CL" tvg-logo="http://goldfull.pro:8880/images/4fac3513374b9b98b81f0bad844db8d9.png" group-title="️ CHILE REGIONALES",Pingüino tv CL
@@ -681,8 +679,6 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/359924.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/359925.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal UNLP - Buenos Aires" tvg-logo="" group-title="️ Argentina Regionales",Canal UNLP - Buenos Aires
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/359927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Mar del Plata - Buenos Aires" tvg-logo="" group-title="️ Argentina Regionales",Canal 8 Mar del Plata - Buenos Aires
-http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/359928.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Telemix - Buenos Aires" tvg-logo="" group-title="️ Argentina Regionales",Canal Telemix - Buenos Aires
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/359930.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 3 Pinamar- Buenos Aires" tvg-logo="" group-title="️ Argentina Regionales",Canal 3 Pinamar- Buenos Aires
@@ -769,8 +765,6 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/376577.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/376580.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV |CL" tvg-logo="http://goldfull.pro:8880/images/2ed004c71a96da9b5150552814e8ea52.png" group-title="Zona Retro",Recuerdos Retro Radio TV |CL
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/376388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="http://redworld.pro:8880/images/fb699fedec770b613911bfb4f46ffb9b.png" group-title="Zona Retro",Retro Plus TV
-http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/376438.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Chilevisual Retro | CL" tvg-logo="http://goldfull.pro:8880/images/4e805cae54845ce407ce0b83df8e310a.png" group-title="Zona Retro",Chilevisual Retro | CL
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/376583.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR | FUT SPORTS OP2" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="️ Deporte Argentina",AR | FUT SPORTS OP2
@@ -1281,8 +1275,6 @@ http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429029.m3u8
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| MEGA TV JAEN" tvg-logo="http://redworld.pro:8880/images/fab6643931cd73f38d9fe5cefa4b6897.png" group-title="️ PERU",PE| MEGA TV JAEN
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE| MEGA CINE" tvg-logo="http://redworld.pro:8880/images/79add281d47c9e3bdeee0a1504d259d6.jpg" group-title="️ PERU",PE| MEGA CINE
-http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429033.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| BHTV" tvg-logo="http://redworld.pro:8880/images/78e353ad0a2f47696a03e22d61481732.png" group-title="️ PERU",PE| BHTV
 http://redworld.pro:8880/live/56997763248f/YZqcYbQdQzUh/429034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Antares TV" tvg-logo="http://redworld.pro:8880/images/ddef5c8d2021a6ccfaa9c5e5e9296a92.png" group-title="️ PERU",PE| Antares TV
