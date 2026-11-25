@@ -3,15 +3,15 @@ Entradas antes: 99341
 Duplicados exactos eliminados: 0
 Enlaces comprobados en este lote: 5000
 Reintentos ante fallos transitorios: hasta 3 intentos por URL
-Fuentes de reemplazo no disponibles: 1
+Fuentes de reemplazo no disponibles: 2
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
 Enlaces confirmados 404/410 sin sustituto y retirados: 0
 Enlaces restringidos 401/403 conservados: 0
-Enlaces inciertos comprobados y conservados: 4981
+Enlaces inciertos comprobados y conservados: 5000
 Enlaces aún pendientes de revisión: 94341
 Entradas finales: 99341
-Próxima posición de revisión: 79985
+Próxima posición de revisión: 84985
 
 Entradas finales por grupo:
 - 24/7: 117
