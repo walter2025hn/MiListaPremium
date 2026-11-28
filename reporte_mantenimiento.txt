@@ -7,11 +7,11 @@ Fuentes de reemplazo no disponibles: 1
 Criterio de retiro: todos los intentos deben responder HTTP 404/410.
 Enlaces sustituidos con una alternativa válida: 0
 Enlaces confirmados 404/410 sin sustituto y retirados: 0
-Enlaces restringidos 401/403 conservados: 29
-Enlaces inciertos comprobados y conservados: 774
+Enlaces restringidos 401/403 conservados: 16
+Enlaces inciertos comprobados y conservados: 819
 Enlaces aún pendientes de revisión: 94325
 Entradas finales: 99325
-Próxima posición de revisión: 75000
+Próxima posición de revisión: 80000
 
 Entradas finales por grupo:
 - 24/7: 117
